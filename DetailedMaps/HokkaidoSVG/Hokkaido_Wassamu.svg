@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1231" height="874">
+<path style="fill:#010101; stroke:none;" d="M0 0L0 874L1231 874L1231 0L0 0z"/>
+<path style="fill:#fdfcfd; stroke:none;" d="M612 325L613 328L611 327L612 332L613 332L612 325z"/>
+<path style="fill:#ffffff; stroke:none;" d="M611 326L613 328L613 326L611 326M607 332L598 334L599 332L582 338L586 352L589 350C591.188 351.702 592.638 350.073 594 348C601.338 350.168 610.648 348.771 618 347L619 345L619 344L614 344L615 328L613 328L613 332L612 332L611 327L607 332z"/>
+<path style="fill:#f9f9f9; stroke:none;" d="M607 329L608 330L607 329M602.667 331.333L603.333 331.667L602.667 331.333z"/>
+<path style="fill:#fdfcfd; stroke:none;" d="M605.667 331.333L606.333 331.667L605.667 331.333M598 333L598 334L602 333L598 333M593 334L594 335L593 334M595 334L594 336L595 334M597 334L598 335L597 334M587 336L584 340L587 336M583 337L584 338L583 337M591 338L590 340L591 338z"/>
+<path style="fill:#f9f9f9; stroke:none;" d="M582 339L584 341L582 339z"/>
+<path style="fill:#fdfcfd; stroke:none;" d="M582 340L583 341L582 340z"/>
+<path style="fill:#f9f9f9; stroke:none;" d="M613 340L612 342L613 340z"/>
+<path style="fill:#fdfcfd; stroke:none;" d="M615 342L614 344L616 344L615 342z"/>
+<path style="fill:#f9f9f9; stroke:none;" d="M612 343L613 344L612 343z"/>
+<path style="fill:#fdfcfd; stroke:none;" d="M583 345L584 346L583 345M617.667 345.333L618.333 345.667L617.667 345.333M594 348L595 349L594 348M604 348L605 349L604 348M606 348L607 349L606 348z"/>
+<path style="fill:#f6f6f6; stroke:none;" d="M609 348L610 349L609 348z"/>
+<path style="fill:#fdfcfd; stroke:none;" d="M610.667 348.333L611.333 348.667L610.667 348.333z"/>
+<path style="fill:#f6f6f6; stroke:none;" d="M583 349L584 350L583 349z"/>
+<path style="fill:#fdfcfd; stroke:none;" d="M584 349L587 351L587 350L584 349z"/>
+<path style="fill:#f9f9f9; stroke:none;" d="M585 349L586 350L585 349M589 349L590 350L589 349z"/>
+<path style="fill:#fdfcfd; stroke:none;" d="M591 349L592 350L591 349M608 349L609 350L608 349z"/>
+<path style="fill:#ffffff; stroke:none;" d="M584 350L585 351L584 350z"/>
+<path style="fill:#f6f6f6; stroke:none;" d="M588 350L589 351L588 350z"/>
+<path style="fill:#f9f9f9; stroke:none;" d="M588 351L589 352L588 351z"/>
+</svg>

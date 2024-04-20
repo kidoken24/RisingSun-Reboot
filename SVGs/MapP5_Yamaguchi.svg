@@ -1,0 +1,101 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1450" height="800">
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#010101; stroke:none;" d="M0 0L0 800L1450 800L1450 0L0 0z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#ffffff; stroke:none;" d="M399 22C394.365 25.6013 391.484 24.7906 386 24C385.657 34.5461 372.553 44.229 365.225 50.6343C359.632 55.5226 357.232 65.0496 351.621 70.7716C343.599 78.9523 329.574 80.4825 319 83C320.207 77.1601 324.159 76.4482 329 74L329 73L313 74L317 78C311.66 88.554 307.18 75.3085 300.985 74.2322C296.793 73.5042 292.977 76.5613 289.004 75.7176C283.676 74.5862 279.981 67.884 277 76C295.714 81.701 278.545 88.6071 267 86C266.576 90.8206 262.188 96.4859 262.863 101C264.02 108.733 273.337 112.986 271.707 122C270.552 128.389 258.884 132.775 263.458 139.683C266.988 145.015 283.739 144.306 289.83 147.9C296.793 152.01 304.355 155.729 310.123 161.468C312.524 163.858 311.386 169.324 314.333 170.714C316.294 171.639 318.88 170.456 321 170.931C324.068 171.62 326.688 173.848 330 173.382C342.449 171.631 346.3 159.322 349 149L351 149L352 162L355 159C361.69 160.961 364.202 158.896 363 152C372.744 158.918 377.345 158.568 387 152L387 154L391 150C398.213 151.19 404.498 149.041 411 146L410 149L411 150C423.058 147.421 420.714 156.192 416 163L429 159.697L455 177.442L469.656 182.394L473 193C484.838 192.078 472.222 179.076 474.643 172.044C476.476 166.721 482.972 167.694 485.91 163.697C491.365 156.277 489.01 143.158 487 135C495.53 131.602 495.043 127.256 494 119C478.872 120.685 477.381 103.92 472.515 94.2902C470.089 89.4873 464.988 87.8226 464.189 81.9992C463.437 76.5169 465.734 71.4585 465 66C452.4 66.4126 457.344 76.2111 455.308 83.9105C454.495 86.9832 450.528 92.4523 448.215 94.6235C445.062 97.5834 442.48 93.1074 438.961 94.081C429.239 96.7705 412.872 101.453 412.908 84C412.917 79.925 415.577 76.1294 416 72C406.921 72.7156 395.406 68.0464 397.519 56C398.443 50.7344 403.73 46.5967 404.41 41C404.965 36.4374 400.941 26.3279 399 22z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#f1f1f1; stroke:none;" d="M397 23L398 24L397 23M396 24L397 25L396 24M392 25L393 26L392 25z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#e6e6e6; stroke:none;" d="M394 25L395 26L394 25z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#f1f1f1; stroke:none;" d="M400 27L401 28L400 27M400 30L401 31L400 30z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#dbdbdb; stroke:none;" d="M377.333 35.6667L377.667 36.3333L377.333 35.6667z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#e6e6e6; stroke:none;" d="M377 37L378 38L377 37z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#f1f1f1; stroke:none;" d="M377.333 38.6667L377.667 39.3333L377.333 38.6667M404 38L405 39L404 38M376 42L377 43L376 42z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#e6e6e6; stroke:none;" d="M375 43L376 44L375 43M374 44L375 45L374 44z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#f1f1f1; stroke:none;" d="M373 45L374 46L373 45M402 45L403 46L402 45z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#e6e6e6; stroke:none;" d="M370 47L371 48L370 47M368 48L369 49L368 48M366 49L367 50L366 49M364 50L365 51L364 50z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#dbdbdb; stroke:none;" d="M363 51L364 52L363 51z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#e6e6e6; stroke:none;" d="M362 53L363 54L362 53M361 55L362 56L361 55z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#f1f1f1; stroke:none;" d="M361 56L362 57L361 56M361 59L362 60L361 59z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#e6e6e6; stroke:none;" d="M360 60L361 61L360 60z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#f1f1f1; stroke:none;" d="M359 61L360 62L359 61M400 63L401 64L400 63M355 65L356 66L355 65z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#e6e6e6; stroke:none;" d="M354 66L355 67L354 66z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#f1f1f1; stroke:none;" d="M400 66L401 67L400 66M353 68L354 69L353 68M465 68L466 69L465 68M352 70L353 71L352 70M456 70L457 71L456 70z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#dbdbdb; stroke:none;" d="M350 72L351 73L350 72M329 73L330 74L329 73M344 73L345 74L344 73z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#e6e6e6; stroke:none;" d="M345.667 73.3333L346.333 73.6667L345.667 73.3333z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#f1f1f1; stroke:none;" d="M347.667 73.3333L348.333 73.6667L347.667 73.3333M416 73L417 74L416 73M328 74L329 75L328 74z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#e6e6e6; stroke:none;" d="M341 74L342 75L341 74z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#f1f1f1; stroke:none;" d="M454 74L455 75L454 74z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#dbdbdb; stroke:none;" d="M305 75L306 76L305 75z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#f1f1f1; stroke:none;" d="M326 75L327 76L326 75z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#dbdbdb; stroke:none;" d="M327 75L328 76L327 75z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#f1f1f1; stroke:none;" d="M340 75L341 76L340 75M313 76L314 77L313 76M322 76L323 77L322 76z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#e6e6e6; stroke:none;" d="M323 76L324 77L323 76z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#dbdbdb; stroke:none;" d="M324 76L325 77L324 76z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#f1f1f1; stroke:none;" d="M339 76L340 77L339 76z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#e6e6e6; stroke:none;" d="M306 77L307 78L306 77M314 77L315 78L314 77z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#dbdbdb; stroke:none;" d="M320 77L321 78L320 77z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#f1f1f1; stroke:none;" d="M316 78L317 79L316 78M338 78L339 79L338 78z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#e6e6e6; stroke:none;" d="M316 79L317 80L316 79M319 79L320 80L319 79M336 79L337 80L336 79z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#f1f1f1; stroke:none;" d="M316 80L317 81L316 80z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#dbdbdb; stroke:none;" d="M333 80L334 81L333 80z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#f1f1f1; stroke:none;" d="M334 80L335 81L334 80z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#e6e6e6; stroke:none;" d="M308 81L309 82L308 81M315 81L316 82L315 81z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#dbdbdb; stroke:none;" d="M326 81L327 82L326 81z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#e6e6e6; stroke:none;" d="M327.667 81.3333L328.333 81.6667L327.667 81.3333z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#f1f1f1; stroke:none;" d="M329.667 81.3333L330.333 81.6667L329.667 81.3333z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#e6e6e6; stroke:none;" d="M310 82L311 83L310 82M314 82L315 83L314 82z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#dbdbdb; stroke:none;" d="M320 82L321 83L320 82z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#f1f1f1; stroke:none;" d="M286 83L287 84L286 83z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#e6e6e6; stroke:none;" d="M282 85L283 86L282 85z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#f1f1f1; stroke:none;" d="M455 85L456 86L455 85z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#e6e6e6; stroke:none;" d="M279 86L280 87L279 86z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#f1f1f1; stroke:none;" d="M280 86L281 87L280 86M454 86L455 87L454 86M436 95L437 96L436 95M447 96L448 97L447 96M421 97L422 98L421 97M473 97L474 98L473 97M474 99L475 100L474 99M475 101L476 102L475 101z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#e6e6e6; stroke:none;" d="M266 107L267 108L266 107z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#f1f1f1; stroke:none;" d="M476 107L477 108L476 107M267 108L268 109L267 108M269 111L270 112L269 111M270 113L271 114L270 113M479 113L479 114L482 114L479 113z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#e6e6e6; stroke:none;" d="M345 115L348 117L345 115z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#f1f1f1; stroke:none;" d="M347 115L348 116L347 115M271 116L272 117L271 116M345 116L346 117L345 116M486 116L487 117L486 116z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#e6e6e6; stroke:none;" d="M494 122L495 123L494 122M271 123L272 124L271 123z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#f1f1f1; stroke:none;" d="M271 124L272 125L271 124M377 126L378 127L377 126M392 126L393 127L392 126M398 126L399 127L398 126M269 127L270 128L269 127M268 128L269 129L268 128M267 129L268 130L267 129M327.667 129.333L328.333 129.667L327.667 129.333M266 130L267 131L266 130z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#e6e6e6; stroke:none;" d="M494 131L495 132L494 131z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#f1f1f1; stroke:none;" d="M490 133L491 134L490 133z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#e6e6e6; stroke:none;" d="M488 134L489 135L488 134z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#f1f1f1; stroke:none;" d="M487 136L488 137L487 136z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#e6e6e6; stroke:none;" d="M488 141L489 142L488 141z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#f1f1f1; stroke:none;" d="M488 142L489 143L488 142z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#e6e6e6; stroke:none;" d="M410 146L411 147L410 146z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#f1f1f1; stroke:none;" d="M407 147L408 148L407 147M410 147L411 148L410 147z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#e6e6e6; stroke:none;" d="M405 148L406 149L405 148z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#dbdbdb; stroke:none;" d="M349 149L350 150L349 149z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#f1f1f1; stroke:none;" d="M350 149L351 150L350 149M402 149L403 150L402 149M410 149L411 150L410 149M412 149L412 150L418 150L412 149M293 150L294 151L293 150M348 150L349 151L348 150M391 150L392 151L391 150z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#e6e6e6; stroke:none;" d="M392 150L393 151L392 150z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#f1f1f1; stroke:none;" d="M393 150L394 151L393 150M397.667 150.333L398.333 150.667L397.667 150.333z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#e6e6e6; stroke:none;" d="M399 150L400 151L399 150M419 150L420 151L419 150z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#dbdbdb; stroke:none;" d="M351 151L352 152L351 151z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#e6e6e6; stroke:none;" d="M420 151L421 152L420 151M299 152L300 153L299 152z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#f1f1f1; stroke:none;" d="M300 152L301 153L300 152M352 152L353 153L352 152M363 152L364 153L363 152z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#dbdbdb; stroke:none;" d="M385 152L386 153L385 152z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#e6e6e6; stroke:none;" d="M386 152L387 153L386 152z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#f1f1f1; stroke:none;" d="M421 152L422 153L421 152M365 153L366 154L365 153z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#e6e6e6; stroke:none;" d="M384 153L385 154L384 153M389 153L390 154L389 153z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#f1f1f1; stroke:none;" d="M353 154L354 155L353 154M363 154L364 155L363 154z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#e6e6e6; stroke:none;" d="M366 154L367 155L366 154M383 154L384 155L383 154z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#f1f1f1; stroke:none;" d="M302 155L303 156L302 155M347 155L348 156L347 155M382 155L383 156L382 155M353 156L354 157L353 156z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#e6e6e6; stroke:none;" d="M369 156L370 157L369 156M381 156L382 157L381 156M421 156L422 157L421 156M303 157L304 158L303 157z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#f1f1f1; stroke:none;" d="M346 157L347 158L346 157M371 157L372 158L371 157M304 158L305 159L304 158z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#dbdbdb; stroke:none;" d="M380 158L381 159L380 158z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#f1f1f1; stroke:none;" d="M427.667 158.333L428.333 158.667L427.667 158.333M305 159L306 160L305 159z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#e6e6e6; stroke:none;" d="M308 159L309 160L308 159z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#f1f1f1; stroke:none;" d="M345 159L346 160L345 159M355 159L356 160L355 159z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#e6e6e6; stroke:none;" d="M418 159L419 160L418 159z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#f1f1f1; stroke:none;" d="M425 159L426 160L425 159M306 160L307 161L306 160M309 160L310 161L309 160M351.333 160.667L351.667 161.333L351.333 160.667z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#e6e6e6; stroke:none;" d="M358 160L359 161L358 160z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#f1f1f1; stroke:none;" d="M359 160L360 161L359 160M361 160L362 161L361 160M423 160L424 161L423 160M431 160L432 161L431 160M310 161L311 162L310 161z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#e6e6e6; stroke:none;" d="M344 161L345 162L344 161M432 161L433 162L432 161M312 163L313 164L312 163z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#f1f1f1; stroke:none;" d="M435 163L436 164L435 163z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#e6e6e6; stroke:none;" d="M436 164L437 165L436 164z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#f1f1f1; stroke:none;" d="M312 166L313 167L312 166M439 166L440 167L439 166z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#e6e6e6; stroke:none;" d="M440 167L441 168L440 167z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#f1f1f1; stroke:none;" d="M476 168L477 169L476 168M443 169L444 170L443 169z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#e6e6e6; stroke:none;" d="M444 170L445 171L444 170M474 170L475 171L474 170z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#f1f1f1; stroke:none;" d="M447 172L448 173L447 172z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#e6e6e6; stroke:none;" d="M448 173L449 174L448 173z"/>
+                        <path onclick = "Yamaguchi()" class = "Yamaguchi" style = "fill:#dbdbdb; stroke:none;" d="M448 174L449 175L448 174z"/>
+</svg>

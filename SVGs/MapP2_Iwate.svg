@@ -1,0 +1,100 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1450" height="800">
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#010101; stroke:none;" d="M0 0L0 800L1450 800L1450 0L0 0z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#ffffff; stroke:none;" d="M583 406C576.246 409.557 569.995 414.446 563 417.475C559.268 419.09 554.607 419.058 551.143 421.164C545.342 424.692 542.794 431.714 536 434.997C526.912 439.388 520.449 430.327 512.434 440.174C507.947 445.685 511.554 451.853 510.733 458C509.881 464.382 504.779 467.998 505.04 475C505.29 481.697 505.239 489.429 506.468 496C507.296 500.427 510.437 505.39 509.476 509.981C507.655 518.683 496.591 509.328 494.346 517.094C492.983 521.807 501.511 524.726 502.542 529.001C503.595 533.366 497.909 538.45 497.372 543C496.543 550.022 502.106 555.385 500.482 563C498.648 571.6 492.691 575.111 488.272 582.015C484.858 587.347 484.47 593.51 481.698 599C479.358 603.631 475.513 606.489 475.098 612C474.471 620.329 478.299 634.801 483.086 641.674C485.865 645.665 490.697 647.066 492.351 652.015C495.961 662.817 490.03 673.189 490 684C503.937 687.671 491.981 701.3 493 711C507.364 712.945 517.216 725.637 530.039 729.929C536.913 732.229 545.468 726.264 551.772 730.858C556.671 734.428 553.273 739.277 553.579 743.999C553.973 750.08 562.263 755.372 568 755.138C575.331 754.84 579.405 745.988 587 745.438C591.611 745.103 596.324 750.737 600.362 746.667C607.349 739.624 608.128 725.187 610.004 716C610.803 712.087 611.566 705.11 616.108 703.708C621.41 702.071 630.789 706.607 636 708L636 704C648.377 704.112 642.288 714.178 651 717L651 706L654 707L651 692C659.449 697.945 661.71 699.442 672 699L668 692L676 690L676 689C671.3 687.129 667.797 685.514 668 680C673.093 682.368 677.499 683.622 683 682L683 680L672 672L686 665L677 660C683.228 659.08 688.792 657.338 691 651C686.184 651.497 683.139 650.802 680 647L686 645L686 644L681 637C688.001 636.114 693.806 636.047 697 629L684 633C684.719 628.38 687.052 626.309 691 624L694 612C704.424 614.75 707.295 608.911 709 599L694 609C692.762 601.535 693.546 598.427 702 599C704.288 594.172 713.863 582.619 706 580L706 567L705 567L705 572L704 572L703 563L691 577C688.627 565.794 696.698 552.727 696.985 541C697.158 533.972 697.971 525.85 696.24 519C694.823 513.392 690.912 508.494 689.707 503C688.342 496.779 693.051 492.746 689.442 486.054C685.802 479.305 676.764 475.834 672.348 469C668.365 462.835 671.485 456.241 678 454C675.714 447.337 670.145 445.384 664 443L671 436C666.894 418.671 656.248 403.496 648 388C643.686 389.172 634.869 392.791 631.599 395.854C627.972 399.25 628.344 404.013 622.999 406.412C616.824 409.184 613.081 402.162 607 403.985C597.893 406.714 590.513 415.272 583 406z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#f0f0f0; stroke:none;" d="M648 389L649 390L648 389z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#e6e6e6; stroke:none;" d="M650 392L651 393L650 392z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#f0f0f0; stroke:none;" d="M651 394L652 395L651 394M653 397L654 398L653 397M654 399L655 400L654 399M655 401L656 402L655 401z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#e6e6e6; stroke:none;" d="M656 402L657 403L656 402M657 404L658 405L657 404z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#f0f0f0; stroke:none;" d="M658 406L659 407L658 406M659 408L660 409L659 408M660 410L661 411L660 410M661 412L662 413L661 412M662 414L663 415L662 414M663 416L664 417L663 416z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#e6e6e6; stroke:none;" d="M664 418L665 419L664 418M665 420L666 421L665 420z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#f0f0f0; stroke:none;" d="M666 423L667 424L666 423M667 425L668 426L667 425z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#e6e6e6; stroke:none;" d="M668 427L669 428L668 427z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#f0f0f0; stroke:none;" d="M668 428L669 429L668 428M669 430L670 431L669 430z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#e6e6e6; stroke:none;" d="M670 432L671 433L670 432z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#f0f0f0; stroke:none;" d="M670 433L671 434L670 433z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#e6e6e6; stroke:none;" d="M671 435L672 436L671 435z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#f0f0f0; stroke:none;" d="M668 436L669 437L668 436z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#e6e6e6; stroke:none;" d="M665 439L666 440L665 439M664 441L665 442L664 441z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#f0f0f0; stroke:none;" d="M665 443L666 444L665 443M667 444L668 445L667 444z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#e6e6e6; stroke:none;" d="M668 444L669 445L668 444z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#f0f0f0; stroke:none;" d="M670 445L671 446L670 445M672 446L673 447L672 446z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#e6e6e6; stroke:none;" d="M675 448L676 449L675 448z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#f0f0f0; stroke:none;" d="M677 451L678 452L677 451M675 454L676 455L675 454z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#e6e6e6; stroke:none;" d="M673 455L674 456L673 455z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#f0f0f0; stroke:none;" d="M671 457L672 458L671 457M670 462L670 466L671 466L670 462z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#e6e6e6; stroke:none;" d="M670 466L671 467L670 466z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#f0f0f0; stroke:none;" d="M671 468L672 469L671 468M672 469L673 470L672 469M675 473L676 474L675 473M676 474L677 475L676 474z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#e6e6e6; stroke:none;" d="M680 478L681 479L680 478z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#f0f0f0; stroke:none;" d="M681 479L682 480L681 479M684 481L685 482L684 481M687 482L688 483L687 482z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#e6e6e6; stroke:none;" d="M689 485L690 486L689 485z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#d9d9d9; stroke:none;" d="M690 485L691 489L692 489L690 485z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#e6e6e6; stroke:none;" d="M690 487L691 488L690 487z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#f0f0f0; stroke:none;" d="M690 488L691 489L690 488M691 491L692 492L691 491M691 496L692 497L691 496M690 497L691 498L690 497z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#e6e6e6; stroke:none;" d="M689 498L690 499L689 498z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#f0f0f0; stroke:none;" d="M689 503L690 504L689 503M691 507L692 508L691 507M692 508L693 509L692 508z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#e6e6e6; stroke:none;" d="M693 510L694 511L693 510z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#f0f0f0; stroke:none;" d="M694 513L695 514L694 513M695 516L696 517L695 516M696 519L697 520L696 519z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#e6e6e6; stroke:none;" d="M697 525L698 526L697 525z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#f0f0f0; stroke:none;" d="M697 526L697 539L698 539L697 526z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#e6e6e6; stroke:none;" d="M697 539L698 540L697 539z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#f0f0f0; stroke:none;" d="M696.333 546.667L696.667 547.333L696.333 546.667M695.333 552.667L695.667 553.333L695.333 552.667M694 557L695 558L694 557M693 561L694 562L693 561M692 564L693 565L692 564z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#d9d9d9; stroke:none;" d="M692 565L693 566L692 565z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#f0f0f0; stroke:none;" d="M698 566L699 567L698 566M691 567L692 568L691 567z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#d9d9d9; stroke:none;" d="M691 568L692 569L691 568z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#e6e6e6; stroke:none;" d="M690 570L691 571L690 570z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#f0f0f0; stroke:none;" d="M695 571L696 572L695 571M689.333 572.667L689.667 573.333L689.333 572.667z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#e6e6e6; stroke:none;" d="M694 572L695 573L694 572z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#f0f0f0; stroke:none;" d="M693 574L694 575L693 574z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#d9d9d9; stroke:none;" d="M692 575L693 576L692 575z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#f0f0f0; stroke:none;" d="M691 576L692 577L691 576M560.667 588.333L561.333 588.667L560.667 588.333M618 588L619 589L618 588M627 588L628 589L627 588z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#e6e6e6; stroke:none;" d="M628 588L629 589L628 588z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#f0f0f0; stroke:none;" d="M629 588L630 589L629 588M638 588L639 589L638 588M700 598L701 599L700 598M693 599L694 600L693 599z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#e6e6e6; stroke:none;" d="M694 599L695 600L694 599z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#f0f0f0; stroke:none;" d="M692 600L693 601L692 600M702 601L703 602L702 601z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#e6e6e6; stroke:none;" d="M692 602L693 603L692 602z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#f0f0f0; stroke:none;" d="M701 602L702 603L701 602M692 603L693 604L692 603M700 603L701 604L700 603M699 604L700 605L699 604M707 604L708 605L707 604z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#e6e6e6; stroke:none;" d="M693 605L694 606L693 605z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#f0f0f0; stroke:none;" d="M698 605L699 606L698 605M697 606L698 607L697 606M696 607L697 608L696 607M706 607L707 608L706 607M694.667 608.333L695.333 608.667L694.667 608.333M694 612L695 613L694 612M696 612L697 613L696 612M698 613L699 614L698 613M692 615L693 616L692 615M691 622L691 624L693 622L691 622M689 624L690 625L689 624M686 626L687 627L686 626M684 628L685 629L684 628z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#e6e6e6; stroke:none;" d="M684 629L685 630L684 629z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#f0f0f0; stroke:none;" d="M693 629L694 630L693 629M691 630L692 631L691 630M686 632L687 633L686 632M691 635L692 636L691 635M684 636L685 637L684 636z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#e6e6e6; stroke:none;" d="M685 636L686 637L685 636z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#f0f0f0; stroke:none;" d="M681 637L682 638L681 637M681 640L682 641L681 640z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#e6e6e6; stroke:none;" d="M682 641L683 642L682 641z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#f0f0f0; stroke:none;" d="M683 642L684 643L683 642M684 643L685 644L684 643M683 645L684 646L683 645M682 650L683 651L682 650M686 651L686 652L689 652L686 651M690 653L691 654L690 653z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#e6e6e6; stroke:none;" d="M686 657L687 658L686 657z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#f0f0f0; stroke:none;" d="M683 658L684 659L683 658M680 659L681 660L680 659M677 660L678 661L677 660z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#d9d9d9; stroke:none;" d="M678 660L679 661L678 660z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#e6e6e6; stroke:none;" d="M677 661L678 662L677 661z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#f0f0f0; stroke:none;" d="M679 662L680 663L679 662M681 663L682 664L681 663z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#e6e6e6; stroke:none;" d="M682 663L683 664L682 663z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#f0f0f0; stroke:none;" d="M684 664L685 665L684 664M682 668L683 669L682 668z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#e6e6e6; stroke:none;" d="M681 669L682 670L681 669z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#f0f0f0; stroke:none;" d="M675 670L676 671L675 670M672 672L673 673L672 672z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#d9d9d9; stroke:none;" d="M673 673L674 674L673 673z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#e6e6e6; stroke:none;" d="M674 674L675 675L674 674z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#f0f0f0; stroke:none;" d="M675 675L676 676L675 675M678 677L679 678L678 677M681 679L682 680L681 679M668 680L669 681L668 680z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#e6e6e6; stroke:none;" d="M667.333 681.667L667.667 682.333L667.333 681.667z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#d9d9d9; stroke:none;" d="M670 681L671 682L670 681z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#f0f0f0; stroke:none;" d="M671 681L672 682L671 681M683 681L684 682L683 681z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#d9d9d9; stroke:none;" d="M672 682L673 683L672 682z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#f0f0f0; stroke:none;" d="M673 682L674 683L673 682M682 682L683 683L682 682M667 683L668 684L667 683M676 683L676 684L681 684L676 683z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#e6e6e6; stroke:none;" d="M668 685L669 686L668 685z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#f0f0f0; stroke:none;" d="M669 686L670 687L669 686z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#e6e6e6; stroke:none;" d="M670 686L671 687L670 686z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#f0f0f0; stroke:none;" d="M672 687L673 688L672 687M674 688L675 689L674 688M674 690L675 691L674 690M671 691L672 692L671 691M651.333 692.667L651.667 693.333L651.333 692.667z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#e6e6e6; stroke:none;" d="M652 692L653 693L652 692z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#f0f0f0; stroke:none;" d="M668.333 692.667L668.667 693.333L668.333 692.667z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#d9d9d9; stroke:none;" d="M653 693L654 694L653 693z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#f0f0f0; stroke:none;" d="M669 694L670 695L669 694M670 695L671 696L670 695z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#d9d9d9; stroke:none;" d="M652 696L653 697L652 696z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#f0f0f0; stroke:none;" d="M656 696L657 697L656 696M671 696L672 697L671 696M652 697L653 698L652 697M657 697L658 698L657 697M658 698L659 699L658 698M659 699L660 700L659 699M666 699L666 700L670 700L666 699M653 701L654 702L653 701z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#e6e6e6; stroke:none;" d="M642 704L643 705L642 704z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#f0f0f0; stroke:none;" d="M643 704L644 705L643 704z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#e6e6e6; stroke:none;" d="M654 704L655 705L654 704z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#f0f0f0; stroke:none;" d="M645 705L646 706L645 705M654.333 705.667L654.667 706.333L654.333 705.667z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#e6e6e6; stroke:none;" d="M645 706L645 709L646 709L645 706z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#f0f0f0; stroke:none;" d="M651 706L652 707L651 706M651 708L652 709L651 708M646 713L647 714L646 713M651 715L652 716L651 715z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#e6e6e6; stroke:none;" d="M648 717L649 718L648 717z"/>
+                        <path onclick = "Iwate()" class = "Iwate" style = "fill:#f0f0f0; stroke:none;" d="M649 717L650 718L649 717z"/>
+</svg>

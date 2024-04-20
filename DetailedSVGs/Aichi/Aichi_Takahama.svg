@@ -1,0 +1,5 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1450" height="1289">
+<path class = "AichiD" onclick = "Takahama()" id = "Takahama" style = "fill:#010101; stroke:none;" d="M0 0L0 1289L1450 1289L1450 0L0 0z"/>
+<path class = "AichiD" onclick = "Takahama()" id = "Takahama" style = "fill:#ffffff; stroke:none;" d="M417 712L409.873 734L404 781C418.406 775.09 442.638 767.866 445.809 750C446.567 745.731 442.752 742.937 442.002 739C441.141 734.474 442.872 729.766 442 725L431 725C429.846 716.437 426.494 710.348 417 712z"/>
+</svg>

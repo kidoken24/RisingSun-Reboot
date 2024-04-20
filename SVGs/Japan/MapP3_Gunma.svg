@@ -1,0 +1,149 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1450" height="800">
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#010101; stroke:none;" d="M0 0L0 800L1450 800L1450 0L0 0z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ffffff; stroke:none;" d="M208 325C205.735 329.779 203.868 335.123 198.985 337.86C194.921 340.138 188.68 339.065 185.782 343.228C183.181 346.967 187.09 350.663 185.495 354.316C184.093 357.528 179.726 358.041 178.042 361.133C175.975 364.93 178.651 368.955 174.768 372.146C171.588 374.758 166.614 374.092 163.742 376.857C160.709 379.777 161.682 384.584 157.906 387.421C153.292 390.887 148.801 386.289 144 388.539C135.109 392.705 121.098 394.78 113.318 400.027C110.211 402.122 111.291 406.751 108.566 409.302C105.716 411.97 101.929 413.017 99.2137 416.044C93.0106 422.96 86.8071 442.708 90.8935 451.787C98.9824 469.759 124.274 446.633 131.821 460.108C134.322 464.573 134.402 478.351 131.821 482.79C130.136 485.687 126.154 486.722 125.358 490.185C123.603 497.817 135.722 510.88 121 512C123.599 515.292 128.89 517.09 130.383 521.055C133.811 530.159 127.134 539.159 137.997 545.253C144.049 548.648 146.133 540.517 151.015 538.599C162.453 534.106 173.417 527.32 184.09 520.968C187.854 518.728 193.518 518.244 196.397 514.698C201.794 508.048 203.68 487.052 215.001 486.414C220.61 486.097 225.651 491.06 231 492.32C237.779 493.917 247.122 491.148 253 493.731C262.811 498.043 266.337 504.33 278 503.985C281.517 503.88 298.782 503.082 299.579 500.768C301.332 495.677 295.01 491.418 290.995 490.62C282.997 489.03 270.672 490.581 264.419 484.442C261.826 481.896 261.649 478.101 259.441 475.325C257.111 472.396 253.8 470.822 252.667 466.985C250.195 458.608 257.884 453.516 260.958 447C262.768 443.164 260.954 438.933 263.09 435C264.946 431.581 269.385 428.28 269.288 424.059C269.18 419.364 263.155 420.177 260 419.826C254.28 419.19 249.096 416.455 246.654 410.999C243.733 404.474 248.058 400.845 249.966 395C251.199 391.224 248.89 387.748 249.745 384C250.833 379.238 254.853 375.839 256 371C249.741 366.231 251.485 361.531 254 355L226.001 346.049L208 325z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M209 325L210 326L209 325M210 326L211 327L210 326M211 327L212 328L211 327M206 328L207 329L206 328z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#dedede; stroke:none;" d="M213 330L214 331L213 330z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M214 332L215 333L214 332M203 334L204 335L203 334M215 334L216 335L215 334z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#d1d1d1; stroke:none;" d="M202 335L203 336L202 335M201 336L202 337L201 336z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M200 337L201 338L200 337z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#d1d1d1; stroke:none;" d="M217 337L218 338L217 337M198 338L199 339L198 338M192 339L193 340L192 339z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#dedede; stroke:none;" d="M193 339L194 340L193 339z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M194 339L195 340L194 339z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#d1d1d1; stroke:none;" d="M188 340L189 341L188 340z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M219 340L220 341L219 340z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#dedede; stroke:none;" d="M186 341L187 342L186 341z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M220 341L221 342L220 341M185 342L186 343L185 342M221 342L222 343L221 342M222 343L223 344L222 343M184 344L185 345L184 344M223 344L224 345L223 344M224 345L225 346L224 345z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#d1d1d1; stroke:none;" d="M226 346L227 347L226 346z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#dedede; stroke:none;" d="M184 347L185 348L184 347z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M228 347L229 348L228 347z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#d1d1d1; stroke:none;" d="M230 348L231 349L230 348M185 350L186 351L185 350z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#dedede; stroke:none;" d="M232 350L233 351L232 350z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M246 351L247 352L246 351z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#d1d1d1; stroke:none;" d="M249 352L250 353L249 352z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M186 353L187 354L186 353z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#dedede; stroke:none;" d="M253 354L254 355L253 354z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#d1d1d1; stroke:none;" d="M182 357L183 358L182 357z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#dedede; stroke:none;" d="M178 359L179 360L178 359M251 361L252 362L251 361M251 367L252 368L251 367M177 369L178 370L177 369M254 370L255 371L254 370z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M176 371L177 372L176 371z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#dedede; stroke:none;" d="M173 373L174 374L173 373z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#d1d1d1; stroke:none;" d="M170 374L171 375L170 374M255 374L256 375L255 374z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M165 375L166 376L165 375M254 375L255 376L254 375M162 377L163 378L162 377z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#dedede; stroke:none;" d="M251 379L252 380L251 379M161.333 380.667L161.667 381.333L161.333 380.667z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M161.333 382.667L161.667 383.333L161.333 382.667z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#d1d1d1; stroke:none;" d="M148 387L149 388L148 387M249 387L250 388L249 387z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#dedede; stroke:none;" d="M143 388L144 389L143 388z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M157 388L158 389L157 388z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#dedede; stroke:none;" d="M142 389L143 390L142 389z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M153 389L154 390L153 389z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#dedede; stroke:none;" d="M141 390L142 391L141 390z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#d1d1d1; stroke:none;" d="M250 390L251 391L250 390M139 391L140 392L139 391z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#dedede; stroke:none;" d="M136 392L137 393L136 392z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#d1d1d1; stroke:none;" d="M133 393L134 394L133 393z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#dedede; stroke:none;" d="M130 394L131 395L130 394z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M250 394L251 395L250 394z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#dedede; stroke:none;" d="M126 396L127 397L126 396z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M249 396L250 397L249 396z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#d1d1d1; stroke:none;" d="M248 398L249 399L248 398M112 399L113 400L112 399z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M247 399L248 400L247 399M111 400L112 401L111 400z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#dedede; stroke:none;" d="M246 401L247 402L246 401z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M110 402L111 403L110 402M245 403L246 404L245 403z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#d1d1d1; stroke:none;" d="M245 404L246 405L245 404M245 406L246 407L245 406z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#dedede; stroke:none;" d="M245 407L246 408L245 407z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M109 409L110 410L109 409M104 411L105 412L104 411M246 411L247 412L246 411M102 412L103 413L102 412M101 413L102 414L101 413M247 413L248 414L247 413z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#dedede; stroke:none;" d="M100 414L101 415L100 414z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#d1d1d1; stroke:none;" d="M248 414L249 415L248 414M99 415L100 416L99 415M251 417L252 418L251 417z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M96 419L97 420L96 419M257 419L257 420L264 420L257 419z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#dedede; stroke:none;" d="M264 419L265 420L264 419z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#d1d1d1; stroke:none;" d="M268 420L269 421L268 420z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M95 421L96 422L95 421z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#dedede; stroke:none;" d="M269 421L270 422L269 421M94.3333 424.667L94.6667 425.333L94.3333 424.667M269 425L270 426L269 425z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#d1d1d1; stroke:none;" d="M94.3333 426.667L94.6667 427.333L94.3333 426.667z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M268 427L269 428L268 427M94 428L95 429L94 428z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#dedede; stroke:none;" d="M93 430L94 431L93 430z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M92 432L93 433L92 432M263 433L264 434L263 433M262 435L263 436L262 435z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#d1d1d1; stroke:none;" d="M89 438L90 439L89 438z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M261 438L262 439L261 438z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#dedede; stroke:none;" d="M89 439L89 442L90 442L89 439M261 439L262 440L261 439z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#d1d1d1; stroke:none;" d="M261 440L262 441L261 440z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#dedede; stroke:none;" d="M261 441L262 442L261 441z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#d1d1d1; stroke:none;" d="M89 442L90 443L89 442z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M262 444L263 445L262 444z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#dedede; stroke:none;" d="M262 445L263 446L262 445M90 451L91 452L90 451z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M255 453L256 454L255 453z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#dedede; stroke:none;" d="M92 454L93 455L92 454z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M123 455L123 456L126 456L123 455M254 455L255 456L254 455z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#dedede; stroke:none;" d="M96 456L97 457L96 456M117 456L118 457L117 456z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#d1d1d1; stroke:none;" d="M115 457L116 458L115 457z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#dedede; stroke:none;" d="M130 457L131 458L130 457z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#d1d1d1; stroke:none;" d="M99 458L100 459L99 458z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M105 458L106 459L105 458M131 458L132 459L131 458M253 458L254 459L253 458M132 460L133 461L132 460z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#d1d1d1; stroke:none;" d="M132 461L133 462L132 461z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M252 461L253 462L252 461z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#d1d1d1; stroke:none;" d="M252 462L253 463L252 462M252 467L253 468L252 467z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M254 471L255 472L254 471z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#d1d1d1; stroke:none;" d="M257 473L258 474L257 473z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#dedede; stroke:none;" d="M261 479L262 480L261 479z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#d1d1d1; stroke:none;" d="M132 482L133 483L132 482M262 482L263 483L262 482z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M131 484L132 485L131 484M263 484L264 485L263 484z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#d1d1d1; stroke:none;" d="M127 486L128 487L127 486M212 486L213 487L212 486M217 486L218 487L217 486z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M266 486L267 487L266 486M126 487L127 488L126 487z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#d1d1d1; stroke:none;" d="M210 487L211 488L210 487z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M220 487L221 488L220 487M269 487L270 488L269 487M222 488L223 489L222 488z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#dedede; stroke:none;" d="M274 488L275 489L274 488z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#d1d1d1; stroke:none;" d="M208 489L209 490L208 489z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M282.667 489.333L283.333 489.667L282.667 489.333z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#dedede; stroke:none;" d="M284 489L285 490L284 489z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#d1d1d1; stroke:none;" d="M285 489L286 490L285 489z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#dedede; stroke:none;" d="M225 490L226 491L225 490M290 490L291 491L290 490M227 491L228 492L227 491z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M295 491L296 492L295 491z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#d1d1d1; stroke:none;" d="M230 492L231 493L230 492z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M231 492L232 493L231 492M248 492L249 493L248 492z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#d1d1d1; stroke:none;" d="M249.667 492.333L250.333 492.667L249.667 492.333z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M206 493L207 494L206 493z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#d1d1d1; stroke:none;" d="M237 493L238 494L237 493z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M238 493L239 494L238 493M253 493L254 494L253 493z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#d1d1d1; stroke:none;" d="M125 494L126 495L125 494z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#dedede; stroke:none;" d="M297 494L298 495L297 494z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M256 495L257 496L256 495M205 496L206 497L205 496z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#d1d1d1; stroke:none;" d="M257 496L258 497L257 496z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#dedede; stroke:none;" d="M126 497L127 498L126 497z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M204 498L205 499L204 498z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#d1d1d1; stroke:none;" d="M127 499L128 500L127 499z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M261 499L262 500L261 499z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#dedede; stroke:none;" d="M262 500L263 501L262 500z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#d1d1d1; stroke:none;" d="M128 501L129 502L128 501z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#dedede; stroke:none;" d="M202 501L203 502L202 501z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#d1d1d1; stroke:none;" d="M287 501L288 502L287 501z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M291 501L292 502L291 501M300 501L301 502L300 501M201 502L202 503L201 502z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#dedede; stroke:none;" d="M265 502L266 503L265 502z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M200 503L201 504L200 503z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#d1d1d1; stroke:none;" d="M267 503L268 504L267 503z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M294 503L295 504L294 503z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#dedede; stroke:none;" d="M297 503L298 504L297 503z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#d1d1d1; stroke:none;" d="M273 504L273 505L278 505L273 504z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#dedede; stroke:none;" d="M198 506L199 507L198 506M128 508L129 509L128 508z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#d1d1d1; stroke:none;" d="M198 509L199 510L198 509M127 510L128 511L127 510z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M198.333 510.667L198.667 511.333L198.333 510.667z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#dedede; stroke:none;" d="M126 511L127 512L126 511z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#d1d1d1; stroke:none;" d="M121 513L122 514L121 513z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M122 514L123 515L122 514z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#dedede; stroke:none;" d="M123 515L124 516L123 515M196 515L197 516L196 515M125 516L126 517L125 516z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M195 516L196 517L195 516M128 517L129 518L128 517z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#d1d1d1; stroke:none;" d="M130 519L131 520L130 519z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#dedede; stroke:none;" d="M183 520L184 521L183 520z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#d1d1d1; stroke:none;" d="M181 522L182 523L181 522z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#dedede; stroke:none;" d="M180 524L181 525L180 524M130 525L131 526L130 525z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M179 525L180 526L179 525M130 526L131 527L130 526M174 526L175 527L174 526z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#dedede; stroke:none;" d="M175.667 526.333L176.333 526.667L175.667 526.333z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M169 527L170 528L169 527M130.333 528.667L130.667 529.333L130.333 528.667M167 528L168 529L167 528z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#dedede; stroke:none;" d="M166 529L167 530L166 529M130 530L131 531L130 530z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#d1d1d1; stroke:none;" d="M165 530L166 531L165 530M164 531L165 532L164 531M163 532L164 533L163 532M162 533L163 534L162 533z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#dedede; stroke:none;" d="M161 534L162 535L161 534M160 535L161 536L160 535z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#d1d1d1; stroke:none;" d="M157 537L158 538L157 537z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M149 538L150 539L149 538z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#d1d1d1; stroke:none;" d="M148 539L149 540L148 539z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#dedede; stroke:none;" d="M147 540L148 541L147 540z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#d1d1d1; stroke:none;" d="M133 541L134 542L133 541z"/>
+                        <path onclick = "Gunma()" class = "Gunma" style = "fill:#ededed; stroke:none;" d="M146 541L147 542L146 541M144 544L145 545L144 544M139 546L140 547L139 546M141 547L142 548L141 547z"/>
+</svg>

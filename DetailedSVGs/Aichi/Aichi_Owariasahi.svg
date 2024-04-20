@@ -1,0 +1,5 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1450" height="1289">
+<path class = "AichiD" onclick = "Owariasahi()" id = "Owariasahi" style = "fill:#010101; stroke:none;" d="M0 0L0 1289L1450 1289L1450 0L0 0z"/>
+<path class = "AichiD" onclick = "Owariasahi()" id = "Owariasahi" style = "fill:#ffffff; stroke:none;" d="M496 298L488.582 309.972L476.001 310.6L450 321L432 353L445 364C439.146 372.014 444.363 372.999 452 373L452 367L460 366L458 371L464 372C465.565 379.237 477.152 380.614 482.721 376.633C487.802 373.002 485.635 365.104 488.317 360.093C491.737 353.706 499.62 352.043 503 345L494 341L505.798 314L496 298z"/>
+</svg>

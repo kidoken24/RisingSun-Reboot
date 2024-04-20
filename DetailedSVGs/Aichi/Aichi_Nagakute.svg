@@ -1,0 +1,5 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1450" height="1289">
+<path class = "AichiD" onclick = "Nagakute()" id = "Nagakute" style = "fill:#010101; stroke:none;" d="M0 0L0 1289L1450 1289L1450 0L0 0z"/>
+<path class = "AichiD" onclick = "Nagakute()" id = "Nagakute" style = "fill:#ffffff; stroke:none;" d="M449 381L449 382C459.996 386.623 461.197 400.229 458.973 411C457.933 416.039 453.877 425.044 461.414 428.377C466.389 430.577 468.05 423.193 471.214 421.139C477.812 416.855 488.479 415.447 496 413C504.348 431.534 524.222 423.891 539 426C539 416.953 540.702 405.62 537.415 397C534.328 388.904 526.256 384.382 519 380.753C497.238 369.871 472.095 381 449 381z"/>
+</svg>

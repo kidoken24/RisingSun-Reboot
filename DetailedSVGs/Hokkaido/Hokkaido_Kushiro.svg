@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1231" height="874">
+<path style="fill:#010101; stroke:none;" d="M0 0L0 874L1231 874L1231 0L0 0z"/>
+<path style="fill:#ffffff; stroke:none;" d="M891 547C895.681 545.652 899.956 542.738 905 543.2C912.525 543.889 918.526 548.535 926 545L922 534C916.67 534.044 907.913 537.076 903.394 533.397C896.774 528.008 897.956 517.295 888 514.576C875.467 511.154 875.249 528.624 881.059 535C884.654 538.946 888.122 542.472 891 547z"/>
+<path style="fill:#010822; stroke:none;" d="M391.667 597.333L392.333 597.667L391.667 597.333z"/>
+<path style="fill:#011025; stroke:none;" d="M400 600L401 601L400 600z"/>
+<path style="fill:#010822; stroke:none;" d="M387 601L388 602L387 601z"/>
+<path style="fill:#011025; stroke:none;" d="M401 602L402 603L401 602z"/>
+<path style="fill:#010822; stroke:none;" d="M401 603L402 604L401 603z"/>
+<path style="fill:#011025; stroke:none;" d="M386 604L387 605L386 604z"/>
+<path style="fill:#010822; stroke:none;" d="M401 605L402 606L401 605M386 607L387 608L386 607z"/>
+<path style="fill:#010915; stroke:none;" d="M386 608L387 609L386 608z"/>
+<path style="fill:#011025; stroke:none;" d="M387 609L388 610L387 609z"/>
+<path style="fill:#010822; stroke:none;" d="M388 610L389 611L388 610M397 610L398 611L397 610z"/>
+<path style="fill:#011025; stroke:none;" d="M389 611L390 612L389 611M395 611L396 612L395 611M391 612L392 613L391 612z"/>
+</svg>

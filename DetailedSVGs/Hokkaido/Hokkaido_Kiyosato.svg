@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1231" height="874">
+<path style="fill:#010101; stroke:none;" d="M0 0L0 874L1231 874L1231 0L0 0z"/>
+<path style="fill:#ffffff; stroke:none;" d="M900 371L899 377C894.337 379.496 891.543 382.545 892 388L888 403L888 404L889 406L890 407L892 406L895 411L895 417L897 416C900.616 422.775 912.107 414.45 910 413L910 412C913.759 412.124 915.138 411.251 917 408L919 409C925.156 392.561 911.587 385.58 904 373L902 376L901 376L900 371z"/>
+<path style="fill:#fbfafb; stroke:none;" d="M901 371L902 372L901 371M899 372L900 373L899 372M902 372L903 373L902 372z"/>
+<path style="fill:#f7f7f7; stroke:none;" d="M902 373L901 376L902 376L902 373z"/>
+<path style="fill:#fbfafb; stroke:none;" d="M902 374L903 375L902 374M899 375L900 376L899 375z"/>
+<path style="fill:#f7f7f7; stroke:none;" d="M903 375L904 376L903 375M898 376L899 377L898 376z"/>
+<path style="fill:#fbfafb; stroke:none;" d="M905 376L906 377L905 376M897 377L898 378L897 377M904 378L905 380L906 380L907 378L904 378M897 379L898 380L897 379z"/>
+<path style="fill:#f2f2f2; stroke:none;" d="M898 379L899 380L898 379z"/>
+<path style="fill:#fbfafb; stroke:none;" d="M899.333 379.667L899.667 380.333L899.333 379.667z"/>
+<path style="fill:#f2f2f2; stroke:none;" d="M904 379L905 380L904 379z"/>
+<path style="fill:#fbfafb; stroke:none;" d="M895 380L896 381L895 380M893 381L894 382L893 381M908 381L909 382L908 381M891 384L892 385L891 384M891 386L892 387L891 386z"/>
+<path style="fill:#f7f7f7; stroke:none;" d="M891 387L892 388L891 387M920 392L921 393L920 392z"/>
+<path style="fill:#fbfafb; stroke:none;" d="M920 393L921 394L920 393M891 398L892 399L891 398z"/>
+<path style="fill:#f7f7f7; stroke:none;" d="M889 399L890 400L889 399z"/>
+<path style="fill:#f2f2f2; stroke:none;" d="M891 400L892 401L891 400z"/>
+<path style="fill:#fbfafb; stroke:none;" d="M891 401L892 402L891 401M889 402L890 403L889 402M888.667 404.333L889.333 404.667L888.667 404.333M890 406L893 405L890 406M920 404L921 405L920 404M891.333 406.667L891.667 407.333L891.333 406.667z"/>
+<path style="fill:#f2f2f2; stroke:none;" d="M894 408L895 409L894 408z"/>
+<path style="fill:#fbfafb; stroke:none;" d="M917 408L916 411L917 408z"/>
+<path style="fill:#f7f7f7; stroke:none;" d="M913 409L915 411L913 409z"/>
+<path style="fill:#fbfafb; stroke:none;" d="M895 410L896 411L895 410z"/>
+<path style="fill:#f7f7f7; stroke:none;" d="M894 411L895 412L894 411z"/>
+<path style="fill:#fbfafb; stroke:none;" d="M910 412L910 413L913 413L910 412M908 413L909 414L908 413M896 416L897 417L896 416M898 416L899 417L898 416M900 417L900 418L904 418L900 417M905 417L906 418L905 417z"/>
+</svg>

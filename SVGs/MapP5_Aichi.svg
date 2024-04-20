@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1450" height="800">
+                        <path onclick = "Aichi()" class = "Aichi" style = "fill:#010101; stroke:none;" d="M0 0L0 800L1450 800L1450 0L1403 0C1397.6 0 1388.22 -1.80914 1383.32 0.603394C1376.49 3.96503 1386.31 15.4264 1381.47 20.4869C1377.57 24.5683 1368.28 25.252 1363 26.4244C1349.64 29.3923 1337.14 34.9659 1324 38.5108C1320.41 39.4791 1309.63 43.1022 1306.62 40.3063C1301.01 35.0972 1313.41 23.8535 1320 30C1331.82 25.5253 1343.51 16.6361 1353.68 9.54785C1356.14 7.83441 1356.98 3.07288 1354.4 1.02777C1350.61 -1.96796 1339.67 -0.069458 1335.04 0.0501709C1318.62 0.474121 1302.41 0 1286 0L1296 16C1287.16 14.6749 1277.08 9.71271 1276 0L0 0z"/>
+                        <path onclick = "Aichi()" class = "Aichi" style = "fill:#ffffff; stroke:none;" d="M1276 0C1276.56 10.2089 1286.7 15.183 1296 16C1294.07 5.36487 1286.09 0.00115967 1276 0z"/>
+                        <path onclick = "Aichi()" class = "Aichi" style = "fill:#f0f0f0; stroke:none;" d="M1306 0L1307 1L1306 0z"/>
+                        <path onclick = "Aichi()" class = "Aichi" style = "fill:#ffffff; stroke:none;" d="M1307.67 0.333313L1308.33 0.666687L1307.67 0.333313z"/>
+                        <path onclick = "Aichi()" class = "Aichi" style = "fill:#f0f0f0; stroke:none;" d="M1309 0L1310 1L1309 0z"/>
+                        <path onclick = "Aichi()" class = "Aichi" style = "fill:#ffffff; stroke:none;" d="M1317 0L1318 1L1317 0z"/>
+                        <path onclick = "Aichi()" class = "Aichi" style = "fill:#e5e5e5; stroke:none;" d="M1318 0L1319 1L1318 0z"/>
+                        <path onclick = "Aichi()" class = "Aichi" style = "fill:#f0f0f0; stroke:none;" d="M1331 0L1332 1L1331 0z"/>
+                        <path onclick = "Aichi()" class = "Aichi" style = "fill:#dbdbdb; stroke:none;" d="M1355 0L1356 1L1355 0z"/>
+                        <path onclick = "Aichi()" class = "Aichi" style = "fill:#ffffff; stroke:none;" d="M1356 0C1357.59 9.15881 1352.11 8.7995 1346 13.2994C1337.65 19.4507 1329.11 24.9462 1320 30C1313.64 20.9954 1300.34 36.3862 1306.6 40.9329C1309.85 43.289 1320.31 39.6561 1324 38.7608C1338.11 35.3341 1351.92 29.6574 1366 25.8488C1370.08 24.7462 1379.2 23.9897 1381.82 20.4359C1385.16 15.9044 1380.78 5.52771 1381 0L1356 0z"/>
+                        <path onclick = "Aichi()" class = "Aichi" style = "fill:#e5e5e5; stroke:none;" d="M1381 0L1382 1L1381 0M1307 1L1308 2L1307 1z"/>
+                        <path onclick = "Aichi()" class = "Aichi" style = "fill:#f0f0f0; stroke:none;" d="M1356 2L1357 3L1356 2z"/>
+                        <path onclick = "Aichi()" class = "Aichi" style = "fill:#e5e5e5; stroke:none;" d="M1356 3L1357 4L1356 3z"/>
+                        <path onclick = "Aichi()" class = "Aichi" style = "fill:#dbdbdb; stroke:none;" d="M1356 4L1356 7L1357 7L1356 4z"/>
+                        <path onclick = "Aichi()" class = "Aichi" style = "fill:#f0f0f0; stroke:none;" d="M1380 4L1381 5L1380 4M1356 7L1357 8L1356 7M1354 9L1355 10L1354 9z"/>
+                        <path onclick = "Aichi()" class = "Aichi" style = "fill:#e5e5e5; stroke:none;" d="M1381 9L1382 10L1381 9z"/>
+                        <path onclick = "Aichi()" class = "Aichi" style = "fill:#f0f0f0; stroke:none;" d="M1352 10L1353 11L1352 10M1347 11L1348 12L1347 11z"/>
+                        <path onclick = "Aichi()" class = "Aichi" style = "fill:#dbdbdb; stroke:none;" d="M1382 12L1383 13L1382 12M1383 15L1384 16L1383 15z"/>
+                        <path onclick = "Aichi()" class = "Aichi" style = "fill:#e5e5e5; stroke:none;" d="M1383 16L1384 17L1383 16z"/>
+                        <path onclick = "Aichi()" class = "Aichi" style = "fill:#f0f0f0; stroke:none;" d="M1341 17L1342 18L1341 17z"/>
+                        <path onclick = "Aichi()" class = "Aichi" style = "fill:#dbdbdb; stroke:none;" d="M1383 17L1384 18L1383 17z"/>
+                        <path onclick = "Aichi()" class = "Aichi" style = "fill:#f0f0f0; stroke:none;" d="M1382 20L1383 21L1382 20M1378 22L1379 23L1378 22M1374 23L1375 24L1374 23M1370 24L1371 25L1370 24z"/>
+                        <path onclick = "Aichi()" class = "Aichi" style = "fill:#e5e5e5; stroke:none;" d="M1371 24L1372 25L1371 24z"/>
+                        <path onclick = "Aichi()" class = "Aichi" style = "fill:#f0f0f0; stroke:none;" d="M1367 25L1368 26L1367 25z"/>
+</svg>

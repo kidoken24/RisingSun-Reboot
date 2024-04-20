@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1231" height="874">
+<path style="fill:#010101; stroke:none;" d="M0 0L0 874L1231 874L1231 0L0 0z"/>
+<path style="fill:#ffffff; stroke:none;" d="M547 342L547 343L549 343L549 344C541.632 343.436 540.554 350.74 535 354L532.599 369L533 384L535 384L535 372L536 372L536 377L540 377L540 378L536 378L536 379L540 379L540 380L536 384C540.27 382.704 541.156 380.191 540 376C550.19 376 556.075 374.353 560 364L559 364L559 366C557.577 362.21 554.012 359.931 552.819 356.482C550.734 350.456 556.277 342.723 547 342z"/>
+<path style="fill:#fcfcfc; stroke:none;" d="M544 343L545 344L544 343M546 343L546 344L549 344L546 343M542 346L543 347L542 346M543 348L540 352L543 348M552 348L553 349L552 348z"/>
+<path style="fill:#f6f6f6; stroke:none;" d="M539 351L540 352L539 351z"/>
+<path style="fill:#fcfcfc; stroke:none;" d="M537 352L536 354L537 352z"/>
+<path style="fill:#f9f9f9; stroke:none;" d="M537 353L538 354L537 353z"/>
+<path style="fill:#fcfcfc; stroke:none;" d="M539 353L540 354L539 353z"/>
+<path style="fill:#f9f9f9; stroke:none;" d="M538 354L540 356L538 354z"/>
+<path style="fill:#fcfcfc; stroke:none;" d="M535.333 355.667L535.667 356.333L535.333 355.667M537 355L539 357L537 355z"/>
+<path style="fill:#ffffff; stroke:none;" d="M538 355L539 356L538 355z"/>
+<path style="fill:#fcfcfc; stroke:none;" d="M537 357L538 358L537 357z"/>
+<path style="fill:#f9f9f9; stroke:none;" d="M552 357L555 360L552 357z"/>
+<path style="fill:#fcfcfc; stroke:none;" d="M553 357L554 358L553 357M536 358L537 359L536 358M554 358L555 359L554 358z"/>
+<path style="fill:#f9f9f9; stroke:none;" d="M552 359L553 360L552 359M558 363L559 364L558 363z"/>
+<path style="fill:#f6f6f6; stroke:none;" d="M556 364L557 365L556 364z"/>
+<path style="fill:#fcfcfc; stroke:none;" d="M558.333 364.667L558.667 365.333L558.333 364.667M556.667 366.333L557.333 366.667L556.667 366.333M559 366L560 367L559 366M558 367L559 368L558 367M556 370L557 371L556 370M535 372L535 379L540 380L540 379L536 379L536 378L540 378L540 377L536 377L535 372M553 372L552 374L553 372M540 376L541 377L540 376z"/>
+<path style="fill:#f6f6f6; stroke:none;" d="M541 376L542 377L541 376z"/>
+<path style="fill:#f9f9f9; stroke:none;" d="M535 377L536 378L535 377M541 377L542 378L541 377M540 378L541 379L540 378M535 379L535 381L537 381L535 379z"/>
+<path style="fill:#fcfcfc; stroke:none;" d="M535 381L535 384L536 384L535 381z"/>
+</svg>

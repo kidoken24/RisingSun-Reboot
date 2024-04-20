@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1231" height="874">
+<path style="fill:#010101; stroke:none;" d="M0 0L0 874L1231 874L1231 0L0 0z"/>
+<path style="fill:#ffffff; stroke:none;" d="M590 308L588 325L589 333C594.466 331.481 602.252 330.344 606.941 327.132C610.678 324.571 610.281 320.834 606 320L599 316L590 308z"/>
+<path style="fill:#fdfcfd; stroke:none;" d="M593 310L594 311L593 310z"/>
+<path style="fill:#f8f8f8; stroke:none;" d="M599 313L600 314L599 313z"/>
+<path style="fill:#fdfcfd; stroke:none;" d="M600 314C600 316.827 601.142 316.791 604 317L604 316L600 314z"/>
+<path style="fill:#f8f8f8; stroke:none;" d="M596 315L597 316L596 315z"/>
+<path style="fill:#fdfcfd; stroke:none;" d="M597.333 315.667L597.667 316.333L597.333 315.667z"/>
+<path style="fill:#ffffff; stroke:none;" d="M601 315L602 316L601 315z"/>
+<path style="fill:#fdfcfd; stroke:none;" d="M604 317L605 318L604 317M606 319L607 320L606 319M589 320L589 325L590 325L591 320L589 320z"/>
+<path style="fill:#f8f8f8; stroke:none;" d="M610 322L611 323L610 322z"/>
+<path style="fill:#f3f3f3; stroke:none;" d="M591 324L592 325L591 324z"/>
+<path style="fill:#f8f8f8; stroke:none;" d="M604 324L605 325L604 324z"/>
+<path style="fill:#fdfcfd; stroke:none;" d="M606 325L605 327L606 325M588 326L589 327L588 326M591 327L592 328L591 327M593 328L594 329L593 328M595 328L596 329L595 328M597 328L598 329L597 328M601 328L600 330L601 328M604 328L605 329L604 328z"/>
+<path style="fill:#f8f8f8; stroke:none;" d="M601 329L602 330L601 329z"/>
+<path style="fill:#fdfcfd; stroke:none;" d="M593 330L594 331L593 330z"/>
+<path style="fill:#f8f8f8; stroke:none;" d="M596 330L597 331L596 330z"/>
+<path style="fill:#fdfcfd; stroke:none;" d="M592 331L593 332L592 331z"/>
+</svg>

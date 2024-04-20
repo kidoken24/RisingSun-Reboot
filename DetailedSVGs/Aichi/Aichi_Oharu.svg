@@ -1,0 +1,5 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1450" height="1289">
+<path class = "AichiD" onclick = "Oharu()" id = "Oharu" style = "fill:#010101; stroke:none;" d="M0 0L0 1289L1450 1289L1450 0L0 0z"/>
+<path class = "AichiD" onclick = "Oharu()" id = "Oharu" style = "fill:#ffffff; stroke:none;" d="M208 391C208.278 395.83 204.178 404.819 206.272 408.697C207.934 411.773 212.166 411.287 214.786 412.988C219.091 415.785 218.307 420.617 218 425L233 428C230.726 416.227 239.421 409.289 244 399L233 393L232 397L208 391z"/>
+</svg>

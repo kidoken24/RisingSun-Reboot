@@ -1,0 +1,91 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1450" height="800">
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#010101; stroke:none;" d="M0 0L0 800L1450 800L1450 0L0 0z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#ffffff; stroke:none;" d="M89 272L83 266C72.4192 270.268 88.9804 279.165 90.2122 284.015C91.4126 288.741 87.4511 296.462 86 301L80 295C71.4743 302.524 80.2864 307.441 82.8133 314.87C83.93 318.153 82.8514 323.455 86.4329 325.412C91.4576 328.158 99.3349 327.174 103.772 330.603C108.309 334.11 106.688 338.926 103 342C112.118 361.827 132.83 365.366 151 372L146.414 362.871L135 339C143.368 338.612 149.347 333.998 152 326L173 333C172.727 323.754 171.954 312.892 184 310L186 303L188 303L190 306L195 300C196.349 295.405 199.444 293.186 204 292C204.049 289.622 204.276 287.356 204.575 284.998C204.786 283.337 204.999 281.679 204.772 280.005C202.851 265.856 190.355 282.994 185.114 282.226C176.511 280.966 169.149 268.893 160.001 267.487C140.745 264.527 121.864 275.338 104 267C105.328 264.005 107.599 260.482 106.378 257.093C104.644 252.281 94.8657 246.891 90.7269 251.438C84.4279 258.357 89.6115 264.554 89 272z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#ebebeb; stroke:none;" d="M106 262L107 263L106 262M105 263L106 264L105 263z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#cfcfcf; stroke:none;" d="M148 266L149 267L148 266z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#ebebeb; stroke:none;" d="M105 267L106 268L105 267M146 267L147 268L146 267z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#cfcfcf; stroke:none;" d="M156 267L157 268L156 267z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#ebebeb; stroke:none;" d="M161 267L162 268L161 267M89 268L89 271L90 271L89 268z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#cfcfcf; stroke:none;" d="M132 268L133 269L132 268z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#dfdfdf; stroke:none;" d="M133 268L133 269L142 269L133 268z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#cfcfcf; stroke:none;" d="M142 268L142 269L145 269L142 268z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#ebebeb; stroke:none;" d="M145 268L146 269L145 268M153 268L154 269L153 268z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#dfdfdf; stroke:none;" d="M163 268L164 269L163 268z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#ebebeb; stroke:none;" d="M108 269L109 270L108 269z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#dfdfdf; stroke:none;" d="M127 269L128 270L127 269z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#cfcfcf; stroke:none;" d="M128 269L129 270L128 269z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#ebebeb; stroke:none;" d="M129 269L130 270L129 269z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#dfdfdf; stroke:none;" d="M110 270L111 271L110 270z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#cfcfcf; stroke:none;" d="M166 270L167 271L166 270z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#ebebeb; stroke:none;" d="M87.6667 271.333L88.3333 271.667L87.6667 271.333M112 271L113 272L112 271M119 271L120 272L119 271M167 271L168 272L167 271z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#dfdfdf; stroke:none;" d="M170 273L171 274L170 273M200 273L201 274L200 273z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#cfcfcf; stroke:none;" d="M201 273L202 274L201 273z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#ebebeb; stroke:none;" d="M81 274L82 275L81 274M173 275L174 276L173 275M196 275L197 276L196 275M203 275L204 276L203 275z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#dfdfdf; stroke:none;" d="M175 276L176 277L175 276M194 276L195 277L194 276z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#ebebeb; stroke:none;" d="M84 277L85 278L84 277M178 277L179 278L178 277z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#cfcfcf; stroke:none;" d="M192 277L193 278L192 277z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#dfdfdf; stroke:none;" d="M204 277L205 278L204 277z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#cfcfcf; stroke:none;" d="M181 278L182 279L181 278z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#ebebeb; stroke:none;" d="M191 278L192 279L191 278M87 279L88 280L87 279M189 280L190 281L189 280M182 281L183 282L182 281M90 282L91 283L90 282z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#dfdfdf; stroke:none;" d="M183 282L184 283L183 282z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#ebebeb; stroke:none;" d="M185.667 283.333L186.333 283.667L185.667 283.333M204 285L205 286L204 285M90 286L91 287L90 286z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#dfdfdf; stroke:none;" d="M204 286L205 287L204 286z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#cfcfcf; stroke:none;" d="M204 287L205 288L204 287z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#ebebeb; stroke:none;" d="M89 289L90 290L89 289z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#dfdfdf; stroke:none;" d="M88 291L89 292L88 291z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#ebebeb; stroke:none;" d="M88 292L89 293L88 292M200 292L201 293L200 292z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#cfcfcf; stroke:none;" d="M201 292L202 293L201 292z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#ebebeb; stroke:none;" d="M198 294L199 295L198 294z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#cfcfcf; stroke:none;" d="M80 295L81 296L80 295M87 295L88 296L87 295z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#dfdfdf; stroke:none;" d="M196 295L197 296L196 295z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#ebebeb; stroke:none;" d="M87 296L88 297L87 296M195 296L196 297L195 296M81 297L82 298L81 297z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#cfcfcf; stroke:none;" d="M195 297L196 298L195 297M76 298L77 299L76 298z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#ebebeb; stroke:none;" d="M82 298L83 299L82 298M195 298L196 299L195 298M83 299L84 300L83 299M86 299L87 300L86 299z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#dfdfdf; stroke:none;" d="M195 299L196 300L195 299z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#ebebeb; stroke:none;" d="M84.6667 300.333L85.3333 300.667L84.6667 300.333z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#cfcfcf; stroke:none;" d="M75 303L76 304L75 303z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#dfdfdf; stroke:none;" d="M186 303L187 304L186 303z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#ebebeb; stroke:none;" d="M187 303L188 304L187 303z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#dfdfdf; stroke:none;" d="M190 303L191 304L190 303z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#ebebeb; stroke:none;" d="M188 304L189 305L188 304z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#dfdfdf; stroke:none;" d="M76 305L77 306L76 305z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#ebebeb; stroke:none;" d="M104 306L104 308L106 308L104 306M184 306L185 307L184 306z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#dfdfdf; stroke:none;" d="M184 307L185 308L184 307M179 311L180 312L179 311z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#ebebeb; stroke:none;" d="M177 312L178 313L177 312z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#dfdfdf; stroke:none;" d="M176 314L177 315L176 314z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#ebebeb; stroke:none;" d="M176 315L177 316L176 315M83 316L84 317L83 316M176 317L177 318L176 317z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#dfdfdf; stroke:none;" d="M175 318L176 319L175 318z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#ebebeb; stroke:none;" d="M83.3333 319.667L83.6667 320.333L83.3333 319.667z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#dfdfdf; stroke:none;" d="M172 319L173 320L172 319M83 321L84 322L83 321z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#ebebeb; stroke:none;" d="M170 321L171 322L170 321z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#dfdfdf; stroke:none;" d="M170 322L171 323L170 322z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#ebebeb; stroke:none;" d="M170 323L171 324L170 323M84 324L85 325L84 324M171 325L172 326L171 325M91 326L92 327L91 326M158 326L159 327L158 326z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#dfdfdf; stroke:none;" d="M93 327L94 328L93 327z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#cfcfcf; stroke:none;" d="M102 329L103 330L102 329z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#dfdfdf; stroke:none;" d="M103 329L104 330L103 329z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#ebebeb; stroke:none;" d="M161 330L162 331L161 330M148 332L149 333L148 332z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#dfdfdf; stroke:none;" d="M162 332L163 333L162 332z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#ebebeb; stroke:none;" d="M106 333L107 334L106 333z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#dfdfdf; stroke:none;" d="M171 333L172 334L171 333z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#ebebeb; stroke:none;" d="M172 333L173 334L172 333M144 336L145 337L144 336M140 338L141 339L140 338z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#cfcfcf; stroke:none;" d="M106 339L107 340L106 339z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#ebebeb; stroke:none;" d="M135 339L136 340L135 339M136 341L137 342L136 341z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#cfcfcf; stroke:none;" d="M103 343L104 344L103 343z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#ebebeb; stroke:none;" d="M137 343L138 344L137 343z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#dfdfdf; stroke:none;" d="M104 345L105 346L104 345z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#ebebeb; stroke:none;" d="M138 345L139 346L138 345M106 347L107 348L106 347M139 347L140 348L139 347M107 348L108 349L107 348M140 349L141 350L140 349z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#dfdfdf; stroke:none;" d="M112 351L113 352L112 351z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#ebebeb; stroke:none;" d="M113 352L114 353L113 352z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#dfdfdf; stroke:none;" d="M142 352L143 353L142 352z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#cfcfcf; stroke:none;" d="M114 355L115 356L114 355z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#ebebeb; stroke:none;" d="M143 355L144 356L143 355M144 357L145 358L144 357M117 358L118 359L117 358M121 360L122 361L121 360M145 360L146 361L145 360z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#dfdfdf; stroke:none;" d="M122 361L123 362L122 361z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#ebebeb; stroke:none;" d="M123 362L124 363L123 362M125 364L126 365L125 364M146 364L147 365L146 364M147 365L148 366L147 365z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#dfdfdf; stroke:none;" d="M148 365L149 366L148 365z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#ebebeb; stroke:none;" d="M129 366L130 367L129 366z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#dfdfdf; stroke:none;" d="M133 367L134 368L133 367z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#ebebeb; stroke:none;" d="M134 367L135 368L134 367M139 368L140 369L139 368M151 368L152 369L151 368M141 369L142 370L141 369z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#cfcfcf; stroke:none;" d="M144 370L145 371L144 370z"/>
+                        <path onclick = "Saga()" class = "Saga" style = "fill:#ebebeb; stroke:none;" d="M145 370L145 371L148 371L145 370M151 371L152 372L151 371z"/>
+</svg>

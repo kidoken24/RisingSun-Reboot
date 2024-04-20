@@ -1,0 +1,5 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1450" height="1289">
+<path class = "AichiD" onclick = "Iwakura()" id = "Iwakura" style = "fill:#010101; stroke:none;" d="M0 0L0 1289L1450 1289L1450 0L0 0z"/>
+<path class = "AichiD" onclick = "Iwakura()" id = "Iwakura" style = "fill:#ffffff; stroke:none;" d="M252 275C255.831 273.921 259.979 272.306 264 273.075C269.449 274.116 275.442 279.166 280.985 276.307C292.743 270.241 292.442 248.403 291.961 237C291.823 233.73 291.983 227.249 289.972 224.565C285.248 218.257 273.486 228.613 270.318 232.289C265.267 238.152 269.09 248.221 264.272 254.816C257.758 263.733 252 262.604 252 275z"/>
+</svg>

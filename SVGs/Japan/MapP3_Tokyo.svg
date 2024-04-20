@@ -1,0 +1,112 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1450" height="800">
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#010101; stroke:none;" d="M0 0L0 800L1450 800L1450 0L0 0z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#e0e0e0; stroke:none;" d="M193 569L194 570L193 569z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#eeeeee; stroke:none;" d="M194 569L195 570L194 569z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#e0e0e0; stroke:none;" d="M191 570L192 571L191 570z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#ffffff; stroke:none;" d="M221 619L229 617C228.319 620.536 228.995 624.97 233.105 626.227C248.479 630.927 262.313 628.22 270 647L271 647C271.917 641.748 271.773 630.916 266 629C268.051 624.97 270.141 625.405 274 623.841C287.756 618.268 303.763 626.984 310 641L326 642C324.037 636.932 318.808 633.243 317.558 628.001C315.029 617.4 327.337 621.56 332 624L333 621L338 623L343.343 608L340 591L325.015 587.163L314.957 591.128L302.039 589.524L291 597L291 595C285.028 596.437 281.747 595.643 281 589C274.034 593.19 266.496 597.338 258.005 595.772C249.832 594.264 245.558 584.788 238.787 581.742C234.414 579.776 228.671 581.427 224 580.316C213.253 577.761 195.136 565.048 184.333 573.012C180.545 575.806 184.641 580.12 186.059 583C189.918 590.832 190.215 597.468 197.039 603.895C204.071 610.518 214.716 611.041 221 619z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#e0e0e0; stroke:none;" d="M189 571L190 572L189 571z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#d0d0d0; stroke:none;" d="M197 571L198 572L197 571z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#eeeeee; stroke:none;" d="M183 572L184 573L183 572M198 572L199 573L198 572M182 573L183 574L182 573M204 573L205 574L204 573z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#d0d0d0; stroke:none;" d="M207 574L208 575L207 574z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#e0e0e0; stroke:none;" d="M212 575L213 576L212 575z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#eeeeee; stroke:none;" d="M215 576L216 577L215 576M182 577L183 578L182 577z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#d0d0d0; stroke:none;" d="M217 577L218 578L217 577z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#eeeeee; stroke:none;" d="M218 578L219 579L218 578z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#e0e0e0; stroke:none;" d="M220 579L221 580L220 579z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#eeeeee; stroke:none;" d="M224.667 580.333L225.333 580.667L224.667 580.333z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#e0e0e0; stroke:none;" d="M226.667 580.333L227.333 580.667L226.667 580.333z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#d0d0d0; stroke:none;" d="M228 580L229 581L228 580z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#eeeeee; stroke:none;" d="M239 581L240 582L239 581M186 582L187 583L186 582M241 583L242 584L241 583z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#e0e0e0; stroke:none;" d="M242 585L243 586L242 585z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#eeeeee; stroke:none;" d="M187 587L188 588L187 587z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#e0e0e0; stroke:none;" d="M243 587L244 588L243 587z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#d0d0d0; stroke:none;" d="M328 587L329 588L328 587z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#e0e0e0; stroke:none;" d="M319 588L320 589L319 588z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#eeeeee; stroke:none;" d="M188 589L189 590L188 589z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#d0d0d0; stroke:none;" d="M245 589L246 590L245 589z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#e0e0e0; stroke:none;" d="M249 589L250 590L249 589z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#eeeeee; stroke:none;" d="M300 589L301 590L300 589M305 589L306 590L305 589M330 589L331 590L330 589z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#d0d0d0; stroke:none;" d="M188 590L189 591L188 590z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#e0e0e0; stroke:none;" d="M278 590L279 591L278 590z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#d0d0d0; stroke:none;" d="M298 590L299 591L298 590z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#eeeeee; stroke:none;" d="M309 590L310 591L309 590M318 590L319 591L318 590M334 590L335 591L334 590z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#e0e0e0; stroke:none;" d="M335 590L336 591L335 590z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#eeeeee; stroke:none;" d="M277 591L278 592L277 591M313 591L314 592L313 591z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#e0e0e0; stroke:none;" d="M314.667 591.333L315.333 591.667L314.667 591.333z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#d0d0d0; stroke:none;" d="M275 592L276 593L275 592z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#eeeeee; stroke:none;" d="M297 592L298 593L297 592M252 593L253 594L252 593z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#d0d0d0; stroke:none;" d="M273 593L274 594L273 593M281 593L282 594L281 593z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#e0e0e0; stroke:none;" d="M339 593L340 594L339 593z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#eeeeee; stroke:none;" d="M253 594L254 595L253 594z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#d0d0d0; stroke:none;" d="M270 594L271 595L270 594z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#eeeeee; stroke:none;" d="M235 595L236 596L235 595z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#e0e0e0; stroke:none;" d="M236 595L237 596L236 595z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#eeeeee; stroke:none;" d="M255 595L256 596L255 595z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#d0d0d0; stroke:none;" d="M256 595L257 596L256 595M264 595L265 596L264 595z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#e0e0e0; stroke:none;" d="M265 595L266 596L265 595M267 595L268 596L267 595M282 595L283 596L282 595z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#eeeeee; stroke:none;" d="M288 595L289 596L288 595z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#d0d0d0; stroke:none;" d="M291 595L292 596L291 595z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#eeeeee; stroke:none;" d="M293 595L294 596L293 595M190 596L191 597L190 596M286 596L287 597L286 596z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#e0e0e0; stroke:none;" d="M291.667 596.333L292.333 596.667L291.667 596.333z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#eeeeee; stroke:none;" d="M191 597L192 598L191 597M192 598L193 599L192 598M255 598L256 599L255 598z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#e0e0e0; stroke:none;" d="M256 598L257 599L256 598z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#eeeeee; stroke:none;" d="M287 598L288 599L287 598z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#e0e0e0; stroke:none;" d="M339 598L340 599L339 598M340 600L341 601L340 600M195 602L196 603L195 602z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#eeeeee; stroke:none;" d="M341 602L342 603L341 602M196 603L197 604L196 603M197 604L198 605L197 604M198 605L199 606L198 605z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#d0d0d0; stroke:none;" d="M199 606L200 607L199 606z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#e0e0e0; stroke:none;" d="M343 606L344 607L343 606z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#eeeeee; stroke:none;" d="M201 607L202 608L201 607z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#e0e0e0; stroke:none;" d="M203 608L204 609L203 608z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#eeeeee; stroke:none;" d="M208 609L209 610L208 609z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#e0e0e0; stroke:none;" d="M210 610L211 611L210 610z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#eeeeee; stroke:none;" d="M343 610L344 611L343 610z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#d0d0d0; stroke:none;" d="M211 611L212 612L211 611M342 611L343 612L342 611M212 612L213 613L212 612z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#eeeeee; stroke:none;" d="M216 614L217 615L216 614z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#d0d0d0; stroke:none;" d="M339 614L340 615L339 614z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#e0e0e0; stroke:none;" d="M218 615L219 616L218 615z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#eeeeee; stroke:none;" d="M230 616L231 617L230 616z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#e0e0e0; stroke:none;" d="M220 617L221 618L220 617z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#d0d0d0; stroke:none;" d="M224 617L225 618L224 617z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#e0e0e0; stroke:none;" d="M225 617L226 618L225 617z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#eeeeee; stroke:none;" d="M226 617L227 620L228 620L229 617L226 617M222 618L223 619L222 618M235.333 618.667L235.667 619.333L235.333 618.667M289 619L290 620L289 619M338 619L339 620L338 619z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#e0e0e0; stroke:none;" d="M278 620L279 621L278 620z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#eeeeee; stroke:none;" d="M283 620L284 621L283 620z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#e0e0e0; stroke:none;" d="M320 620L321 621L320 620M325 620L326 621L325 620M338 620L339 621L338 620z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#d0d0d0; stroke:none;" d="M228 621L229 622L228 621z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#eeeeee; stroke:none;" d="M285 621L286 622L285 621M318 621L319 622L318 621z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#e0e0e0; stroke:none;" d="M327 621L328 622L327 621M333 621L334 622L333 621z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#eeeeee; stroke:none;" d="M334 621L335 622L334 621M287 622L288 623L287 622M329 622L330 623L329 622z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#e0e0e0; stroke:none;" d="M336 622L337 623L336 622M229 623L230 624L229 623z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#d0d0d0; stroke:none;" d="M289 623L290 624L289 623z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#eeeeee; stroke:none;" d="M330 623L331 624L330 623z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#d0d0d0; stroke:none;" d="M268 624L269 625L268 624M292 624L293 625L292 624z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#eeeeee; stroke:none;" d="M331 624L332 625L331 624z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#d0d0d0; stroke:none;" d="M230 625L231 626L230 625z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#eeeeee; stroke:none;" d="M295 625L296 626L295 625M231 626L232 627L231 626M235 626L236 627L235 626z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#d0d0d0; stroke:none;" d="M240 626L241 627L240 626z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#eeeeee; stroke:none;" d="M241 626L242 627L241 626M297 626L298 627L297 626z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#d0d0d0; stroke:none;" d="M233 627L234 628L233 627M246 627L247 628L246 627z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#e0e0e0; stroke:none;" d="M247 627L248 628L247 627z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#eeeeee; stroke:none;" d="M299 627L300 628L299 627z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#d0d0d0; stroke:none;" d="M252 628L253 629L252 628z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#e0e0e0; stroke:none;" d="M266 628L267 629L266 628M302 629L303 630L302 629z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#eeeeee; stroke:none;" d="M317 629L318 630L317 629z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#e0e0e0; stroke:none;" d="M256 630L257 631L256 630z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#eeeeee; stroke:none;" d="M303 630L304 631L303 630M270.333 631.667L270.667 632.333L270.333 631.667M319 632L320 633L319 632M305 633L306 634L305 633z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#e0e0e0; stroke:none;" d="M320 633L321 634L320 633M321 634L322 635L321 634M306 635L307 636L306 635M322 635L323 636L322 635M262 636L263 637L262 636z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#eeeeee; stroke:none;" d="M307 636L308 637L307 636M263 637L264 638L263 637z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#e0e0e0; stroke:none;" d="M308 637L309 638L308 637z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#eeeeee; stroke:none;" d="M270 638L271 639L270 638M309 638L310 639L309 638M324 638L325 639L324 638z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#d0d0d0; stroke:none;" d="M309 639L310 640L309 639z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#eeeeee; stroke:none;" d="M325 639L326 640L325 639z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#e0e0e0; stroke:none;" d="M314 640L315 641L314 640z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#d0d0d0; stroke:none;" d="M318 640L319 641L318 640z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#eeeeee; stroke:none;" d="M319 640L320 641L319 640z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#e0e0e0; stroke:none;" d="M311 641L312 642L311 641z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#d0d0d0; stroke:none;" d="M312 641L313 642L312 641M321 641L322 642L321 641z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#eeeeee; stroke:none;" d="M268 642L269 643L268 642z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#e0e0e0; stroke:none;" d="M271 644L272 645L271 644z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#eeeeee; stroke:none;" d="M269 645L270 646L269 645z"/>
+                        <path onclick = "Tokyo()" class = "Tokyo" style = "fill:#d0d0d0; stroke:none;" d="M269 646L270 647L269 646z"/>
+</svg>

@@ -1,0 +1,116 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1450" height="800">
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#010101; stroke:none;" d="M0 0L0 800L1450 800L1450 0L0 0z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#dfdfdf; stroke:none;" d="M214.667 488.333L215.333 488.667L214.667 488.333z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#d2d2d2; stroke:none;" d="M211 489L210 491L211 489z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#ffffff; stroke:none;" d="M146 565C155.408 565.515 161.954 574.996 171.999 576.411C180.116 577.555 184.994 567.282 194 567.688C203.448 568.114 213.852 575.091 223 577.443C228.463 578.847 234.783 576.626 239.895 579.457C245.755 582.701 249.822 589.613 256.259 592.397C265.412 596.357 283.054 581.528 284 594L301.015 587.322L317 589C321.397 580.36 332.586 587.933 340 588L339.566 569L332.135 557L321 529C310.083 529.917 307.041 512.192 306 504C294.493 503.503 281.459 509.119 270 506.471C262.774 504.801 258.671 498.242 252 495.897C245.828 493.728 237.027 496.485 230 494.649C224.859 493.306 219.641 488.164 214.044 489.358C204.404 491.416 203.485 510.908 197.772 516.853C191 523.899 178.344 526.244 170 530.318C165.757 532.39 163.158 536.681 159 538.871C153.084 541.987 148.545 540.856 145.101 548C142.95 552.463 146.664 559.624 146 565z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#ededed; stroke:none;" d="M218 489L219 490L218 489M222 491L223 492L222 491z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#dfdfdf; stroke:none;" d="M209 492L210 493L209 492z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#d2d2d2; stroke:none;" d="M224 492L225 493L224 492z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#ededed; stroke:none;" d="M228 494L229 495L228 494z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#d2d2d2; stroke:none;" d="M229 494L230 495L229 494z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#dfdfdf; stroke:none;" d="M208 495L209 496L208 495M234 495L235 496L234 495z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#d2d2d2; stroke:none;" d="M235 495L236 496L235 495z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#dfdfdf; stroke:none;" d="M247 495L248 496L247 495z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#ededed; stroke:none;" d="M240 496L241 497L240 496z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#dfdfdf; stroke:none;" d="M241 496L242 497L241 496z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#d2d2d2; stroke:none;" d="M242.667 496.333L243.333 496.667L242.667 496.333z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#dfdfdf; stroke:none;" d="M244 496L245 497L244 496z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#ededed; stroke:none;" d="M253 496L254 497L253 496M207 498L208 499L207 498z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#d2d2d2; stroke:none;" d="M256 498L257 499L256 498z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#ededed; stroke:none;" d="M257 499L258 500L257 499M258 500L259 501L258 500z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#dfdfdf; stroke:none;" d="M205 501L206 502L205 501M262 503L263 504L262 503z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#d2d2d2; stroke:none;" d="M288.667 503.333L289.333 503.667L288.667 503.333z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#ededed; stroke:none;" d="M303 503L304 504L303 503M286 504L287 505L286 504M291 504L292 505L291 504z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#dfdfdf; stroke:none;" d="M300 504L301 505L300 504z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#d2d2d2; stroke:none;" d="M266 505L267 506L266 505z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#ededed; stroke:none;" d="M284 505L285 506L284 505M299 505L300 506L299 505z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#d2d2d2; stroke:none;" d="M306 505L307 506L306 505z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#ededed; stroke:none;" d="M269 506L270 507L269 506z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#d2d2d2; stroke:none;" d="M270 506L271 507L270 506z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#dfdfdf; stroke:none;" d="M281 506L282 507L281 506M306 506L307 507L306 506z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#d2d2d2; stroke:none;" d="M200.333 507.667L200.667 508.333L200.333 507.667z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#ededed; stroke:none;" d="M306 507L307 508L306 507M200 513L201 514L200 513z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#d2d2d2; stroke:none;" d="M307 513L308 514L307 513z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#ededed; stroke:none;" d="M199 515L200 516L199 515z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#d2d2d2; stroke:none;" d="M198 516L199 517L198 516M308 516L309 517L308 516z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#dfdfdf; stroke:none;" d="M309 518L310 519L309 518z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#d2d2d2; stroke:none;" d="M192 519L193 520L192 519z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#ededed; stroke:none;" d="M195 519L196 520L195 519z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#dfdfdf; stroke:none;" d="M190 520L191 521L190 520M310 520L311 521L310 520z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#ededed; stroke:none;" d="M189 521L190 522L189 521z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#d2d2d2; stroke:none;" d="M184 522L185 523L184 522z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#dfdfdf; stroke:none;" d="M185 522L186 523L185 522z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#d2d2d2; stroke:none;" d="M186 522L187 523L186 522z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#dfdfdf; stroke:none;" d="M187 522L188 523L187 522z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#ededed; stroke:none;" d="M311 522L312 523L311 522z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#dfdfdf; stroke:none;" d="M183 523L184 524L183 523z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#ededed; stroke:none;" d="M312 524L313 525L312 524z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#d2d2d2; stroke:none;" d="M182 525L183 526L182 525M178 528L179 529L178 528z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#ededed; stroke:none;" d="M171 529L172 530L171 529M316 529L317 530L316 529z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#d2d2d2; stroke:none;" d="M319 529L320 530L319 529z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#ededed; stroke:none;" d="M321 530L322 531L321 530z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#d2d2d2; stroke:none;" d="M167 531L168 532L167 531M166 532L167 533L166 532M165 533L166 534L165 533M164 534L165 535L164 534z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#dfdfdf; stroke:none;" d="M160 538L161 539L160 538M326 538L327 539L326 538z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#d2d2d2; stroke:none;" d="M158 539L159 540L158 539z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#ededed; stroke:none;" d="M154.667 540.333L155.333 540.667L154.667 540.333z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#d2d2d2; stroke:none;" d="M327 542L328 543L327 542z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#ededed; stroke:none;" d="M327 543L328 544L327 543M147 544L148 545L147 544M145 547L146 548L145 547z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#dfdfdf; stroke:none;" d="M328 547L329 548L328 547z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#d2d2d2; stroke:none;" d="M144 548L145 549L144 548z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#dfdfdf; stroke:none;" d="M143 549L144 550L143 549M329 550L330 551L329 550z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#ededed; stroke:none;" d="M143 551L144 552L143 551M144 553L145 554L144 553M213.333 553.667L213.667 554.333L213.333 553.667M330 553L331 554L330 553M145 554L146 555L145 554z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#dfdfdf; stroke:none;" d="M146 556L147 557L146 556z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#ededed; stroke:none;" d="M332 558L333 559L332 558z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#d2d2d2; stroke:none;" d="M146 561L147 562L146 561z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#dfdfdf; stroke:none;" d="M334 561L335 562L334 561z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#d2d2d2; stroke:none;" d="M335 562L336 563L335 562M145 564L146 565L145 564M151 565L152 566L151 565z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#ededed; stroke:none;" d="M196 567L197 568L196 567z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#d2d2d2; stroke:none;" d="M190 568L191 569L190 568z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#dfdfdf; stroke:none;" d="M197 568L198 569L197 568z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#ededed; stroke:none;" d="M184 569L185 570L184 569z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#dfdfdf; stroke:none;" d="M185.667 569.333L186.333 569.667L185.667 569.333z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#d2d2d2; stroke:none;" d="M187 569L188 570L187 569z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#dfdfdf; stroke:none;" d="M198 569L199 570L198 569z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#d2d2d2; stroke:none;" d="M156 570L157 571L156 570z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#ededed; stroke:none;" d="M206 571L207 572L206 571M158 572L159 573L158 572z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#d2d2d2; stroke:none;" d="M208 572L209 573L208 572z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#ededed; stroke:none;" d="M209 572L210 573L209 572z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#d2d2d2; stroke:none;" d="M340 572L341 573L340 572z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#dfdfdf; stroke:none;" d="M165 573L166 574L165 573M214 573L215 574L214 573M340 573L340 578L341 578L340 573z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#ededed; stroke:none;" d="M179.333 574.667L179.667 575.333L179.333 574.667z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#d2d2d2; stroke:none;" d="M218 575L219 576L218 575z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#dfdfdf; stroke:none;" d="M170 576L171 577L170 576z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#ededed; stroke:none;" d="M174 576L175 577L174 576M222 577L223 578L222 577z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#d2d2d2; stroke:none;" d="M231 578L231 579L238 579L231 578z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#ededed; stroke:none;" d="M238 578L239 579L238 578z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#d2d2d2; stroke:none;" d="M340 578L340 584L341 584L340 578z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#ededed; stroke:none;" d="M242 580L243 581L242 580z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#d2d2d2; stroke:none;" d="M319 584L320 585L319 584z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#ededed; stroke:none;" d="M322 584L323 585L322 584z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#dfdfdf; stroke:none;" d="M340.333 584.667L340.667 585.333L340.333 584.667z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#d2d2d2; stroke:none;" d="M329 585L330 586L329 585M280.667 586.333L281.333 586.667L280.667 586.333M317 586L318 587L317 586z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#dfdfdf; stroke:none;" d="M330 586L331 587L330 586z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#ededed; stroke:none;" d="M340.333 586.667L340.667 587.333L340.333 586.667z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#d2d2d2; stroke:none;" d="M246 587L247 588L246 587z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#ededed; stroke:none;" d="M247 587L248 588L247 587M251 587L252 588L251 587z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#dfdfdf; stroke:none;" d="M278 587L279 588L278 587z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#ededed; stroke:none;" d="M298 587L299 588L298 587z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#d2d2d2; stroke:none;" d="M307 587L308 588L307 587z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#ededed; stroke:none;" d="M332 587L333 588L332 587M283 588L283 592L284 592L283 588z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#d2d2d2; stroke:none;" d="M297 588L298 589L297 588z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#dfdfdf; stroke:none;" d="M311 588L312 589L311 588z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#d2d2d2; stroke:none;" d="M338 588L338 589L341 589L338 588z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#dfdfdf; stroke:none;" d="M253 589L254 590L253 589z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#d2d2d2; stroke:none;" d="M296 589L297 590L296 589z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#dfdfdf; stroke:none;" d="M274 590L275 591L274 590z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#d2d2d2; stroke:none;" d="M272 591L273 592L272 591z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#ededed; stroke:none;" d="M268 592L269 593L268 592z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#d2d2d2; stroke:none;" d="M269 592L270 593L269 592M283 592L284 593L283 592z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#dfdfdf; stroke:none;" d="M289 592L290 593L289 592z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#d2d2d2; stroke:none;" d="M290 592L291 593L290 592z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#dfdfdf; stroke:none;" d="M292 592L293 593L292 592M294 592L295 593L294 592z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#d2d2d2; stroke:none;" d="M258 593L259 594L258 593z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#dfdfdf; stroke:none;" d="M259.667 593.333L260.333 593.667L259.667 593.333z"/>
+                        <path onclick = "Saitama()" class = "Saitama" style = "fill:#d2d2d2; stroke:none;" d="M261 593L262 594L261 593z"/>
+</svg>

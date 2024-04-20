@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1450" height="800">
+                        <path onclick = "Okayama()" class = "Okayama" style = "fill:#010101; stroke:none;" d="M0 0L0 800L1450 800L1450 0L846 0C845.095 10.9027 836.047 9.7915 832 18L835 20C830.679 21.4085 825.644 22.6147 822.572 26.2137C819.548 29.7563 819.405 33.7298 814.981 36.1759C810.457 38.6771 804.903 41.2091 803 35C797.42 35 787.556 32.967 784 38C787.44 38.3637 793.716 37.0395 796.551 39.0316C803.148 43.6682 790.558 50.9283 787 52.0841C780.645 54.1486 773.523 53.9921 767 55.8604C763.537 56.8522 758.903 59.7303 755.3 59.493C752.654 59.3188 750.29 56.2169 748 55L750 63L742 64C741.997 37.8142 719.449 74.2729 705.595 66.0964C698.605 61.971 702.006 54.1299 700.262 48C698.761 42.7285 693.946 39.6978 691.587 34.9854C689.486 30.7882 692.392 27.2377 691.527 23C689.7 14.0449 684.62 9.99762 687 0L0 0z"/>
+                        <path onclick = "Okayama()" class = "Okayama" style = "fill:#ffffff; stroke:none;" d="M687 0C685.714 10.1748 690.57 14.846 691.569 24C692.006 28.0093 689.516 30.9607 691.461 35C693.738 39.7273 698.495 42.8826 700.143 48C701.889 53.4218 698.633 61.4215 704.148 65.382C713.636 72.1949 727.991 57.8096 734.999 54.0532C741.898 50.3552 742.795 58.162 742 63L750 63L747 55L754 61C765.806 56.4207 800.721 54.8493 798 38L783 38L783 36L803 35L803 39C818.688 38.8685 820.967 25.8145 834 20L847 1C832.019 -3.42841 811.633 0 796 0L687 0z"/>
+                        <path onclick = "Okayama()" class = "Okayama" style = "fill:#d2d2d2; stroke:none;" d="M686 1L687 2L686 1z"/>
+                        <path onclick = "Okayama()" class = "Okayama" style = "fill:#e0e0e0; stroke:none;" d="M686 2L687 3L686 2z"/>
+                        <path onclick = "Okayama()" class = "Okayama" style = "fill:#ededed; stroke:none;" d="M686 3L687 4L686 3M844 7L845 8L844 7M842 10L843 11L842 10M839 11L840 12L839 11M686 12L687 13L686 12M833 14L834 15L833 14M687 15L688 16L687 15M832 15L833 16L832 15M688 17L689 18L688 17M832 18L833 19L832 18M834 19L835 20L834 19M833 20L834 21L833 20z"/>
+                        <path onclick = "Okayama()" class = "Okayama" style = "fill:#d2d2d2; stroke:none;" d="M691 21L692 22L691 21z"/>
+                        <path onclick = "Okayama()" class = "Okayama" style = "fill:#ededed; stroke:none;" d="M830 21L831 22L830 21M827 22L828 23L827 22M825 23L826 24L825 23M691 27L692 28L691 27M821 27L822 28L821 27M690 33L691 34L690 33M787.667 34.3333L788.333 34.6667L787.667 34.3333z"/>
+                        <path onclick = "Okayama()" class = "Okayama" style = "fill:#e0e0e0; stroke:none;" d="M789.667 34.3333L790.333 34.6667L789.667 34.3333z"/>
+                        <path onclick = "Okayama()" class = "Okayama" style = "fill:#d2d2d2; stroke:none;" d="M791 34L791 35L794 35L791 34z"/>
+                        <path onclick = "Okayama()" class = "Okayama" style = "fill:#e0e0e0; stroke:none;" d="M794.667 34.3333L795.333 34.6667L794.667 34.3333z"/>
+                        <path onclick = "Okayama()" class = "Okayama" style = "fill:#ededed; stroke:none;" d="M796.667 34.3333L797.333 34.6667L796.667 34.3333z"/>
+                        <path onclick = "Okayama()" class = "Okayama" style = "fill:#e0e0e0; stroke:none;" d="M691 35L692 36L691 35z"/>
+                        <path onclick = "Okayama()" class = "Okayama" style = "fill:#ededed; stroke:none;" d="M784 35L785 36L784 35z"/>
+                        <path onclick = "Okayama()" class = "Okayama" style = "fill:#d2d2d2; stroke:none;" d="M785 35L786 36L785 35z"/>
+                        <path onclick = "Okayama()" class = "Okayama" style = "fill:#e0e0e0; stroke:none;" d="M783.333 36.6667L783.667 37.3333L783.333 36.6667M693 38L694 39L693 38z"/>
+                        <path onclick = "Okayama()" class = "Okayama" style = "fill:#ededed; stroke:none;" d="M784 38L785 39L784 38z"/>
+                        <path onclick = "Okayama()" class = "Okayama" style = "fill:#e0e0e0; stroke:none;" d="M785 38L786 39L785 38z"/>
+                        <path onclick = "Okayama()" class = "Okayama" style = "fill:#d2d2d2; stroke:none;" d="M786.667 38.3333L787.333 38.6667L786.667 38.3333M790.667 38.3333L791.333 38.6667L790.667 38.3333z"/>
+                        <path onclick = "Okayama()" class = "Okayama" style = "fill:#e0e0e0; stroke:none;" d="M792.667 38.3333L793.333 38.6667L792.667 38.3333z"/>
+                        <path onclick = "Okayama()" class = "Okayama" style = "fill:#ededed; stroke:none;" d="M794.667 38.3333L795.333 38.6667L794.667 38.3333z"/>
+                        <path onclick = "Okayama()" class = "Okayama" style = "fill:#d2d2d2; stroke:none;" d="M694 39L695 40L694 39z"/>
+                        <path onclick = "Okayama()" class = "Okayama" style = "fill:#ededed; stroke:none;" d="M804 39L804 40L808 40L804 39M798 40L799 41L798 40z"/>
+                        <path onclick = "Okayama()" class = "Okayama" style = "fill:#e0e0e0; stroke:none;" d="M697 42L698 43L697 42z"/>
+                        <path onclick = "Okayama()" class = "Okayama" style = "fill:#d2d2d2; stroke:none;" d="M698 44L699 45L698 44z"/>
+                        <path onclick = "Okayama()" class = "Okayama" style = "fill:#ededed; stroke:none;" d="M700 47L701 48L700 47M791 50L792 51L791 50z"/>
+                        <path onclick = "Okayama()" class = "Okayama" style = "fill:#e0e0e0; stroke:none;" d="M700 52L701 53L700 52z"/>
+                        <path onclick = "Okayama()" class = "Okayama" style = "fill:#ededed; stroke:none;" d="M737 52L738 53L737 52z"/>
+                        <path onclick = "Okayama()" class = "Okayama" style = "fill:#e0e0e0; stroke:none;" d="M739 52L740 53L739 52M735 53L736 54L735 53z"/>
+                        <path onclick = "Okayama()" class = "Okayama" style = "fill:#ededed; stroke:none;" d="M741 53L742 54L741 53M733 54L734 55L733 54M700 55L701 56L700 55M732 55L733 56L732 55M747 55L747 58L748 58L747 55z"/>
+                        <path onclick = "Okayama()" class = "Okayama" style = "fill:#d2d2d2; stroke:none;" d="M700 56L701 57L700 56z"/>
+                        <path onclick = "Okayama()" class = "Okayama" style = "fill:#e0e0e0; stroke:none;" d="M731 56L732 57L731 56z"/>
+                        <path onclick = "Okayama()" class = "Okayama" style = "fill:#ededed; stroke:none;" d="M742 56L742 61L743 61L742 56z"/>
+                        <path onclick = "Okayama()" class = "Okayama" style = "fill:#e0e0e0; stroke:none;" d="M751 57L752 58L751 57z"/>
+                        <path onclick = "Okayama()" class = "Okayama" style = "fill:#ededed; stroke:none;" d="M752 58L753 59L752 58z"/>
+                        <path onclick = "Okayama()" class = "Okayama" style = "fill:#e0e0e0; stroke:none;" d="M748 59L749 60L748 59M726 61L727 62L726 61M749 61L750 62L749 61z"/>
+                        <path onclick = "Okayama()" class = "Okayama" style = "fill:#ededed; stroke:none;" d="M725 62L726 63L725 62M721 63L721 64L725 64L721 63M742 63L742 64L745 64L742 63z"/>
+                        <path onclick = "Okayama()" class = "Okayama" style = "fill:#e0e0e0; stroke:none;" d="M745 63L745 64L748 64L745 63z"/>
+                        <path onclick = "Okayama()" class = "Okayama" style = "fill:#ededed; stroke:none;" d="M716 64L717 65L716 64z"/>
+                        <path onclick = "Okayama()" class = "Okayama" style = "fill:#e0e0e0; stroke:none;" d="M717 64L718 65L717 64z"/>
+                        <path onclick = "Okayama()" class = "Okayama" style = "fill:#ededed; stroke:none;" d="M713 65L714 66L713 65M709.667 66.3333L710.333 66.6667L709.667 66.3333z"/>
+                        <path onclick = "Okayama()" class = "Okayama" style = "fill:#e0e0e0; stroke:none;" d="M706 67L707 68L706 67z"/>
+</svg>

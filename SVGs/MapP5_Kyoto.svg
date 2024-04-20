@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1450" height="800">
+                        <path onclick = "Kyoto()" class = "Kyoto" style = "fill:#010101; stroke:none;" d="M0 0L0 800L1450 800L1450 0L1135 0C1136.1 2.80658 1139.18 7.77747 1136.44 10.4684C1133.67 13.1891 1125.24 6.00952 1121 6.03009C1115.01 6.05914 1113.84 10.3813 1108.91 12.243C1100.61 15.3727 1089.45 7.38165 1087 0L0 0z"/>
+                        <path onclick = "Kyoto()" class = "Kyoto" style = "fill:#dfdfdf; stroke:none;" d="M1087 0L1088 1L1087 0z"/>
+                        <path onclick = "Kyoto()" class = "Kyoto" style = "fill:#ffffff; stroke:none;" d="M1087 1C1089.97 8.14368 1100.7 15.2722 1108.96 12.2423C1113.57 10.5519 1115.52 5.42999 1121 5.48999C1127.21 5.55798 1130.55 11.1113 1136 13L1139 9L1133.78 1.02777L1121 0L1087 1z"/>
+                        <path onclick = "Kyoto()" class = "Kyoto" style = "fill:#ebebeb; stroke:none;" d="M1134 0L1135 1L1134 0z"/>
+                        <path onclick = "Kyoto()" class = "Kyoto" style = "fill:#d3d3d3; stroke:none;" d="M1135 1L1136 2L1135 1M1136 3L1137 4L1136 3M1088 4L1089 5L1088 4z"/>
+                        <path onclick = "Kyoto()" class = "Kyoto" style = "fill:#ebebeb; stroke:none;" d="M1089 5L1090 6L1089 5M1118 5L1119 6L1118 5z"/>
+                        <path onclick = "Kyoto()" class = "Kyoto" style = "fill:#dfdfdf; stroke:none;" d="M1119 5L1120 6L1119 5z"/>
+                        <path onclick = "Kyoto()" class = "Kyoto" style = "fill:#d3d3d3; stroke:none;" d="M1120 5L1121 6L1120 5z"/>
+                        <path onclick = "Kyoto()" class = "Kyoto" style = "fill:#dfdfdf; stroke:none;" d="M1121 5L1122 6L1121 5z"/>
+                        <path onclick = "Kyoto()" class = "Kyoto" style = "fill:#ebebeb; stroke:none;" d="M1122 5L1123 6L1122 5z"/>
+                        <path onclick = "Kyoto()" class = "Kyoto" style = "fill:#d3d3d3; stroke:none;" d="M1115 6L1116 7L1115 6M1126 6L1127 7L1126 6z"/>
+                        <path onclick = "Kyoto()" class = "Kyoto" style = "fill:#ebebeb; stroke:none;" d="M1137 6L1138 7L1137 6z"/>
+                        <path onclick = "Kyoto()" class = "Kyoto" style = "fill:#d3d3d3; stroke:none;" d="M1138 7L1139 8L1138 7z"/>
+                        <path onclick = "Kyoto()" class = "Kyoto" style = "fill:#dfdfdf; stroke:none;" d="M1113 8L1114 9L1113 8z"/>
+                        <path onclick = "Kyoto()" class = "Kyoto" style = "fill:#ebebeb; stroke:none;" d="M1130 10L1131 11L1130 10z"/>
+                        <path onclick = "Kyoto()" class = "Kyoto" style = "fill:#dfdfdf; stroke:none;" d="M1137 10L1138 11L1137 10z"/>
+                        <path onclick = "Kyoto()" class = "Kyoto" style = "fill:#ebebeb; stroke:none;" d="M1101 11L1102 12L1101 11M1111 11L1112 12L1111 11z"/>
+                        <path onclick = "Kyoto()" class = "Kyoto" style = "fill:#d3d3d3; stroke:none;" d="M1103 12L1104 13L1103 12z"/>
+                        <path onclick = "Kyoto()" class = "Kyoto" style = "fill:#dfdfdf; stroke:none;" d="M1109 12L1110 13L1109 12z"/>
+</svg>

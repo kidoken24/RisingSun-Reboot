@@ -1,0 +1,5 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1450" height="1399">
+<path class = "AomoriD" onclick = "Inakadate()" id = "Inakadate" style = "fill:#010101; stroke:none;" d="M0 0L0 1399L1450 1399L1450 0L0 0z"/>
+<path class = "AomoriD" onclick = "Inakadate()" id = "Inakadate" style = "fill:#ffffff; stroke:none;" d="M568 922C558.838 934.157 551.571 938.946 537 933C529.606 943.282 522.496 952.757 510 956L520 978L535 967.677L560 970.888L574 964L568.559 947L568 922z"/>
+</svg>

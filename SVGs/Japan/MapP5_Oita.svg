@@ -1,0 +1,148 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1450" height="800">
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#010101; stroke:none;" d="M0 0L0 800L1450 800L1450 0L0 0z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ffffff; stroke:none;" d="M358 247C343.123 249.327 330.044 240.776 316 239C314.398 246.056 318.524 253.425 312.451 259.486C303.041 268.877 286.638 254.355 276.529 264.393C270.177 270.7 262.109 283.459 259.927 292C258.984 295.693 261.753 299.286 261.725 303C261.685 308.392 258.412 310.783 256 315C265.986 321.847 265.607 333.117 258 342C263.043 344.054 277.336 357.903 282.574 354.914C295.398 347.594 268.58 331.384 286.004 325.21C288.245 324.416 290.649 323.698 293 323.326C295.67 322.903 298.468 322.984 301 324.009C310.893 328.017 310.725 337.004 315.023 344.715C318.989 351.829 326.744 359.543 328.024 368C328.963 374.208 326.077 381.081 330.009 386.867C333.146 391.484 344.284 400.141 350.004 399.887C354.913 399.668 359.038 395.314 363.999 396.672C371.467 398.716 369.539 405.569 374.317 409.381C377.104 411.605 396.063 408.521 399.996 407.424C406.641 405.57 406.422 396.43 413.005 395.283C428.43 392.595 429.47 404.061 429 415C432.6 413.014 433.028 410.889 432 407C440.686 406.621 448.654 402.969 454 396L446 396L454 386L451 380L455 381C453.567 371.794 426.383 363.739 442.015 353.742C443.569 352.749 445.204 352.349 447 352.069C449.975 351.606 453 351.237 456 351L453 345C449.198 347.942 447.15 348.76 443 346L442 346C436.833 348.647 432.799 346.728 428 344L437 338C433.648 338.078 429.242 339.898 426.059 339.049C421.404 337.807 422.558 333.183 424.198 330C427.897 322.819 434.431 317.135 436 309C429.685 309.947 423.328 315.606 417 314.86C410.561 314.1 405.477 307.826 399 307.739C392.364 307.65 386.701 313.411 380 311.782C373.383 310.174 362.134 295.84 370.43 289.917C373.898 287.441 377.254 292.079 380.91 291.793C385.229 291.456 388.274 286.753 393 286L390 277L402 280C410.701 263.661 412.814 232.51 390 225.228C377.778 221.327 355.618 232.291 358 247z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M365 232L366 233L365 232M364 233L365 234L364 233M362 236L363 237L362 236z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#dfdfdf; stroke:none;" d="M361 237L362 238L361 237z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M316.667 238.333L317.333 238.667L316.667 238.333M319 239L320 240L319 239M324 239L325 240L324 239z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#dfdfdf; stroke:none;" d="M315 240L316 241L315 240z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M358 241L359 242L358 241z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#dfdfdf; stroke:none;" d="M357 242L358 243L357 242z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#d1d1d1; stroke:none;" d="M314 243L315 244L314 243z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M329 243L330 244L329 243z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#dfdfdf; stroke:none;" d="M314 244L315 245L314 244z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M331 244L332 245L331 244z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#dfdfdf; stroke:none;" d="M332 244L333 245L332 244z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M356 244L357 245L356 244M341 245L342 246L341 245M343 246L343 247L346 247L343 246M349 246L350 247L349 246M357 246L358 247L357 246M316 247L317 248L316 247M353.667 247.333L354.333 247.667L353.667 247.333z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#d1d1d1; stroke:none;" d="M316 251L317 252L316 251z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M315 254L316 255L315 254z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#d1d1d1; stroke:none;" d="M313 259L314 260L313 259M283 260L284 261L283 260z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M290 260L291 261L290 260z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#dfdfdf; stroke:none;" d="M312 260L313 261L312 260z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#d1d1d1; stroke:none;" d="M280 261L281 262L280 261z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M294 261L295 262L294 261z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#d1d1d1; stroke:none;" d="M295 261L296 262L295 261M308 261L309 262L308 261z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M309 261L310 262L309 261z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#d1d1d1; stroke:none;" d="M278 262L279 263L278 262z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M275 265L276 266L275 265M272 270L273 271L272 270z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#d1d1d1; stroke:none;" d="M269 272L270 273L269 272z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M267 276L268 277L267 276M390 277L391 278L390 277z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#dfdfdf; stroke:none;" d="M395.667 277.333L396.333 277.667L395.667 277.333z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M397 277L398 278L397 277z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#dfdfdf; stroke:none;" d="M266 278L267 279L266 278M398 278L399 279L398 278M399 279L400 280L399 279z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M390 281L391 282L390 281z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#dfdfdf; stroke:none;" d="M391 282L392 283L391 282z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M265 284L266 285L265 284M392 284L393 285L392 284z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#dfdfdf; stroke:none;" d="M393 285L394 286L393 285z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M389.667 286.333L390.333 286.667L389.667 286.333z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#dfdfdf; stroke:none;" d="M391 286L392 287L391 286z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M386 287L387 288L386 287z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#dfdfdf; stroke:none;" d="M387 287L388 288L387 287z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M372 288L372 289L375 289L372 288M369 289L370 290L369 289z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#dfdfdf; stroke:none;" d="M375 289L376 290L375 289z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M384 290L385 291L384 290M259 291L260 292L259 291z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#dfdfdf; stroke:none;" d="M368 291L369 292L368 291z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M376 291L377 292L376 291z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#dfdfdf; stroke:none;" d="M379 292L379 293L382 293L379 292z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#d1d1d1; stroke:none;" d="M382 292L383 293L382 292z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#dfdfdf; stroke:none;" d="M259 294L260 295L259 294z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#d1d1d1; stroke:none;" d="M260 297L261 298L260 297z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#dfdfdf; stroke:none;" d="M368 297L369 298L368 297z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M368.333 298.667L368.667 299.333L368.333 298.667z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#dfdfdf; stroke:none;" d="M261 299L262 300L261 299M369 302L370 303L369 302M370 304L371 305L370 304z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#d1d1d1; stroke:none;" d="M261 305L262 306L261 305z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M371 306L372 307L371 306z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#dfdfdf; stroke:none;" d="M396 307L397 308L396 307z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M397.667 307.333L398.333 307.667L397.667 307.333z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#dfdfdf; stroke:none;" d="M401 307L402 308L401 307M393 308L394 309L393 308z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M394 308L395 309L394 308M402 308L403 309L402 308z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#dfdfdf; stroke:none;" d="M403 308L404 309L403 308M390 309L391 310L390 309z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M391 309L392 310L391 309M404 309L405 310L404 309M375 310L376 311L375 310z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#dfdfdf; stroke:none;" d="M388 310L389 311L388 310z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M406 310L407 311L406 310z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#dfdfdf; stroke:none;" d="M259 311L260 312L259 311M378 311L379 312L378 311z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M386 311L387 312L386 311z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#dfdfdf; stroke:none;" d="M408 311L409 312L408 311M256 312L257 313L256 312z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M382 312L382 313L385 313L382 312M410 312L411 313L410 312z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#d1d1d1; stroke:none;" d="M411 312L412 313L411 312z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M412 313L413 314L412 313z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#dfdfdf; stroke:none;" d="M413 313L414 314L413 313z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M258 315L259 316L258 315z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#d1d1d1; stroke:none;" d="M263 323L264 324L263 323z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M291 323L292 324L291 323z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#d1d1d1; stroke:none;" d="M299 323L300 324L299 323z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M300 323L301 324L300 323z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#dfdfdf; stroke:none;" d="M264 324L265 325L264 324z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M288 324L289 325L288 324z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#dfdfdf; stroke:none;" d="M284 325L285 326L284 325z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#d1d1d1; stroke:none;" d="M304 325L305 326L304 325z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M280 327L281 328L280 327M425 327L426 328L425 327z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#d1d1d1; stroke:none;" d="M264 329L265 330L264 329z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M279 329L280 330L279 329M308 329L309 330L308 329M264 330L265 331L264 330z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#d1d1d1; stroke:none;" d="M279 330L280 331L279 330M279 332L280 333L279 332z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#dfdfdf; stroke:none;" d="M310 332L311 333L310 332z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M422 332L423 333L422 332z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#d1d1d1; stroke:none;" d="M263 333L264 334L263 333z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M279 333L280 334L279 333M263 334L264 335L263 334z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#dfdfdf; stroke:none;" d="M312 335L313 336L312 335z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M280 336L281 337L280 336M313 337L314 338L313 337M422 337L423 338L422 337z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#d1d1d1; stroke:none;" d="M261 338L262 339L261 338M281 338L282 339L281 338z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M423 338L424 339L423 338M430 338L431 339L430 338M428 339L429 340L428 339M259 340L260 341L259 340M282 340L283 341L282 340M283 341L284 342L283 341M433 341L434 342L433 341z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#d1d1d1; stroke:none;" d="M258 342L259 343L258 342z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M284 342L285 343L284 342M431 342L432 343L431 342z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#d1d1d1; stroke:none;" d="M262 343L263 344L262 343z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#dfdfdf; stroke:none;" d="M285 343L286 344L285 343z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M429 343L430 344L429 343M264 344L265 345L264 344M428 344L429 345L428 344M265 345L266 346L265 345M430 345L431 346L430 345M266 346L267 347L266 346M316 346L317 347L316 346M432 346L433 347L432 346z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#d1d1d1; stroke:none;" d="M317 347L318 348L317 347z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#dfdfdf; stroke:none;" d="M285 349L286 350L285 349M319 349L320 350L319 349z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#d1d1d1; stroke:none;" d="M274 351L275 352L274 351z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M276 352L277 353L276 352z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#dfdfdf; stroke:none;" d="M284 353L285 354L284 353z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#d1d1d1; stroke:none;" d="M321 353L322 354L321 353M278 355L279 356L278 355z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M280 356L281 357L280 356z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#dfdfdf; stroke:none;" d="M281 356L282 357L281 356z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M322 356L323 357L322 356M323 359L324 360L323 359M436 361L437 362L436 361z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#d1d1d1; stroke:none;" d="M326 363L327 364L326 363z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M327 365L328 366L327 365M438 365L439 366L438 365M439 366L440 367L439 366z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#d1d1d1; stroke:none;" d="M328 367L329 368L328 367z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M440 367L441 368L440 367z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#d1d1d1; stroke:none;" d="M328 369L329 370L328 369z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M443 369L444 370L443 369M445 370L446 371L445 370M327 372L328 373L327 372M327 375L328 376L327 375z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#dfdfdf; stroke:none;" d="M327 376L328 377L327 376z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M328 384L329 385L328 384M329 386L330 387L329 386M334 390L335 391L334 390z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#d1d1d1; stroke:none;" d="M339 394L340 395L339 394z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M413.667 394.333L414.333 394.667L413.667 394.333z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#dfdfdf; stroke:none;" d="M340 395L341 396L340 395z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#d1d1d1; stroke:none;" d="M410 395L411 396L410 395z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M358 396L359 397L358 396z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#dfdfdf; stroke:none;" d="M418 396L419 397L418 396z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#d1d1d1; stroke:none;" d="M366 397L367 398L366 397z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#dfdfdf; stroke:none;" d="M420 397L421 398L420 397z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M368 398L369 399L368 398z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#dfdfdf; stroke:none;" d="M407 398L408 399L407 398z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#d1d1d1; stroke:none;" d="M427 398L428 399L427 398z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#dfdfdf; stroke:none;" d="M344 399L345 400L344 399z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M353 399L354 400L353 399z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#dfdfdf; stroke:none;" d="M369 399L370 400L369 399z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M429 399L430 400L429 399M345 400L345 401L349 401L345 400z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#dfdfdf; stroke:none;" d="M349 400L350 401L349 400z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M370 400L371 401L370 400M371 402L372 403L371 402z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#dfdfdf; stroke:none;" d="M406 402L407 403L406 402z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#d1d1d1; stroke:none;" d="M371 403L372 404L371 403z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M405 404L406 405L405 404M404 405L405 406L404 405z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#d1d1d1; stroke:none;" d="M429 405L430 406L429 405z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M437.667 406.333L438.333 406.667L437.667 406.333z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#dfdfdf; stroke:none;" d="M389 407L390 408L389 407z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#d1d1d1; stroke:none;" d="M390.667 407.333L391.333 407.667L390.667 407.333z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#dfdfdf; stroke:none;" d="M392 407L393 408L392 407z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M393 407L394 408L393 407z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#d1d1d1; stroke:none;" d="M400 407L401 408L400 407z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M432 407L433 408L432 407z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#dfdfdf; stroke:none;" d="M372 408L373 409L372 408z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#d1d1d1; stroke:none;" d="M385 408L386 409L385 408z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#dfdfdf; stroke:none;" d="M373 409L374 410L373 409z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M381 409L382 410L381 409z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#dfdfdf; stroke:none;" d="M429 409L430 410L429 409z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#d1d1d1; stroke:none;" d="M379 410L380 411L379 410z"/>
+                        <path onclick = "Oita()" class = "Oita" style = "fill:#ededed; stroke:none;" d="M432 413L433 414L432 413M431 414L432 415L431 414z"/>
+</svg>

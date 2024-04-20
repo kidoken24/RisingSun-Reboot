@@ -1,0 +1,70 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1450" height="800">
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#010101; stroke:none;" d="M0 0L0 800L200 800L257 800C263.957 800 275.366 802.19 281.787 799.397C288.815 796.339 293.434 779.274 297.91 773C303.384 765.326 311.926 760.187 317.146 752.711C323.346 743.829 324.344 728.339 327.438 718C331.409 704.735 338.991 694.316 339 680L371 677C371.088 701.978 413.21 696.056 427.996 706.789C439.338 715.021 437.622 727.089 454 730C450.145 740.447 464.968 747.221 465.559 757C465.745 760.064 462.999 777.524 461.254 779.682C458.917 782.572 452.984 780.788 451.708 784.318C450.292 788.236 454.261 795.372 454 800L1450 800L1450 0L0 0z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#ffffff; stroke:none;" d="M339 680C338.998 694.022 331.667 703.964 327.91 717C324.883 727.501 323.546 742.953 317.297 751.961C313.605 757.283 307.507 761.145 303.174 766C294.969 775.191 287.422 788.121 284 800L454 800L451.708 784.268L461.218 779.681L465.749 757L453 730L439.225 722.892L424 704.135L380 691.135L372.027 684.957L368.682 677.708L358 680.61L339 680z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#f1f1f1; stroke:none;" d="M370 677L371 678L370 677M340 680L341 681L340 680z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#dcdcdc; stroke:none;" d="M341 680L342 681L341 680z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#f1f1f1; stroke:none;" d="M371 685L372 686L371 685z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#e7e7e7; stroke:none;" d="M372 686L373 687L372 686M373 687L374 688L373 687z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#f1f1f1; stroke:none;" d="M374 688L375 689L374 688z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#e7e7e7; stroke:none;" d="M338 689L339 690L338 689z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#dcdcdc; stroke:none;" d="M376 689L377 690L376 689z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#f1f1f1; stroke:none;" d="M338 690L339 691L338 690z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#dcdcdc; stroke:none;" d="M378 690L379 691L378 690z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#f1f1f1; stroke:none;" d="M380 691L381 692L380 691M337 693L338 694L337 693z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#dcdcdc; stroke:none;" d="M385 693L386 694L385 693M387 694L388 695L387 694M389 695L390 696L389 695z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#f1f1f1; stroke:none;" d="M336 696L337 697L336 696M391 696L392 697L391 696M394 697L395 698L394 697z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#e7e7e7; stroke:none;" d="M335 698L336 699L335 698z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#f1f1f1; stroke:none;" d="M398 698L399 699L398 698z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#dcdcdc; stroke:none;" d="M399 698L400 699L399 698z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#f1f1f1; stroke:none;" d="M404 699L405 700L404 699z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#dcdcdc; stroke:none;" d="M405 699L406 700L405 699z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#f1f1f1; stroke:none;" d="M410 700L411 701L410 700M334 701L335 702L334 701M415 701L416 702L415 701z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#dcdcdc; stroke:none;" d="M416 701L417 702L416 701M420 702L421 703L420 702z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#f1f1f1; stroke:none;" d="M333 703L334 704L333 703M424 704L425 705L424 704M332 705L333 706L332 705z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#dcdcdc; stroke:none;" d="M426 705L427 706L426 705z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#e7e7e7; stroke:none;" d="M331 707L332 708L331 707z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#f1f1f1; stroke:none;" d="M429 707L430 708L429 707z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#e7e7e7; stroke:none;" d="M330 709L331 710L330 709z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#f1f1f1; stroke:none;" d="M433 711L434 712L433 711M329 712L330 713L329 712M434 713L435 714L434 713z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#e7e7e7; stroke:none;" d="M328 714L329 715L328 714z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#f1f1f1; stroke:none;" d="M435 716L436 717L435 716z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#e7e7e7; stroke:none;" d="M327 717L328 718L327 717z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#f1f1f1; stroke:none;" d="M327 718L328 719L327 718M436 719L437 720L436 719z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#e7e7e7; stroke:none;" d="M326 721L327 722L326 721M437 721L438 722L437 721z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#f1f1f1; stroke:none;" d="M326 722L327 723L326 722M325 725L326 726L325 725z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#dcdcdc; stroke:none;" d="M443 726L444 727L443 726z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#e7e7e7; stroke:none;" d="M446 727L447 728L446 727M324 728L325 729L324 728z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#f1f1f1; stroke:none;" d="M324 729L325 730L324 729z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#dcdcdc; stroke:none;" d="M453.333 730.667L453.667 731.333L453.333 730.667z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#f1f1f1; stroke:none;" d="M323 732L324 733L323 732z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#e7e7e7; stroke:none;" d="M452 732L453 733L452 732M322 735L323 736L322 735z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#f1f1f1; stroke:none;" d="M452 735L453 736L452 735M322 736L323 737L322 736z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#e7e7e7; stroke:none;" d="M321 739L322 740L321 739z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#f1f1f1; stroke:none;" d="M456 740L457 741L456 740z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#dcdcdc; stroke:none;" d="M457 741L458 742L457 741z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#f1f1f1; stroke:none;" d="M320 743L321 744L320 743z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#dcdcdc; stroke:none;" d="M459 744L460 745L459 744z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#e7e7e7; stroke:none;" d="M319 746L320 747L319 746z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#f1f1f1; stroke:none;" d="M319 747L320 748L319 747M318 750L319 751L318 750M461 750L462 751L461 750M462 751L463 752L462 751M463 752L464 753L463 752z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#e7e7e7; stroke:none;" d="M464 753L465 754L464 753M315 754L316 755L315 754z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#dcdcdc; stroke:none;" d="M465 754L466 755L465 754z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#f1f1f1; stroke:none;" d="M314 755L315 756L314 755M466 756L467 757L466 756z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#e7e7e7; stroke:none;" d="M310 758L311 759L310 758M309 759L310 760L309 759M465 759L466 760L465 759z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#f1f1f1; stroke:none;" d="M308 760L309 761L308 760M307 761L308 762L307 761M306 762L307 763L306 762M463 762L464 763L463 762M305 763L306 764L305 763M304 764L305 765L304 764z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#e7e7e7; stroke:none;" d="M303 765L304 766L303 765M302 766L303 767L302 766z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#f1f1f1; stroke:none;" d="M462 766L463 767L462 766z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#dcdcdc; stroke:none;" d="M462 767L463 768L462 767z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#f1f1f1; stroke:none;" d="M300 769L301 770L300 769M299 770L300 771L299 770M297 773L298 774L297 773z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#dcdcdc; stroke:none;" d="M462 773L463 774L462 773z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#e7e7e7; stroke:none;" d="M296 774L297 775L296 774M462 774L463 775L462 774z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#f1f1f1; stroke:none;" d="M462 775L463 776L462 775M295 776L296 777L295 776M462 778L463 779L462 778z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#e7e7e7; stroke:none;" d="M293 779L294 780L293 779M461 780L462 781L461 780z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#f1f1f1; stroke:none;" d="M292 781L293 782L292 781z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#e7e7e7; stroke:none;" d="M453 781L454 782L453 781z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#f1f1f1; stroke:none;" d="M454 781L455 782L454 781z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#dcdcdc; stroke:none;" d="M460 781L461 782L460 781M451 782L452 783L451 782z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#f1f1f1; stroke:none;" d="M291 783L292 784L291 783M290 785L291 786L290 785M289 787L290 788L289 787M451 787L452 788L451 787M288 789L289 790L288 789M452 789L453 790L452 789M287 791L288 792L287 791M453 791L454 792L453 791M286 793L287 794L286 793M285 795L286 796L285 795z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#dcdcdc; stroke:none;" d="M454.333 796.667L454.667 797.333L454.333 796.667z"/>
+                        <path onclick = "Yamagata()" class = "Yamagata" style = "fill:#e7e7e7; stroke:none;" d="M284 797L285 798L284 797M283 799L284 800L283 799z"/>
+</svg>

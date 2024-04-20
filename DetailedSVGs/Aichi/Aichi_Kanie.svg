@@ -1,0 +1,5 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1450" height="1289">
+<path class = "AichiD" onclick = "Kanie()" id = "Kanie" style = "fill:#010101; stroke:none;" d="M0 0L0 1289L1450 1289L1450 0L0 0z"/>
+<path class = "AichiD" onclick = "Kanie()" id = "Kanie" style = "fill:#ffffff; stroke:none;" d="M177 433C169.678 439.75 165.933 448.274 163.899 458C163.267 461.024 164.936 463.936 163.9 466.985C162.199 471.996 156.965 473.915 157.319 479.943C157.747 487.245 173.961 493.843 180 492L182 497C192.01 490.533 187.732 473.677 199 469L196.821 443.589L188 440.451L177 433z"/>
+</svg>

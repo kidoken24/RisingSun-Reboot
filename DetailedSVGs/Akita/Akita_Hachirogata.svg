@@ -1,0 +1,5 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="936" height="1450">
+<path class = "AkitaD" onclick = "Hachirogata()" id = "Hachirogata" style = "fill:#010101; stroke:none;" d="M0 0L0 1450L936 1450L936 0L0 0z"/>
+<path class = "AkitaD" onclick = "Hachirogata()" id = "Hachirogata" style = "fill:#ffffff; stroke:none;" d="M292 479L286.771 501L276 521C287.45 523.725 309.463 518.017 315 507C308.965 503.82 304.288 501.497 305 494L317 500L324 493L324 483C309.445 484.2 305.535 488.216 292 479z"/>
+</svg>

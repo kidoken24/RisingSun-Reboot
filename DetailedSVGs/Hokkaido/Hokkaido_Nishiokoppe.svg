@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1231" height="874">
+<path style="fill:#010101; stroke:none;" d="M0 0L0 874L1231 874L1231 0L0 0z"/>
+<path style="fill:#ffffff; stroke:none;" d="M665 262L665.588 284.911L670 300C677.971 300.915 689.19 295.832 691.152 286.741C692.17 282.023 690.028 276.234 691 271L670 266L668 262L665 262z"/>
+<path style="fill:#fdfbfd; stroke:none;" d="M667 263L668 264L667 263M665 264L665 284L666 284L665 264M668.333 265.667L668.667 266.333L668.333 265.667M669 267L669 268L672 268L669 267M674 268L675 269L674 268M672 269L672 270L674 272L675 272L672 269M675 269L676 270L675 269M676 270L677 271L676 270z"/>
+<path style="fill:#f7f7f7; stroke:none;" d="M672 271L673 272L672 271z"/>
+<path style="fill:#fdfbfd; stroke:none;" d="M666 284L667 285L666 284M689 285L691 287L689 285M692 286L692 288L694 288L692 286z"/>
+<path style="fill:#f7f7f7; stroke:none;" d="M688 287L689 288L688 287z"/>
+<path style="fill:#f9f9f9; stroke:none;" d="M667 288L668 289L667 288z"/>
+<path style="fill:#fdfbfd; stroke:none;" d="M669 288L671 291L669 288z"/>
+<path style="fill:#f7f7f7; stroke:none;" d="M684 288L685 289L684 288z"/>
+<path style="fill:#f9f9f9; stroke:none;" d="M671 289L672 290L671 289z"/>
+<path style="fill:#fdfbfd; stroke:none;" d="M686 289L685 291L686 289M688 289L689 290L688 289M684 294L685 295L684 294M680 297L681 298L680 297M673 300L674 301L673 300M676 300L677 301L676 300z"/>
+</svg>

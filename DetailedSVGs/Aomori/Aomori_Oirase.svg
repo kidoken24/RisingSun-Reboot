@@ -1,0 +1,5 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1450" height="1399">
+<path class = "AomoriD" onclick = "Oirase()" id = "Oirase" style = "fill:#010101; stroke:none;" d="M0 0L0 1399L1450 1399L1450 0L0 0z"/>
+<path class = "AomoriD" onclick = "Oirase()" id = "Oirase" style = "fill:#ffffff; stroke:none;" d="M1172 922L1173 930L1165 931L1170.11 951.896L1161.32 975L1163 994L1174 989L1176 997L1169 1005C1182.42 1006.7 1197.45 1011.02 1211 1009.58C1222.91 1008.31 1241.64 999.048 1252 993C1248.14 976.329 1240.66 960.396 1235.72 944C1234.44 939.74 1233.29 929.589 1228.72 927.618C1214.12 921.318 1183.82 941.447 1175 922L1172 922z"/>
+</svg>

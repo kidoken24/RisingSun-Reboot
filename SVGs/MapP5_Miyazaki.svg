@@ -1,0 +1,111 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1450" height="800">
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#010101; stroke:none;" d="M0 0L0 800L1450 800L1450 0L0 0z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#e6e6e6; stroke:none;" d="M411 397L412 398L411 397z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#ffffff; stroke:none;" d="M237 545C234.643 555.044 243.036 554.435 246.976 562.004C248.811 565.528 248.085 570.364 251.638 572.987C255.696 575.983 260.841 574.564 264.347 579.109C269.601 585.919 265.068 594.425 265 602C271.299 603.509 282.242 605.367 282 613C289.3 615.168 289.667 627.633 293 634C298.599 632.319 299.853 634.023 305 635.811C307.887 636.814 311.048 635.248 313.772 636.951C319.484 640.521 319.755 651.169 318.852 656.999C318.149 661.534 311.365 665.701 313.619 670.568C314.817 673.157 318.767 673.449 320.772 675.314C323.806 678.136 323.389 683.497 326.564 685.82C330.019 688.349 337.544 688.643 342 691C341.512 685.648 340.483 682.626 346 680C345.773 674.332 345.204 670.814 350 667C348.081 651.813 356.471 648.527 361.258 635.985C362.621 632.414 361.156 628.667 361.553 625C362.252 618.541 365.056 612.418 366 606C356.528 598.094 360.764 585.306 363.374 575C370.146 548.263 376.056 518.959 389.446 494.961C391.938 490.494 395.15 483.516 396.841 478.831C397.843 476.054 395.286 474.231 395.478 471.61C395.795 467.277 402.91 467.376 406 467C405.128 461.913 398.495 459.579 400.029 454C401.65 448.103 406.797 446.85 410.351 442.726C413.043 439.603 413.799 435.263 416.394 432.015C419.223 428.473 423.878 426.606 426.392 422.896C428.436 419.879 427.804 406.913 426.682 403.228C425.679 399.934 415.183 396.72 412.228 398.136C408.775 399.79 408.067 405.105 404.942 407.486C400.484 410.884 382.671 413.338 377.001 412.91C368.769 412.288 370.97 402.399 364.941 399.501C359.502 396.886 353.787 403.228 348.004 402.762C343.252 402.378 341.148 398.136 335.996 398.753C325.986 399.951 328.367 408.523 323.49 414.91C318.795 421.06 311.031 426.707 307.289 433.158C304.935 437.214 305.73 443.03 302.436 446.566C299.911 449.277 296.253 448.211 293.379 450.027C288.981 452.806 287.015 460.124 287.129 465C287.457 479.015 300.814 485.152 302.573 498C303.526 504.96 292.624 506.585 293.737 512.058C294.96 518.07 306.674 525.015 301.393 531.756C297.323 536.952 291.281 530.516 286.209 532.607C282.364 534.193 280.961 539.043 276.996 540.728C273.245 542.321 269.89 539.277 266.17 540.053C263.124 540.689 261.016 543.586 257.996 544.487C252.113 546.243 243.077 545.649 237 545z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#f1f2f3; stroke:none;" d="M415 397L416 398L415 397M337 398L338 399L337 398z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#e6e6e6; stroke:none;" d="M341 398L342 399L341 398M360 398L361 399L360 398M363 398L364 399L363 398z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#f1f2f3; stroke:none;" d="M410 398L411 399L410 398z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#e6e6e6; stroke:none;" d="M358 399L359 400L358 399z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#f1f2f3; stroke:none;" d="M418 399L419 400L418 399z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#e6e6e6; stroke:none;" d="M422 399L423 400L422 399M329 400L330 401L329 400z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#f1f2f3; stroke:none;" d="M409 400L410 401L409 400M425 400L426 401L425 400z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#e6e6e6; stroke:none;" d="M427.333 401.667L427.667 402.333L427.333 401.667M351 402L352 403L351 402z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#f1f2f3; stroke:none;" d="M408 404L409 405L408 404M326 408L327 409L326 408M404 408L405 409L404 408M387 410L388 411L387 410z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#e6e6e6; stroke:none;" d="M325 411L326 412L325 411M383 411L384 412L383 411M426 411L427 412L426 411z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#f1f2f3; stroke:none;" d="M373 412L374 413L373 412z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#e6e6e6; stroke:none;" d="M376.667 413.333L377.333 413.667L376.667 413.333M324 414L325 415L324 414M426 415L427 416L426 415z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#f1f2f3; stroke:none;" d="M428.333 417.667L428.667 418.333L428.333 417.667z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#e6e6e6; stroke:none;" d="M318 419L319 420L318 419M428 419L429 420L428 419z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#f1f2f3; stroke:none;" d="M317 420L318 421L317 420M316 421L317 422L316 421M426 423L427 424L426 423M425 424L426 425L425 424z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#e6e6e6; stroke:none;" d="M314 425L315 426L314 425M422 426L423 427L422 426M308 430L309 431L308 430z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#f1f2f3; stroke:none;" d="M311 430L312 431L311 430z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#e6e6e6; stroke:none;" d="M307 431L308 432L307 431z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#f1f2f3; stroke:none;" d="M415 432L416 433L415 432M306 434L307 435L306 434z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#e6e6e6; stroke:none;" d="M414 434L415 435L414 434z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#f1f2f3; stroke:none;" d="M413 436L414 437L413 436M305 438L306 439L305 438z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#e6e6e6; stroke:none;" d="M412 439L413 440L412 439M411 441L412 442L411 441M304 442L305 443L304 442z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#f1f2f3; stroke:none;" d="M409 444L410 445L409 444z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#e6e6e6; stroke:none;" d="M406 445L407 446L406 445M303 446L304 447L303 446M404 446L405 447L404 446M294.667 448.333L295.333 448.667L294.667 448.333z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#f1f2f3; stroke:none;" d="M402 448L403 449L402 448z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#e6e6e6; stroke:none;" d="M291 451L292 452L291 451z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#f1f2f3; stroke:none;" d="M290 453L291 454L290 453z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#e6e6e6; stroke:none;" d="M399 454L400 455L399 454z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#f1f2f3; stroke:none;" d="M399 458L400 459L399 458z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#e6e6e6; stroke:none;" d="M287 460L288 461L287 460z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#f1f2f3; stroke:none;" d="M397.667 467.333L398.333 467.667L397.667 467.333z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#e6e6e6; stroke:none;" d="M287 468L288 469L287 468M395 469L396 470L395 469z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#f1f2f3; stroke:none;" d="M394 472L395 473L394 472z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#e6e6e6; stroke:none;" d="M395 473L396 474L395 473z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#f1f2f3; stroke:none;" d="M288 474L289 475L288 474M396 474L397 475L396 474M397 475L398 476L397 475M290 479L291 480L290 479z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#e6e6e6; stroke:none;" d="M291 480L292 481L291 480M293 481L294 482L293 481M394 481L395 482L394 481z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#f1f2f3; stroke:none;" d="M295 482L296 483L295 482M296 483L297 484L296 483M392 484L393 485L392 484z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#e6e6e6; stroke:none;" d="M392 485L393 486L392 485z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#f1f2f3; stroke:none;" d="M391 489L392 490L391 489z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#e6e6e6; stroke:none;" d="M391 490L392 491L391 490M298 491L299 492L298 491M299 492L300 493L299 492M300 493L301 494L300 493M390 493L391 494L390 493M301 494L302 495L301 494z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#f1f2f3; stroke:none;" d="M302 495L303 496L302 495z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#e6e6e6; stroke:none;" d="M389 495L390 496L389 495z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#f1f2f3; stroke:none;" d="M388 496L389 497L388 496M385 499L386 500L385 499M302 501L303 502L302 501z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#e6e6e6; stroke:none;" d="M384 501L385 502L384 501z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#f1f2f3; stroke:none;" d="M301 503L302 504L301 503M383 504L384 505L383 504z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#e6e6e6; stroke:none;" d="M383 505L384 506L383 505z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#f1f2f3; stroke:none;" d="M382 508L383 509L382 508z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#e6e6e6; stroke:none;" d="M292 510L293 511L292 510z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#f1f2f3; stroke:none;" d="M381 511L382 512L381 511z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#e6e6e6; stroke:none;" d="M381 512L382 513L381 512z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#f1f2f3; stroke:none;" d="M380 515L381 516L380 515M379 518L380 519L379 518M298 519L299 520L298 519z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#76ccfe; stroke:none;" d="M379 519L380 520L379 519z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#e6e6e6; stroke:none;" d="M299 521L300 522L299 521z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#f1f2f3; stroke:none;" d="M378 521L379 522L378 521M300 522L301 523L300 522z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#e6e6e6; stroke:none;" d="M301 523L302 524L301 523z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#f1f2f3; stroke:none;" d="M376 527L377 528L376 527z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#76ccfe; stroke:none;" d="M376 528L377 529L376 528z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#f1f2f3; stroke:none;" d="M375 530L376 531L375 530z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#e6e6e6; stroke:none;" d="M287.667 531.333L288.333 531.667L287.667 531.333z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#f1f2f3; stroke:none;" d="M302 531L303 532L302 531z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#76ccfe; stroke:none;" d="M375 531L376 532L375 531z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#e6e6e6; stroke:none;" d="M284 532L285 533L284 532M300 533L301 534L300 533z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#f1f2f3; stroke:none;" d="M374 533L375 534L374 533M283 534L284 535L283 534z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#e6e6e6; stroke:none;" d="M296 534L297 535L296 534M298 534L299 535L298 534z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#76ccfe; stroke:none;" d="M374 534L375 535L374 534z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#e6e6e6; stroke:none;" d="M282 536L283 537L282 536z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#f1f2f3; stroke:none;" d="M373 536L374 537L373 536z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#76ccfe; stroke:none;" d="M373 537L374 538L373 537z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#e6e6e6; stroke:none;" d="M265 539L266 540L265 539z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#f1f2f3; stroke:none;" d="M267 539L268 540L267 539M372 539L373 540L372 539z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#e6e6e6; stroke:none;" d="M270 540L271 541L270 540M278 540L279 541L278 540z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#76ccfe; stroke:none;" d="M372 540L373 541L372 540z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#f1f2f3; stroke:none;" d="M263 541L264 542L263 541M276 541L277 542L276 541M262 542L263 543L262 542M371 542L372 543L371 542z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#76ccfe; stroke:none;" d="M371 543L372 544L371 543z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#f1f2f3; stroke:none;" d="M259 544L260 545L259 544M239 545L239 546L242 546L239 545M370 548L371 549L370 548z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#76ccfe; stroke:none;" d="M370 549L371 550L370 549z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#f1f2f3; stroke:none;" d="M369 554L370 555L369 554z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#e6e6e6; stroke:none;" d="M242 556L243 557L242 556z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#f1f2f3; stroke:none;" d="M368 557L369 558L368 557M367 560L368 561L367 560z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#e6e6e6; stroke:none;" d="M247 561L248 562L247 561M367 561L368 562L367 561M366 564L367 565L366 564M365 567L366 568L365 567M249 570L250 571L249 570z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#f1f2f3; stroke:none;" d="M364 570L365 571L364 570M250 572L251 573L250 572z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#e6e6e6; stroke:none;" d="M256 574L257 575L256 574z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#f1f2f3; stroke:none;" d="M363 574L364 575L363 574M260 575L261 576L260 575M262 576L263 577L262 576z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#e6e6e6; stroke:none;" d="M263 577L264 578L263 577z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#f1f2f3; stroke:none;" d="M264 578L265 579L264 578M362 578L363 579L362 578M266 582L267 583L266 582M361.333 582.667L361.667 583.333L361.333 582.667M360.333 588.667L360.667 589.333L360.333 588.667z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#e6e6e6; stroke:none;" d="M360 590L361 591L360 590z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#f1f2f3; stroke:none;" d="M266 592L267 593L266 592z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#e6e6e6; stroke:none;" d="M265 594L266 595L265 594z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#f1f2f3; stroke:none;" d="M360.333 597.667L360.667 598.333L360.333 597.667M361 601L362 602L361 601M266.667 602.333L267.333 602.667L266.667 602.333z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#e6e6e6; stroke:none;" d="M272 604L273 605L272 604z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#f1f2f3; stroke:none;" d="M363 604L364 605L363 604M282 610L283 611L282 610M364 612L365 613L364 612M287 616L288 617L287 616M363 616L364 617L363 616M362 620L363 621L362 620z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#e6e6e6; stroke:none;" d="M362 621L363 622L362 621M288 623L289 624L288 623z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#f1f2f3; stroke:none;" d="M361 624L362 625L361 624z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#e6e6e6; stroke:none;" d="M361 625L362 626L361 625M361 628L362 629L361 628M290 629L291 630L290 629M292 632L293 633L292 632z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#f1f2f3; stroke:none;" d="M310.667 635.333L311.333 635.667L310.667 635.333M307 636L308 637L307 636M314 636L315 637L314 636M315 637L316 638L315 637z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#e6e6e6; stroke:none;" d="M358 640L359 641L358 640z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#f1f2f3; stroke:none;" d="M356 641L357 642L356 641M318 644L319 645L318 644M354 644L355 645L354 644M319.333 646.667L319.667 647.333L319.333 646.667M352 647L353 648L352 647M351 649L352 650L351 649z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#e6e6e6; stroke:none;" d="M350 652L351 653L350 652z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#f1f2f3; stroke:none;" d="M349 655L350 656L349 655z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#e6e6e6; stroke:none;" d="M349 656L350 657L349 656M349 661L350 662L349 661z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#f1f2f3; stroke:none;" d="M349.333 662.667L349.667 663.333L349.333 662.667z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#e6e6e6; stroke:none;" d="M315 663L316 664L315 663z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#f1f2f3; stroke:none;" d="M313 665L314 666L313 665M314 672L315 673L314 672z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#e6e6e6; stroke:none;" d="M319 673L320 674L319 673M321 675L322 676L321 675z"/>
+                        <path onclick = "Miyazaki()" class = "Miyazaki" style = "fill:#f1f2f3; stroke:none;" d="M322 676L323 677L322 676M323 678L324 679L323 678z"/>
+</svg>

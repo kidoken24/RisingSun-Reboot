@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1450" height="800">
+                        <path onclick = "Shizuoka()" class = "Shizuoka" style = "fill:#010101; stroke:none;" d="M0 0L0 800L1450 800L1450 24L1435 26.733L1404 21L1412 4L1401 13L1408 0C1400.61 0 1395.13 -0.56897 1389 4L1392 11L1401 21L1385 21L1384 0L0 0z"/>
+                        <path onclick = "Shizuoka()" class = "Shizuoka" style = "fill:#f0f0f0; stroke:none;" d="M1384 0L1385 1L1384 0z"/>
+                        <path onclick = "Shizuoka()" class = "Shizuoka" style = "fill:#ffffff; stroke:none;" d="M1385 21L1401 21L1391 11L1392 7L1388 6L1392 0C1377.7 0.169067 1387.05 12.0457 1385 21z"/>
+                        <path onclick = "Shizuoka()" class = "Shizuoka" style = "fill:#f0f0f0; stroke:none;" d="M1392.33 0.666687L1392.67 1.33331L1392.33 0.666687z"/>
+                        <path onclick = "Shizuoka()" class = "Shizuoka" style = "fill:#e9e9e9; stroke:none;" d="M1408 0L1407 2L1408 0z"/>
+                        <path onclick = "Shizuoka()" class = "Shizuoka" style = "fill:#f0f0f0; stroke:none;" d="M1409 0L1403 7L1406 7L1407 7L1409 0z"/>
+                        <path onclick = "Shizuoka()" class = "Shizuoka" style = "fill:#ffffff; stroke:none;" d="M1406 5L1412 3L1405 21C1415.46 22.3282 1440.76 32.8543 1448.97 22.2723C1452.34 17.9315 1450 5.35919 1450 0C1438.58 0 1413.45 -4.77332 1406 5z"/>
+                        <path onclick = "Shizuoka()" class = "Shizuoka" style = "fill:#f0f0f0; stroke:none;" d="M1391 2L1392 3L1391 2M1389 3L1390 4L1389 3M1409 3L1409 4L1412 4L1409 3z"/>
+                        <path onclick = "Shizuoka()" class = "Shizuoka" style = "fill:#e9e9e9; stroke:none;" d="M1388 4L1389 5L1388 4z"/>
+                        <path onclick = "Shizuoka()" class = "Shizuoka" style = "fill:#f0f0f0; stroke:none;" d="M1408 4L1409 5L1408 4M1388.67 5.33331L1389.33 5.66669L1388.67 5.33331z"/>
+                        <path onclick = "Shizuoka()" class = "Shizuoka" style = "fill:#e9e9e9; stroke:none;" d="M1390 5L1391 6L1390 5z"/>
+                        <path onclick = "Shizuoka()" class = "Shizuoka" style = "fill:#ffffff; stroke:none;" d="M1405 5L1402 12L1403 12L1405 5z"/>
+                        <path onclick = "Shizuoka()" class = "Shizuoka" style = "fill:#e9e9e9; stroke:none;" d="M1407 5L1408 6L1407 5z"/>
+                        <path onclick = "Shizuoka()" class = "Shizuoka" style = "fill:#f0f0f0; stroke:none;" d="M1391 6L1392 7L1391 6z"/>
+                        <path onclick = "Shizuoka()" class = "Shizuoka" style = "fill:#e9e9e9; stroke:none;" d="M1411 6L1412 7L1411 6z"/>
+                        <path onclick = "Shizuoka()" class = "Shizuoka" style = "fill:#dbdbdb; stroke:none;" d="M1383 7L1384 8L1383 7z"/>
+                        <path onclick = "Shizuoka()" class = "Shizuoka" style = "fill:#e9e9e9; stroke:none;" d="M1402 7L1403 8L1402 7M1406 7L1407 8L1406 7z"/>
+                        <path onclick = "Shizuoka()" class = "Shizuoka" style = "fill:#f0f0f0; stroke:none;" d="M1411.33 7.66669L1411.67 8.33331L1411.33 7.66669z"/>
+                        <path onclick = "Shizuoka()" class = "Shizuoka" style = "fill:#e9e9e9; stroke:none;" d="M1392 8L1393 9L1392 8z"/>
+                        <path onclick = "Shizuoka()" class = "Shizuoka" style = "fill:#f0f0f0; stroke:none;" d="M1402 8L1403 9L1402 8z"/>
+                        <path onclick = "Shizuoka()" class = "Shizuoka" style = "fill:#e9e9e9; stroke:none;" d="M1405 8L1406 9L1405 8M1391.33 9.66669L1391.67 10.3333L1391.33 9.66669z"/>
+                        <path onclick = "Shizuoka()" class = "Shizuoka" style = "fill:#f0f0f0; stroke:none;" d="M1403 9L1401 11L1401 12L1401 13L1403 13L1403 9M1410 9L1411 10L1410 9z"/>
+                        <path onclick = "Shizuoka()" class = "Shizuoka" style = "fill:#e9e9e9; stroke:none;" d="M1401 10L1402 11L1401 10z"/>
+                        <path onclick = "Shizuoka()" class = "Shizuoka" style = "fill:#f0f0f0; stroke:none;" d="M1409 10L1410 11L1409 10M1392 11L1393 12L1392 11z"/>
+                        <path onclick = "Shizuoka()" class = "Shizuoka" style = "fill:#e9e9e9; stroke:none;" d="M1408 11L1409 12L1408 11z"/>
+                        <path onclick = "Shizuoka()" class = "Shizuoka" style = "fill:#f0f0f0; stroke:none;" d="M1394 12L1395 13L1394 12z"/>
+                        <path onclick = "Shizuoka()" class = "Shizuoka" style = "fill:#e9e9e9; stroke:none;" d="M1403 12L1404 13L1403 12z"/>
+                        <path onclick = "Shizuoka()" class = "Shizuoka" style = "fill:#f0f0f0; stroke:none;" d="M1408 12L1409 13L1408 12z"/>
+                        <path onclick = "Shizuoka()" class = "Shizuoka" style = "fill:#dbdbdb; stroke:none;" d="M1385 13L1386 14L1385 13z"/>
+                        <path onclick = "Shizuoka()" class = "Shizuoka" style = "fill:#e9e9e9; stroke:none;" d="M1395 13L1396 14L1395 13M1407 13L1408 14L1407 13z"/>
+                        <path onclick = "Shizuoka()" class = "Shizuoka" style = "fill:#f0f0f0; stroke:none;" d="M1395 14L1396 15L1395 14M1407 14L1408 15L1407 14M1396 15L1397 16L1396 15z"/>
+                        <path onclick = "Shizuoka()" class = "Shizuoka" style = "fill:#e9e9e9; stroke:none;" d="M1397 16L1398 17L1397 16M1406 16L1407 17L1406 16M1398 17L1399 18L1398 17z"/>
+                        <path onclick = "Shizuoka()" class = "Shizuoka" style = "fill:#f0f0f0; stroke:none;" d="M1406 17L1407 18L1406 17z"/>
+                        <path onclick = "Shizuoka()" class = "Shizuoka" style = "fill:#e9e9e9; stroke:none;" d="M1399 18L1400 19L1399 18M1405 18L1406 19L1405 18z"/>
+                        <path onclick = "Shizuoka()" class = "Shizuoka" style = "fill:#dbdbdb; stroke:none;" d="M1385 19L1386 20L1385 19z"/>
+                        <path onclick = "Shizuoka()" class = "Shizuoka" style = "fill:#e9e9e9; stroke:none;" d="M1400 19L1401 20L1400 19M1404 19L1405 20L1404 19z"/>
+                        <path onclick = "Shizuoka()" class = "Shizuoka" style = "fill:#f0f0f0; stroke:none;" d="M1390 20L1390 21L1393 21L1390 20M1404 20L1405 21L1404 20z"/>
+                        <path onclick = "Shizuoka()" class = "Shizuoka" style = "fill:#e9e9e9; stroke:none;" d="M1406 21L1407 22L1406 21z"/>
+                        <path onclick = "Shizuoka()" class = "Shizuoka" style = "fill:#f0f0f0; stroke:none;" d="M1407.67 21.3333L1408.33 21.6667L1407.67 21.3333z"/>
+                        <path onclick = "Shizuoka()" class = "Shizuoka" style = "fill:#e9e9e9; stroke:none;" d="M1413 22L1414 23L1413 22z"/>
+                        <path onclick = "Shizuoka()" class = "Shizuoka" style = "fill:#f0f0f0; stroke:none;" d="M1414 22L1415 23L1414 22M1419 23L1420 24L1419 23M1448 23L1449 24L1448 23z"/>
+                        <path onclick = "Shizuoka()" class = "Shizuoka" style = "fill:#e9e9e9; stroke:none;" d="M1449 23L1450 24L1449 23M1423 24L1424 25L1423 24z"/>
+                        <path onclick = "Shizuoka()" class = "Shizuoka" style = "fill:#f0f0f0; stroke:none;" d="M1424 24L1425 25L1424 24M1444 24L1445 25L1444 24M1428 25L1429 26L1428 25z"/>
+                        <path onclick = "Shizuoka()" class = "Shizuoka" style = "fill:#e9e9e9; stroke:none;" d="M1441 25L1442 26L1441 25z"/>
+                        <path onclick = "Shizuoka()" class = "Shizuoka" style = "fill:#f0f0f0; stroke:none;" d="M1432.67 26.3333L1433.33 26.6667L1432.67 26.3333M1438 26L1439 27L1438 26z"/>
+</svg>

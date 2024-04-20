@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1450" height="800">
+                        <path onclick = "Tochigi()" class = "Tochigi" style = "fill:#010101; stroke:none;" d="M0 0L0 800L1450 800L1450 0L0 0z"/>
+                        <path onclick = "Tochigi()" class = "Tochigi" style = "fill:#ffffff; stroke:none;" d="M341 304.533C333.672 306.314 332.614 313.417 326.787 316.451C312.121 324.089 296.823 331.339 282 338.752C272.384 343.56 260.407 348.773 255.179 359.015C251.909 365.422 259.017 368.438 257.763 374.015C256.921 377.759 253.318 380.211 252.472 384C251.567 388.052 253.82 391.916 252.377 396C250.778 400.527 247.114 403.82 248.657 408.999C252.322 421.3 267.858 412.053 271.378 422.044C273.399 427.78 266.827 432.196 265.023 437C263.788 440.29 265.371 443.816 263.934 447C261.009 453.479 251.716 459.604 256.029 467.961C257.668 471.138 261.048 472.953 262.865 476.039C264.563 478.923 265.036 481.982 268.109 483.86C276.36 488.903 287.677 484.51 295.895 489.175C304.17 493.873 302.426 504.458 315 501.468C320.984 500.044 326.693 495.401 329.559 490C331.323 486.675 331.685 482.124 335.214 480.028C337.779 478.504 340.973 479.439 343.576 477.976C352.823 472.78 359.578 466.554 370 463.003C375.646 461.08 385.216 461.249 389.722 457.436C400.045 448.703 402.52 429.447 400.789 417C400.197 412.736 396.943 408.386 397.618 404.004C398.421 398.792 405.125 397.104 405.84 391.996C406.368 388.219 402.734 384.877 402.638 381C402.288 366.848 404.409 347.583 399.606 334.129C398.41 330.78 394.879 328.768 392.784 325.981C381.832 311.414 360.178 299.871 341 304.533z"/>
+                        <path onclick = "Tochigi()" class = "Tochigi" style = "fill:#fdfdfd; stroke:none;" d="M382 314L383 315L382 314z"/>
+                        <path onclick = "Tochigi()" class = "Tochigi" style = "fill:#fbfbfb; stroke:none;" d="M321 318L322 319L321 318z"/>
+                        <path onclick = "Tochigi()" class = "Tochigi" style = "fill:#fdfdfd; stroke:none;" d="M391 324L392 325L391 324M393 327L394 328L393 327z"/>
+                        <path onclick = "Tochigi()" class = "Tochigi" style = "fill:#fbfbfb; stroke:none;" d="M399 332L400 333L399 332z"/>
+                        <path onclick = "Tochigi()" class = "Tochigi" style = "fill:#fdfdfd; stroke:none;" d="M288 335L289 336L288 335z"/>
+                        <path onclick = "Tochigi()" class = "Tochigi" style = "fill:#fbfbfb; stroke:none;" d="M276 341L277 342L276 341z"/>
+                        <path onclick = "Tochigi()" class = "Tochigi" style = "fill:#fdfdfd; stroke:none;" d="M401 346L402 347L401 346M263 350L264 351L263 350M256 377L257 378L256 377M402 380L403 381L402 380z"/>
+                        <path onclick = "Tochigi()" class = "Tochigi" style = "fill:#fbfbfb; stroke:none;" d="M252 388L253 389L252 388M253.333 392.667L253.667 393.333L253.333 392.667M251 398L252 399L251 398z"/>
+                        <path onclick = "Tochigi()" class = "Tochigi" style = "fill:#fdfdfd; stroke:none;" d="M374 398L375 399L374 398z"/>
+                        <path onclick = "Tochigi()" class = "Tochigi" style = "fill:#fbfbfb; stroke:none;" d="M267 417L268 418L267 417M265 435L266 436L265 435z"/>
+                        <path onclick = "Tochigi()" class = "Tochigi" style = "fill:#fdfdfd; stroke:none;" d="M400 438L401 439L400 438M394 447L395 448L394 447z"/>
+                        <path onclick = "Tochigi()" class = "Tochigi" style = "fill:#fbfbfb; stroke:none;" d="M257 455L258 456L257 455M365 464L366 465L365 464z"/>
+                        <path onclick = "Tochigi()" class = "Tochigi" style = "fill:#fdfdfd; stroke:none;" d="M256 469L257 470L256 469M348 473L349 474L348 473M263 476L264 477L263 476M334 479L335 480L334 479M264 480L265 481L264 480M265 482L266 483L265 482z"/>
+                        <path onclick = "Tochigi()" class = "Tochigi" style = "fill:#fbfbfb; stroke:none;" d="M278 486L279 487L278 486z"/>
+                        <path onclick = "Tochigi()" class = "Tochigi" style = "fill:#fdfdfd; stroke:none;" d="M289 487L290 488L289 487z"/>
+                        <path onclick = "Tochigi()" class = "Tochigi" style = "fill:#fbfbfb; stroke:none;" d="M330 488L331 489L330 488M297 489L298 490L297 489z"/>
+                        <path onclick = "Tochigi()" class = "Tochigi" style = "fill:#fdfdfd; stroke:none;" d="M329 490L330 491L329 490M315 501L316 502L315 501z"/>
+</svg>

@@ -1,0 +1,92 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1450" height="800">
+                        <path onclick = "Akita()" class = "Akita" style="fill:#010101;" d="M0 0L0 800L1450 800L1450 0L0 0z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#dadada;" d="M505 372L506 373L505 372z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#ffffff;" d="M504 373L504 374L509 372L504 373z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#f0f0f0;" d="M503 374L504 375L503 374M508 374L509 375L508 374z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#ffffff;" d="M502 375L503 376L502 375M501 376C495.446 384.879 484.17 394.151 473 394.527C469.301 394.652 466.642 391.478 463 391.452C459.51 391.427 456.565 394.912 453.039 393.752C444.048 390.794 436.249 381.254 426.001 381.056C418.658 380.913 416.081 388.122 409 389.266C401.31 390.508 390.583 391.908 383 390.022C378.918 389.006 375.219 383.707 371.015 384.176C364.507 384.902 362.012 391.972 354 392C358.186 398.356 362.863 404.151 363.816 412C365.199 423.4 360.739 433.364 357.569 444C353.083 459.058 346.227 496.557 323 492.9C317.956 492.105 314.045 487.763 310 485C310.005 492.177 311.497 510.969 319.225 514.397C329.226 518.833 332.068 510.368 339.133 507.618C350.273 503.282 361.959 519.508 364.899 528C375.771 559.411 368.325 603.634 356.981 633.996C354.703 640.093 348.421 641.396 345.558 647.005C340.932 656.067 340.915 668.123 339 678C344.605 678.016 350.453 679.635 356 678.671C360.033 677.971 364.863 673.868 368.955 674.816C374.212 676.035 374.856 685.879 381.001 688.833C395.218 695.668 412.653 694.835 426 702.468C434.938 707.579 435.001 715.139 441.394 721.722C448.739 729.287 463.299 732.188 472 726.058C476.165 723.123 487.355 716.189 489.397 711.725C490.853 708.542 489.97 704.402 491.105 701C492.197 697.727 495.244 693.835 494.577 690.228C493.716 685.572 487.148 686.048 487.229 679.999C487.352 670.824 493.522 662.404 489.968 653.015C488.253 648.487 483.596 646.758 480.995 642.907C476.058 635.599 472.235 621.817 472.343 613C472.416 607.099 476.292 603.84 478.864 599C481.744 593.581 482.155 587.365 485.468 582C489.22 575.925 495.332 572.176 497.236 565C499.386 556.898 494.48 551.564 494.627 544C494.726 538.873 499.876 534.792 499.694 530.015C499.516 525.317 493.004 523.433 491.546 519.166C488.483 510.199 502.705 511.276 507 512C506.716 498.665 501.086 485.711 502.12 472C502.526 466.601 507.184 463.198 507.838 458C508.435 453.254 506.359 448.782 507.724 444C509.575 437.513 516.158 435.443 519.307 429.985C521.866 425.55 519.322 418.954 520.344 414.001C522.105 405.465 528.928 403.553 525.683 393.229C523.462 386.164 510.862 394.078 506.394 391.843C501.128 389.209 502.155 380.58 501 376z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#f0f0f0;" d="M500 377L501 378L500 377M501 378L502 379L501 378M430 381L431 382L430 381M497 381L498 382L497 381M501.333 381.667L501.667 382.333L501.333 381.667M370 383L371 384L370 383M372 383L373 384L372 383M418 383L419 384L418 383z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#e6e6e6;" d="M375 385L376 386L375 385z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#f0f0f0;" d="M436 385L437 386L436 385M502 385L503 386L502 385z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#e6e6e6;" d="M376 386L377 387L376 386z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#f0f0f0;" d="M416 386L417 387L416 386z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#dadada;" d="M491 387L492 388L491 387z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#f0f0f0;" d="M365 388L366 389L365 388M414 388L415 389L414 388M445 388L446 389L445 388M503 388L504 389L503 388M379 389L380 390L379 389z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#e6e6e6;" d="M405 389L406 390L405 389z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#f0f0f0;" d="M406.667 389.333L407.333 389.667L406.667 389.333z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#e6e6e6;" d="M448 389L449 390L448 389z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#f0f0f0;" d="M385 390L385 391L392 391L385 390M484 390L485 391L484 390z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#e6e6e6;" d="M352 391L354 393L352 391z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#f0f0f0;" d="M353 391L354 392L353 391M362 391L363 392L362 391M449 391L450 392L449 391z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#e6e6e6;" d="M465 391L466 392L465 391z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#f0f0f0;" d="M481 391L482 392L481 391M479 392L480 393L479 392M505 392L506 393L505 392z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#e6e6e6;" d="M354 393L355 394L354 393z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#f0f0f0;" d="M477 393L478 394L477 393z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#e6e6e6;" d="M355 394L356 395L355 394z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#f0f0f0;" d="M452 394L453 395L452 394M356 395L357 396L356 395M357 396L358 397L357 396M359 399L360 400L359 399z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#e6e6e6;" d="M360 401L361 402L360 401z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#f0f0f0;" d="M361 403L362 404L361 403z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#e6e6e6;" d="M362 406L363 407L362 406z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#f0f0f0;" d="M363 409L364 410L363 409z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#e6e6e6;" d="M363 410L364 411L363 410M363 422L364 423L363 422z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#f0f0f0;" d="M363.333 423.667L363.667 424.333L363.333 423.667M362 428L363 429L362 428M361 432L362 433L361 432M360 435L361 436L360 435M359 438L360 439L359 438z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#e6e6e6;" d="M358 440L359 441L358 440z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#f0f0f0;" d="M358 441L359 442L358 441z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#e6e6e6;" d="M357 443L358 444L357 443M356 447L357 448L356 447z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#f0f0f0;" d="M356 448L357 449L356 448z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#e6e6e6;" d="M355 451L356 452L355 451z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#f0f0f0;" d="M355 452L356 453L355 452z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#e6e6e6;" d="M354 455L355 456L354 455z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#f0f0f0;" d="M354 456L355 457L354 456z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#e6e6e6;" d="M353 459L354 460L353 459z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#f0f0f0;" d="M353 460L354 461L353 460z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#e6e6e6;" d="M352 462L353 463L352 462z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#f0f0f0;" d="M352 463L353 464L352 463z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#e6e6e6;" d="M351 465L352 466L351 465z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#f0f0f0;" d="M350 468L351 469L350 468z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#e6e6e6;" d="M349 470L350 471L349 470z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#f0f0f0;" d="M348 473L349 474L348 473M347 475L348 476L347 475z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#e6e6e6;" d="M346 476L347 477L346 476z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#f0f0f0;" d="M345 478L346 479L345 478M343 481L344 482L343 481z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#e6e6e6;" d="M342 482L343 483L342 482z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#f0f0f0;" d="M311 485L312 486L311 485M312 486L313 487L312 486M313 487L314 488L313 487z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#e6e6e6;" d="M337 487L338 488L337 487z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#f0f0f0;" d="M314 488L315 489L314 488M336 488L337 489L336 488M315 489L316 490L315 489z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#e6e6e6;" d="M334 489L335 490L334 489z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#f0f0f0;" d="M333 490L334 491L333 490M318 491L319 492L318 491z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#e6e6e6;" d="M330 491L331 492L330 491z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#f0f0f0;" d="M331 491L332 492L331 491M320 492L321 493L320 492z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#e6e6e6;" d="M327 492L328 493L327 492z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#f0f0f0;" d="M328 492L329 493L328 492M323.667 493.333L324.333 493.667L323.667 493.333M343.667 507.333L344.333 507.667L343.667 507.333M336 508L337 509L336 508z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#e6e6e6;" d="M347 508L348 509L347 508M336 509L337 510L336 509z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#f0f0f0;" d="M350 509L351 510L350 509z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#e6e6e6;" d="M353 511L354 512L353 511M359 517L360 518L359 517z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#f0f0f0;" d="M360 518L361 519L360 518M361 520L362 521L361 520z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#e6e6e6;" d="M362 522L363 523L362 522M363 524L364 525L363 524z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#f0f0f0;" d="M364 526L365 527L364 526M365 529L366 530L365 529M447 541L448 542L447 541M387.667 551.333L388.333 551.667L387.667 551.333M369 558L370 559L369 558z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#e6e6e6;" d="M368 574L369 575L368 574z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#f0f0f0;" d="M368 575L368 578L369 578L368 575z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#e6e6e6;" d="M367 584L368 585L367 584z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#f0f0f0;" d="M367.333 585.667L367.667 586.333L367.333 585.667M366.333 592.667L366.667 593.333L366.333 592.667M365.333 598.667L365.667 599.333L365.333 598.667z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#e6e6e6;" d="M364 603L365 604L364 603z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#f0f0f0;" d="M364 604L365 605L364 604z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#e6e6e6;" d="M363 608L364 609L363 608z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#f0f0f0;" d="M363 609L364 610L363 609z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#e6e6e6;" d="M362 613L363 614L362 613z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#f0f0f0;" d="M362 614L363 615L362 614z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#e6e6e6;" d="M361 617L362 618L361 617z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#f0f0f0;" d="M361 618L362 619L361 618z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#e6e6e6;" d="M360 621L361 622L360 621z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#f0f0f0;" d="M360 622L361 623L360 622M359 625L360 626L359 625z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#e6e6e6;" d="M358 628L359 629L358 628z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#f0f0f0;" d="M358 629L359 630L358 629M357 632L358 633L357 632M356 635L357 636L356 635M355 638L356 639L355 638M352 640L353 641L352 640M348 642L349 643L348 642z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#dadada;" d="M346 643L347 644L346 643z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#f0f0f0;" d="M347 643L348 644L347 643z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#dadada;" d="M342 652L343 653L342 652z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#e6e6e6;" d="M341 661L342 662L341 661z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#f0f0f0;" d="M341.333 662.667L341.667 663.333L341.333 662.667z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#e6e6e6;" d="M340 668L341 669L340 668z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#f0f0f0;" d="M340.333 669.667L340.667 670.333L340.333 669.667z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#e6e6e6;" d="M339 674L340 675L339 674z"/>
+                        <path onclick = "Akita()" class = "Akita" style="fill:#f0f0f0;" d="M339 675L340 676L339 675z"/>
+</svg>

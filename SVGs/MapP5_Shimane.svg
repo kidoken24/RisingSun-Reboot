@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1450" height="800">
+                        <path onclick = "Shimane()" class = "Shimane" style = "fill:#010101; stroke:none;" d="M0 0L0 800L1450 800L1450 0L679 0L552 0C534.631 0 510.826 -4.30029 494.129 0.317139C491.485 1.04816 490.017 3.50555 487.871 5.03857C484.513 7.43756 480.043 8.53436 477.608 12.1049C475.559 15.1095 477.143 17.763 476.907 21C476.549 25.9372 474.059 36.3094 472.258 40.9992C468.512 50.7531 456.098 50.6754 463 63C450.679 63.9371 454.163 75.0556 452.38 83C451.493 86.9499 447.525 90.9601 445 94C439.984 85.4512 428.573 99.9505 420.133 92.6821C411.605 85.3376 421.133 79.6454 418.353 72.1489C416.104 66.0837 406.752 72.7134 403.559 65.9413C398.581 55.3802 405.899 51.1163 406.891 41C407.565 34.1326 402.874 27.8743 402 21C410.211 20.9774 420.614 19.6837 426.786 13.6705C431.102 9.46582 431.341 4.03186 437 1C426.734 -3.30768 409.158 0 398 0L309 0L0 0z"/>
+                        <path onclick = "Shimane()" class = "Shimane" style = "fill:#eaeaea; stroke:none;" d="M437 0L438 1L437 0z"/>
+                        <path onclick = "Shimane()" class = "Shimane" style = "fill:#ffffff; stroke:none;" d="M402 21C402.518 27.549 407.219 33.7705 406.876 40C406.28 50.8262 396.34 56.5776 404.023 67.6821C407.335 72.4689 415.251 66.8244 417.867 72.1628C421.259 79.0844 410.638 86.493 420.133 93.3966C429.157 99.9567 438.313 86.6513 445 94C447.848 91.5613 452.259 86.6981 452.884 82.8303C454.176 74.8356 451.161 64.8423 463 63L461.133 54.0154L472.257 41.9962L477.234 22L477.761 12.304L491 0C475.559 0 452.594 -4.31714 438.005 0.702942C431.71 2.86896 431.121 9.47009 426.787 13.6705C420.432 19.8293 410.418 21.302 402 21z"/>
+                        <path onclick = "Shimane()" class = "Shimane" style = "fill:#f5f5f5; stroke:none;" d="M491 0L492 1L491 0z"/>
+                        <path onclick = "Shimane()" class = "Shimane" style = "fill:#e0e0e0; stroke:none;" d="M435 1L436 2L435 1M433 2L434 3L433 2z"/>
+                        <path onclick = "Shimane()" class = "Shimane" style = "fill:#f5f5f5; stroke:none;" d="M434 2L435 3L434 2M432 3L433 4L432 3M490 3L491 4L490 3z"/>
+                        <path onclick = "Shimane()" class = "Shimane" style = "fill:#e0e0e0; stroke:none;" d="M431 4L432 5L431 4z"/>
+                        <path onclick = "Shimane()" class = "Shimane" style = "fill:#eaeaea; stroke:none;" d="M431 5L432 6L431 5z"/>
+                        <path onclick = "Shimane()" class = "Shimane" style = "fill:#f5f5f5; stroke:none;" d="M431 6L432 7L431 6z"/>
+                        <path onclick = "Shimane()" class = "Shimane" style = "fill:#eaeaea; stroke:none;" d="M430 8L431 9L430 8z"/>
+                        <path onclick = "Shimane()" class = "Shimane" style = "fill:#f5f5f5; stroke:none;" d="M481 8L482 9L481 8z"/>
+                        <path onclick = "Shimane()" class = "Shimane" style = "fill:#eaeaea; stroke:none;" d="M429 10L430 11L429 10z"/>
+                        <path onclick = "Shimane()" class = "Shimane" style = "fill:#f5f5f5; stroke:none;" d="M477 11L478 12L477 11M428 12L429 13L428 12M427 13L428 14L427 13M426 14L427 15L426 14z"/>
+                        <path onclick = "Shimane()" class = "Shimane" style = "fill:#e0e0e0; stroke:none;" d="M424 15L425 16L424 15z"/>
+                        <path onclick = "Shimane()" class = "Shimane" style = "fill:#f5f5f5; stroke:none;" d="M423 16L424 17L423 16M421 17L422 18L421 17z"/>
+                        <path onclick = "Shimane()" class = "Shimane" style = "fill:#eaeaea; stroke:none;" d="M418 18L419 19L418 18z"/>
+                        <path onclick = "Shimane()" class = "Shimane" style = "fill:#e0e0e0; stroke:none;" d="M414 19L415 20L414 19z"/>
+                        <path onclick = "Shimane()" class = "Shimane" style = "fill:#eaeaea; stroke:none;" d="M415 19L416 20L415 19z"/>
+                        <path onclick = "Shimane()" class = "Shimane" style = "fill:#e0e0e0; stroke:none;" d="M410 20L411 21L410 20z"/>
+                        <path onclick = "Shimane()" class = "Shimane" style = "fill:#eaeaea; stroke:none;" d="M411 20L412 21L411 20z"/>
+                        <path onclick = "Shimane()" class = "Shimane" style = "fill:#f5f5f5; stroke:none;" d="M412 20L413 21L412 20M406.667 21.3333L407.333 21.6667L406.667 21.3333M472 34L473 35L472 34M404 47L405 48L404 47M399 57L400 58L399 57M402 61L403 62L402 61M454 68L455 69L454 68M451 75L452 76L451 75M451 77L452 78L451 77M453 83L454 84L453 83M451 85L452 86L451 85M450 86L451 87L450 86M437 91L438 92L437 91M434 93L435 94L434 93z"/>
+</svg>

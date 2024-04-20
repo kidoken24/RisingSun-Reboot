@@ -1,0 +1,78 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1450" height="800">
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#010101; stroke:none;" d="M0 0L0 800L1450 800L1450 0L0 0z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#ffffff; stroke:none;" d="M215 529C210.002 535.384 192.309 544.575 184.044 541.257C179.979 539.625 178.312 534.682 175 532C170.019 546.53 159.765 535.983 150.015 540.01C145.05 542.061 142.335 547.884 149 549C148.986 553.938 146.165 559.386 146.711 564C147.797 573.167 154.72 579.056 150.076 588.985C146.886 595.807 137.926 600.74 132 605L132 607C137.895 609.165 145.474 608.656 150.87 611.573C162.545 617.883 172.532 640.283 170.7 653C168.936 665.241 155.11 694.161 142 676L133 680L133 681C139.337 683.911 149.649 691.417 147 699L152 700L149 704C150.815 712.915 156.9 710.987 164 711.518C177.346 712.516 202.045 709.91 201 729L214 730L226 711C221.637 708.02 217.702 704.83 214.04 700.999C195.106 681.194 203.653 662.093 214.191 641C217.82 633.737 217.953 619.264 228 618.257C234.628 617.592 249.683 623.303 251.936 630.004C254.862 638.708 244.25 651.548 236 652C235.918 648.043 235.915 642.521 232.57 639.743C228.073 636.009 218.288 640.111 216.327 645.174C212.926 653.955 228.373 654.368 233 653C233.185 658.15 230.861 666.147 232.757 670.816C235.86 678.456 245.004 682.124 247.779 691C251.072 701.532 247.324 710.235 243.965 720C239.371 733.356 239.436 739.633 226 748L226 749C229.94 753.121 226.743 757.967 226 763C232.724 759.865 236.536 753.008 243 749.414C259.404 740.292 281.456 741.643 285 718C293.775 717.926 298.974 714.134 304 707L296 708L302 697C297.563 695.581 289.402 694.759 287.364 689.892C282.744 678.856 301.741 669.187 310 671C311.097 660.366 321.436 653.163 314.387 641.149C311.122 635.585 297.357 637.584 292.105 634.384C285.959 630.639 286.051 621.057 284 615C280.397 614.512 280.026 612.379 280 609C273.817 608.443 262.681 605.574 262.514 597.999C262.386 592.216 266.245 586.835 262.835 581.133C259.676 575.851 252.589 578.401 248.97 573.772C246.264 570.31 246.552 565.89 244.567 562.185C242.4 558.141 237.353 557.281 234.757 553.671C232.87 551.047 234.23 547.999 232.883 545.286C230.248 539.973 220.257 531.562 215 529z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#d6d6d6; stroke:none;" d="M220 533L221 534L220 533M174 534L175 535L174 534M221 534L222 535L221 534M207 535L208 536L207 535M222 535L223 536L222 535M173 536L174 537L173 536z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#c8e7f8; stroke:none;" d="M223 536L224 537L223 536M203 537L204 538L203 537M224 537L225 538L224 537z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#d6d6d6; stroke:none;" d="M171 538L172 539L171 538M180 539L181 540L180 539M162 540L163 541L162 540z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#c8e7f8; stroke:none;" d="M168 540L169 541L168 540z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#d6d6d6; stroke:none;" d="M181 540L182 541L181 540M194 540L195 541L194 540z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#c8e7f8; stroke:none;" d="M164 541L165 542L164 541z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#d6d6d6; stroke:none;" d="M166 541L167 542L166 541M231 543L232 544L231 543M233 544L234 545L233 544M234 545L235 546L234 545M233 548L234 549L233 548M233 552L234 553L233 552z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#c8e7f8; stroke:none;" d="M234 554L235 555L234 554z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#d6d6d6; stroke:none;" d="M237 556L238 557L237 556z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#c8e7f8; stroke:none;" d="M242 559L243 560L242 559z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#d6d6d6; stroke:none;" d="M245 563L246 564L245 563z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#c8e7f8; stroke:none;" d="M245 564L246 565L245 564M148 568L149 569L148 568z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#d6d6d6; stroke:none;" d="M246 569L247 570L246 569M149 570L150 571L149 570z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#c8e7f8; stroke:none;" d="M249 575L250 576L249 575z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#d6d6d6; stroke:none;" d="M151 576L152 577L151 576z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#c8e7f8; stroke:none;" d="M258 577L259 578L258 577z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#d6d6d6; stroke:none;" d="M263 581L264 582L263 581z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#c8e7f8; stroke:none;" d="M151 583L152 584L151 583z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#d6d6d6; stroke:none;" d="M264.333 585.667L264.667 586.333L264.333 585.667z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#c8e7f8; stroke:none;" d="M264 588L265 589L264 588M150 589L151 590L150 589z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#d6d6d6; stroke:none;" d="M264.333 589.667L264.667 590.333L264.333 589.667z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#c8e7f8; stroke:none;" d="M149 590L150 591L149 590M148 591L149 592L148 591M147 593L148 594L147 593M145 594L146 595L145 594M144 595L145 596L144 595z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#d6d6d6; stroke:none;" d="M262 595L263 596L262 595z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#c8e7f8; stroke:none;" d="M143 596L144 597L143 596M141 597L142 598L141 597M140 598L141 599L140 598M139 599L140 600L139 599z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#d6d6d6; stroke:none;" d="M262 599L263 600L262 599z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#c8e7f8; stroke:none;" d="M138 600L139 601L138 600M136 601L137 602L136 601M135 602L136 603L135 602M134 603L135 604L134 603M132 604L133 605L132 604M131.333 605.667L131.667 606.333L131.333 605.667M133 607L134 608L133 607z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#d6d6d6; stroke:none;" d="M272 607L273 608L272 607z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#c8e7f8; stroke:none;" d="M135 608L136 609L135 608z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#d6d6d6; stroke:none;" d="M275 608L275 609L279 609L275 608z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#6dc9ff; stroke:none;" d="M136 609L137 610L136 609z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#c8e7f8; stroke:none;" d="M140 609L141 610L140 609M148 610L149 611L148 610M151 611L152 612L151 611M153 612L154 613L153 612z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#d6d6d6; stroke:none;" d="M279 612L280 613L279 612M280 614L281 615L280 614z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#c8e7f8; stroke:none;" d="M154 615L155 616L154 615M282 615L283 616L282 615z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#d6d6d6; stroke:none;" d="M284 615L285 616L284 615z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#c8e7f8; stroke:none;" d="M155 616L156 617L155 616z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#d6d6d6; stroke:none;" d="M225 618L226 619L225 618M232 618L233 619L232 618M157 619L158 620L157 619M158 620L159 621L158 620M221 620L222 621L221 620M236 620L237 621L236 620M285 620L286 621L285 620M220.333 621.667L220.667 622.333L220.333 621.667M244 622L245 623L244 622M246 623L247 624L246 623M161 624L162 625L161 624M248 624L249 625L248 624z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#c8e7f8; stroke:none;" d="M219 625L220 626L219 625z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#d6d6d6; stroke:none;" d="M249 625L250 626L249 625M219 626L220 627L219 626M250 626L251 627L250 626z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#c8e7f8; stroke:none;" d="M163 627L164 628L163 627z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#d6d6d6; stroke:none;" d="M251 628L252 629L251 628M287 628L288 629L287 628M164 629L165 630L164 629z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#c8e7f8; stroke:none;" d="M218 629L219 630L218 629z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#d6d6d6; stroke:none;" d="M218 630L219 631L218 630M252 630L253 631L252 630M166 632L167 633L166 632M289 632L290 633L289 632z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#c8e7f8; stroke:none;" d="M167 633L168 634L167 633M252 634L253 635L252 634z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#d6d6d6; stroke:none;" d="M299 634L300 635L299 634M216.667 635.333L217.333 635.667L216.667 635.333M300 635L301 636L300 635M250 637L251 638L250 637M225 638L226 639L225 638M170 640L171 641L170 640M249 640L250 641L249 640M314 640L315 641L314 640z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#c8e7f8; stroke:none;" d="M218 642L219 643L218 642z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#d6d6d6; stroke:none;" d="M248 642L249 643L248 642M247 644L248 645L247 644M315 644L316 645L315 644z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#c8e7f8; stroke:none;" d="M211 645L212 646L211 645M215 645L216 646L215 645z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#d6d6d6; stroke:none;" d="M235 645L236 646L235 645M246 646L247 647L246 646M316 649L317 650L316 649z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#c8e7f8; stroke:none;" d="M207 652L208 653L207 652z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#d6d6d6; stroke:none;" d="M170 653L171 654L170 653z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#c8e7f8; stroke:none;" d="M232 653L233 654L232 653M170 654L171 655L170 654z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#d6d6d6; stroke:none;" d="M316 656L317 657L316 656z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#c8e7f8; stroke:none;" d="M233.333 657.667L233.667 658.333L233.333 657.667z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#d6d6d6; stroke:none;" d="M169 658L170 659L169 658z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#c8e7f8; stroke:none;" d="M204 659L205 660L204 659z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#d6d6d6; stroke:none;" d="M316 659L317 660L316 659M168 661L169 662L168 661M312 662L313 663L312 662M167 664L168 665L167 664M232 665L233 666L232 665M310 666L311 667L310 666z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#c8e7f8; stroke:none;" d="M202 667L203 668L202 667z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#d6d6d6; stroke:none;" d="M302 669L303 670L302 669M304 669L305 670L304 669M164 670L165 671L164 670z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#c8e7f8; stroke:none;" d="M300 670L301 671L300 670z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#d6d6d6; stroke:none;" d="M307 670L308 671L307 670z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#c8e7f8; stroke:none;" d="M163 672L164 673L163 672z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#d6d6d6; stroke:none;" d="M297 672L298 673L297 672M234 673L235 674L234 673M296 673L297 674L296 673z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#c8e7f8; stroke:none;" d="M237 675L238 676L237 675z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#d6d6d6; stroke:none;" d="M160 676L161 677L160 676M159 677L160 678L159 677M291 678L292 679L291 678M157 679L158 680L157 679z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#c8e7f8; stroke:none;" d="M290 679L291 680L290 679z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#d6d6d6; stroke:none;" d="M156 680L157 681L156 680M242 680L243 681L242 680M288 682L289 683L288 682M287 684L288 685L287 684M286 687L286 690L287 690L286 687z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#c8e7f8; stroke:none;" d="M205 689L206 690L205 689M247 689L248 690L247 689M206 691L207 692L206 691z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#d6d6d6; stroke:none;" d="M288 692L289 693L288 692M248 693L249 694L248 693M290 693L291 694L290 693M293 694L294 695L293 694M297 695L298 696L297 695z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#c8e7f8; stroke:none;" d="M210 697L211 698L210 697z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#d6d6d6; stroke:none;" d="M211 698L212 699L211 698M217 704L218 705L217 704M248 707L249 708L248 707M189 713L190 714L189 713z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#c8e7f8; stroke:none;" d="M193 714L194 715L193 714z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#d6d6d6; stroke:none;" d="M246 714L247 715L246 714z"/>
+                        <path onclick = "Kagoshima()" class = "Kagoshima" style = "fill:#c8e7f8; stroke:none;" d="M195 715L196 716L195 715M284 721L285 722L284 721z"/>
+</svg>

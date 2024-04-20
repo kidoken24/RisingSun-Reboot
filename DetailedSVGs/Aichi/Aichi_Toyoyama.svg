@@ -1,0 +1,5 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1450" height="1289">
+<path class = "AichiD" onclick = "Toyoyama()" id = "Toyoyama" style = "fill:#010101; stroke:none;" d="M0 0L0 1289L1450 1289L1450 0L0 0z"/>
+<path class = "AichiD" onclick = "Toyoyama()" id = "Toyoyama" style = "fill:#ffffff; stroke:none;" d="M326 315C332.585 312.259 343.541 307.875 347.647 301.857C352.826 294.263 343.964 276.817 335 274.9C327.277 273.247 318.008 281.543 317.397 289C316.648 298.156 321.563 307.399 326 315z"/>
+</svg>

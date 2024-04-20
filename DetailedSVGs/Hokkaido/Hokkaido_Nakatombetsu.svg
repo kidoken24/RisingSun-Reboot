@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1231" height="874">
+<path style="fill:#010101; stroke:none;" d="M0 0L0 874L1231 874L1231 0L0 0z"/>
+<path style="fill:#ffffff; stroke:none;" d="M587 156C583.874 156.285 582.622 156.885 582 160C573.733 157.244 579.457 173.614 573 172L575 191L591 184L592 193C596.273 190.416 598.148 184.778 599 180L608 174L608 173L606 173L606 172L609 171C609.441 165.957 610.168 158.838 606.857 154.43C603.024 149.327 590.169 151.343 587 156z"/>
+<path style="fill:#fcfafc; stroke:none;" d="M586 154L586 156L588 154L586 154M592 155L592 156L604 156L592 155M605 155L606 156L605 155M580.667 159.333L581.333 159.667L580.667 159.333z"/>
+<path style="fill:#f4f4f4; stroke:none;" d="M577 160L578 161L577 160M608 160L609 161L608 160z"/>
+<path style="fill:#fcfafc; stroke:none;" d="M578.667 161.333L579.333 161.667L578.667 161.333M579 166L580 167L579 166M608 169L609 170L608 169M575 170L576 171L575 170M574 171L575 172L574 171z"/>
+<path style="fill:#f4f4f4; stroke:none;" d="M574 172L575 173L574 172z"/>
+<path style="fill:#fcfafc; stroke:none;" d="M606.667 172.333L607.333 172.667L606.667 172.333M574 174L575 175L574 174M606 174L607 175L606 174M574 176L574 188L575 188L574 176M600 180L601 180L603 179L604 177L600 180z"/>
+<path style="fill:#f4f4f4; stroke:none;" d="M599 180L600 181L599 180z"/>
+<path style="fill:#fcfafc; stroke:none;" d="M599 181L600 182L599 181M596 183L597 184L596 183M589 184L589 186L591 184L589 184z"/>
+<path style="fill:#f4f4f4; stroke:none;" d="M591 187L592 188L591 187z"/>
+<path style="fill:#fcfafc; stroke:none;" d="M576 188L577 189L576 188z"/>
+<path style="fill:#f4f4f4; stroke:none;" d="M578 188L579 189L578 188z"/>
+<path style="fill:#fcfafc; stroke:none;" d="M592 188L594 190L594 188L592 188z"/>
+<path style="fill:#f4f4f4; stroke:none;" d="M576 190L577 191L576 190z"/>
+<path style="fill:#ededed; stroke:none;" d="M592 191L593 192L592 191z"/>
+<path style="fill:#fcfafc; stroke:none;" d="M593 193L594 194L593 193z"/>
+</svg>

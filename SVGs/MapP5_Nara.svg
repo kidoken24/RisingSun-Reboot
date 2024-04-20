@@ -1,0 +1,127 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1450" height="800">
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#010101; stroke:none;" d="M0 0L0 800L1450 800L1450 0L0 0z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#ffffff; stroke:none;" d="M1083 2C1082.56 12.1533 1076.37 20.7467 1075.32 30.9854C1074.24 41.425 1078.71 51.4135 1078.99 62C1079.18 69.5942 1074.82 75.9183 1074.67 83C1074.59 87.1336 1075.4 96.3604 1077.86 99.7261C1080.99 104.009 1087.14 105.279 1086.27 111.981C1085.4 118.656 1075.66 116.063 1071 118C1071.92 129.175 1056.57 132.383 1056.64 142.815C1056.67 148.403 1068.76 155.531 1070.99 161.019C1073.2 166.468 1068.98 170.055 1067.67 174.985C1066.83 178.145 1068.49 180.946 1069 184C1079.14 178.384 1082.35 180.729 1093 180.498C1098.72 180.373 1101.13 178.259 1107 180C1110.73 175.765 1119.33 171.677 1125 172C1132.01 161 1131.81 150.438 1147 153L1149 142C1146.22 130.343 1151.63 120.12 1151.45 109C1151.35 103.268 1145.42 100.829 1151 96C1146.67 87.7742 1140.63 78.1403 1149.21 70.3032C1158.65 61.6848 1168.32 70.3625 1167 53C1160.58 54.4122 1161.68 50.8928 1156.73 48.5988C1151.57 46.2098 1144.79 47.5843 1140.69 42.6064C1136.29 37.2474 1143.32 27.9955 1143.78 22C1144.07 18.2314 1141.69 14.9671 1142 11C1139.53 12.2255 1136.93 14.7942 1133.99 14.419C1128.92 13.7728 1126.61 8.15381 1121 8.15277C1115.73 8.15179 1113.78 13.5319 1109 14.6782C1096.62 17.6436 1091.04 7.52081 1083 2z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#ededed; stroke:none;" d="M1085 4L1086 5L1085 4z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#d1d1d1; stroke:none;" d="M1086 5L1087 6L1086 5M1082 6L1083 7L1082 6z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#ededed; stroke:none;" d="M1082 7L1083 8L1082 7z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#e0e0e0; stroke:none;" d="M1088 8L1089 9L1088 8z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#d1d1d1; stroke:none;" d="M1116 8L1117 9L1116 8z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#ededed; stroke:none;" d="M1124 8L1125 9L1124 8M1127 9L1128 10L1127 9M1089 10L1090 11L1089 10z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#e0e0e0; stroke:none;" d="M1140 10L1141 11L1140 10z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#d1d1d1; stroke:none;" d="M1141 10L1142 11L1141 10z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#e0e0e0; stroke:none;" d="M1090 11L1091 12L1090 11z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#ededed; stroke:none;" d="M1114 11L1115 12L1114 11z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#d1d1d1; stroke:none;" d="M1139 11L1140 12L1139 11z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#ededed; stroke:none;" d="M1081 12L1082 13L1081 12z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#d1d1d1; stroke:none;" d="M1092.67 12.3333L1093.33 12.6667L1092.67 12.3333z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#ededed; stroke:none;" d="M1094 12L1095 13L1094 12z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#e0e0e0; stroke:none;" d="M1097 12L1098 13L1097 12z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#ededed; stroke:none;" d="M1130 13L1131 14L1130 13M1138 13L1139 14L1138 13z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#d1d1d1; stroke:none;" d="M1141 13L1142 14L1141 13M1079 14L1080 15L1079 14M1102 14L1103 15L1102 14z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#e0e0e0; stroke:none;" d="M1111 14L1112 15L1111 14z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#ededed; stroke:none;" d="M1132 14L1133 15L1132 14M1137 14L1138 15L1137 14z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#e0e0e0; stroke:none;" d="M1078 15L1079 16L1078 15z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#d1d1d1; stroke:none;" d="M1141 15L1142 16L1141 15M1142 17L1143 18L1142 17M1077 20L1078 21L1077 20z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#ededed; stroke:none;" d="M1144 20L1145 21L1144 20M1077 21L1078 22L1077 21z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#e0e0e0; stroke:none;" d="M1076 25L1077 26L1076 25z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#d1d1d1; stroke:none;" d="M1142.33 25.6667L1142.67 26.3333L1142.33 25.6667z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#e0e0e0; stroke:none;" d="M1142.33 27.6667L1142.67 28.3333L1142.33 27.6667M1075 29L1076 30L1075 29z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#ededed; stroke:none;" d="M1141 32L1142 33L1141 32M1140 33L1141 34L1140 33z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#d1d1d1; stroke:none;" d="M1139 35L1140 36L1139 35z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#e0e0e0; stroke:none;" d="M1076 36L1077 37L1076 36z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#ededed; stroke:none;" d="M1078.33 38.6667L1078.67 39.3333L1078.33 38.6667M1138.33 38.6667L1138.67 39.3333L1138.33 38.6667z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#e0e0e0; stroke:none;" d="M1077 41L1078 42L1077 41z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#ededed; stroke:none;" d="M1140 43L1141 44L1140 43z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#d1d1d1; stroke:none;" d="M1075 44L1076 45L1075 44M1144 45L1145 46L1144 45M1147 46L1148 47L1147 46z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#ededed; stroke:none;" d="M1150 47L1151 48L1150 47z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#d1d1d1; stroke:none;" d="M1151 47L1152 48L1151 47z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#ededed; stroke:none;" d="M1158 48L1159 49L1158 48M1075 50L1076 51L1075 50z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#e0e0e0; stroke:none;" d="M1159 51L1160 52L1159 51M1077 53L1078 54L1077 53M1160 53L1161 54L1160 53z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#ededed; stroke:none;" d="M1164 53L1165 54L1164 53M1162 54L1163 55L1162 54z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#e0e0e0; stroke:none;" d="M1078 56L1079 57L1078 56z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#d1d1d1; stroke:none;" d="M1167 56L1168 57L1167 56M1078 57L1079 58L1078 57z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#ededed; stroke:none;" d="M1167 57L1168 58L1167 57z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#d1d1d1; stroke:none;" d="M1167 61L1168 62L1167 61z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#e0e0e0; stroke:none;" d="M1166 64L1167 65L1166 64z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#ededed; stroke:none;" d="M1161 66L1161 67L1164 67L1161 66z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#e0e0e0; stroke:none;" d="M1164 66L1165 67L1164 66z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#ededed; stroke:none;" d="M1154 67L1155 68L1154 67z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#e0e0e0; stroke:none;" d="M1155 67L1156 68L1155 67z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#ededed; stroke:none;" d="M1150 68L1151 69L1150 68z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#d1d1d1; stroke:none;" d="M1149 69L1150 70L1149 69z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#e0e0e0; stroke:none;" d="M1148 70L1149 71L1148 70z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#d1d1d1; stroke:none;" d="M1078 71L1079 72L1078 71z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#ededed; stroke:none;" d="M1147 71L1148 72L1147 71z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#e0e0e0; stroke:none;" d="M1146 73L1147 74L1146 73z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#ededed; stroke:none;" d="M1076 78L1077 79L1076 78M1145 84L1146 85L1145 84z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#d1d1d1; stroke:none;" d="M1075 86L1076 87L1075 86z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#ededed; stroke:none;" d="M1146 87L1147 88L1146 87z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#e0e0e0; stroke:none;" d="M1149 93L1150 94L1149 93M1150 94L1151 95L1150 94z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#d1d1d1; stroke:none;" d="M1149 96L1150 97L1149 96z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#e0e0e0; stroke:none;" d="M1076 97L1077 98L1076 97M1078 101L1079 102L1078 101z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#ededed; stroke:none;" d="M1080.67 102.333L1081.33 102.667L1080.67 102.333z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#d1d1d1; stroke:none;" d="M1084 104L1085 105L1084 104z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#e0e0e0; stroke:none;" d="M1085 106L1086 107L1085 106M1151 106L1152 107L1151 106z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#ededed; stroke:none;" d="M1086 110L1087 111L1086 110z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#e0e0e0; stroke:none;" d="M1151 110L1152 111L1151 110M1086.33 111.667L1086.67 112.333L1086.33 111.667z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#ededed; stroke:none;" d="M1086 113L1087 114L1086 113M1150 113L1151 114L1150 113z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#d1d1d1; stroke:none;" d="M1150 114L1151 115L1150 114M1085 115L1086 116L1085 115z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#ededed; stroke:none;" d="M1078 116L1079 117L1078 116z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#d1d1d1; stroke:none;" d="M1084 116L1085 117L1084 116z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#ededed; stroke:none;" d="M1072 117L1073 118L1072 117z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#e0e0e0; stroke:none;" d="M1071 120L1072 121L1071 120z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#d1d1d1; stroke:none;" d="M1071 121L1072 122L1071 121z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#ededed; stroke:none;" d="M1071 122L1072 123L1071 122z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#e0e0e0; stroke:none;" d="M1148 122L1149 123L1148 122z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#ededed; stroke:none;" d="M1070 124L1071 125L1070 124M1069 126L1070 127L1069 126z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#d1d1d1; stroke:none;" d="M1068 127L1069 128L1068 127z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#e0e0e0; stroke:none;" d="M1067 128L1068 129L1067 128z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#ededed; stroke:none;" d="M1066 129L1067 130L1066 129z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#e0e0e0; stroke:none;" d="M1148 129L1149 130L1148 129z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#ededed; stroke:none;" d="M1063 130L1064 131L1063 130z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#d1d1d1; stroke:none;" d="M1148 130L1149 131L1148 130z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#e0e0e0; stroke:none;" d="M1062 131L1063 132L1062 131z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#d1d1d1; stroke:none;" d="M1061 134L1062 135L1061 134z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#ededed; stroke:none;" d="M1060 136L1061 137L1060 136M1059 137L1060 138L1059 137z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#e0e0e0; stroke:none;" d="M1058 138L1059 139L1058 138z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#d1d1d1; stroke:none;" d="M1148.33 138.667L1148.67 139.333L1148.33 138.667z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#e0e0e0; stroke:none;" d="M1148 140L1149 141L1148 140z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#ededed; stroke:none;" d="M1147 142L1148 143L1147 142z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#e0e0e0; stroke:none;" d="M1055 143L1056 144L1055 143z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#d1d1d1; stroke:none;" d="M1146 144L1147 145L1146 144z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#ededed; stroke:none;" d="M1057 145L1058 146L1057 145M1062 148L1063 149L1062 148M1146 148L1147 149L1146 148M1063 149L1064 150L1063 149z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#e0e0e0; stroke:none;" d="M1137 151L1138 152L1137 151M1147 151L1148 152L1147 151z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#ededed; stroke:none;" d="M1135 152L1136 153L1135 152z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#d1d1d1; stroke:none;" d="M1143 152L1144 153L1143 152M1147 152L1148 153L1147 152M1145.67 153.333L1146.33 153.667L1145.67 153.333z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#ededed; stroke:none;" d="M1064 154L1065 155L1064 154z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#e0e0e0; stroke:none;" d="M1068 156L1069 157L1068 156z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#d1d1d1; stroke:none;" d="M1069 157L1070 158L1069 157z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#ededed; stroke:none;" d="M1071 161L1072 162L1071 161z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#d1d1d1; stroke:none;" d="M1071 162L1072 163L1071 162z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#ededed; stroke:none;" d="M1131.33 164.667L1131.67 165.333L1131.33 164.667z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#d1d1d1; stroke:none;" d="M1129 165L1130 166L1129 165M1071 167L1072 168L1071 167z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#e0e0e0; stroke:none;" d="M1127 167L1128 168L1127 167z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#ededed; stroke:none;" d="M1070 169L1071 170L1070 169z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#e0e0e0; stroke:none;" d="M1126 169L1127 170L1126 169z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#ededed; stroke:none;" d="M1069 170L1070 171L1069 170z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#e0e0e0; stroke:none;" d="M1121 171L1122 172L1121 171M1123 171L1124 172L1123 171z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#ededed; stroke:none;" d="M1125 171L1126 172L1125 171M1068 172L1069 173L1068 172z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#e0e0e0; stroke:none;" d="M1067 174L1068 175L1067 174z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#ededed; stroke:none;" d="M1113 176L1114 177L1113 176z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#d1d1d1; stroke:none;" d="M1114 176L1115 177L1114 176z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#ededed; stroke:none;" d="M1101 177L1102 178L1101 177M1108 177L1109 178L1108 177z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#d1d1d1; stroke:none;" d="M1079 178L1080 179L1079 178M1083 178L1084 179L1083 178z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#ededed; stroke:none;" d="M1107 178L1108 179L1107 178z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#e0e0e0; stroke:none;" d="M1086 179L1087 180L1086 179z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#ededed; stroke:none;" d="M1097 179L1098 180L1097 179z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#d1d1d1; stroke:none;" d="M1104 179L1105 180L1104 179z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#e0e0e0; stroke:none;" d="M1068 180L1069 181L1068 180z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#d1d1d1; stroke:none;" d="M1074 180L1075 181L1074 180M1089 180L1090 181L1089 180z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#e0e0e0; stroke:none;" d="M1090 180L1091 181L1090 180z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#ededed; stroke:none;" d="M1091 180L1092 181L1091 180M1095 180L1096 181L1095 180z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#d1d1d1; stroke:none;" d="M1096 180L1097 181L1096 180z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#ededed; stroke:none;" d="M1069 181L1070 182L1069 181z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#e0e0e0; stroke:none;" d="M1069 182L1070 183L1069 182z"/>
+                        <path onclick = "Nara()" class = "Nara" style = "fill:#ededed; stroke:none;" d="M1071 182L1072 183L1071 182z"/>
+</svg>

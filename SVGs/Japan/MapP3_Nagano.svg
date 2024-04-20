@@ -1,0 +1,104 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1450" height="800">
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#010101; stroke:none;" d="M0 0L0 356C4.20111 354.255 20.4235 353.479 22.8681 358.243C25.2701 362.925 17.7455 378.039 29.9969 376.549C34.774 375.967 36.5958 370.252 41.0147 368.832C45.0947 367.52 55.7653 365.392 60 365.437C62.9465 365.468 66.7332 368.695 69.3966 366.342C72.0366 364.009 70.7743 359.005 72.7423 356.055C74.9245 352.783 78.6898 351.979 81.3627 349.352C88.9458 341.897 98.3653 323.842 112.812 332.179C120.196 336.441 117.24 346.628 120.573 353C124.025 359.603 131.298 361.473 135.142 367.133C139.785 373.97 133.152 382.337 136 390C128.8 392.347 117.43 394.273 111.149 398.028C107.638 400.126 109.242 403.837 107.228 406.687C105.199 409.555 100.707 410.422 98.1852 413.059C93.462 417.997 93.2298 423.026 91.01 429C88.2833 436.338 83.448 448.559 90.3179 455.53C95.7481 461.04 104.582 462.818 112 461.431C117.151 460.468 124.971 454.746 128.973 461.228C131.512 465.342 132.271 476.568 129.821 480.791C127.779 484.31 123.137 485.558 122.492 490.004C121.442 497.236 127.228 502.407 125 510C122.906 509.726 119.816 509.239 119.466 512.228C118.906 517.014 124.966 518.014 126.972 521.274C130.494 526.997 125.848 535.043 129.742 540.911C132.46 545.006 137.279 547.217 140.197 551.17C142.483 554.268 145.253 559.024 142.446 562.545C139.573 566.148 132.342 573.167 127.314 569.968C124.221 568 124.975 563.315 120.891 562.357C113.331 560.583 106.17 563.978 99 565C98.2559 556.542 90.2881 547.183 81.3935 554.009C76.9578 557.413 71.9987 567.804 70 573C57.0336 564.88 46.0386 588.759 59 595L59 597C47.0056 603.563 55.7053 612.39 54.6443 622C53.7696 629.923 47.1011 630.999 45.5046 637.059C43.8621 643.293 47.0808 649.385 45.9877 654.896C45.3415 658.153 41.6142 659.502 41.3364 663.043C41.0373 666.856 45.0547 670.236 43.7477 673.957C41.6336 679.975 33.84 680.84 29.0895 683.249C22.0024 686.843 14.7591 693.028 8 697.53C5.72194 699.047 1.88627 699.799 0.603395 702.419C-2.75126 709.27 0 723.398 0 731L0 800L1450 800L1450 0L0 0z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#eeeeee; stroke:none;" d="M101 331L102 332L101 331z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#ffffff; stroke:none;" d="M0 701C11.0357 697.402 19.3339 689.447 29.0394 683.684C33.8406 680.834 40.999 680.699 43.9174 674.791C45.8011 670.978 41.6013 667.721 41.4259 664.015C41.2428 660.146 45.2987 658.467 45.9846 654.961C47.3192 648.138 40.1136 634.226 52 633C56.8933 619.578 46.762 606.554 59 597C56.7082 593.988 52.3583 591.185 52.6775 586.996C53.2131 579.967 60.5993 565.36 68 573C74.2196 567.936 75.5308 559.409 81.2245 554.434C89.7569 546.978 98.1421 556.624 99 565C106.076 564.079 112.225 560.776 119.71 562.009C124.586 562.813 123.468 567.59 126.599 569.971C131.377 573.605 140.277 566.257 142.824 562.455C145.257 558.824 142.481 553.485 140.116 550.514C137.167 546.81 132.442 544.776 129.742 540.83C125.773 535.029 130.183 527.355 127.397 521.39C125.803 517.978 119.287 516.715 119.92 512.159C120.295 509.457 123.095 509.835 125 510C127.212 502.5 121.397 497.026 122.607 490.04C123.271 486.206 127.053 485.298 128.973 482.391C131.319 478.84 131.396 463.955 128.972 460.434C125.1 454.809 116.63 460.248 112 461.326C105.016 462.953 95.5308 460.67 90.4336 455.505C83.6276 448.607 88.0045 437.215 90.9267 430C92.733 425.54 92.3757 421.044 95.419 417C98.6605 412.692 103.966 411.084 107.169 407.277C109.704 404.264 108.048 400.286 112.059 397.831C118.198 394.075 128.948 392.634 136 390C133.613 382.266 140.361 372.016 134.436 365.495C129.971 360.58 123.659 358.403 120.457 352C117.335 345.758 120.214 336.093 112.895 332.028C98.847 324.225 88.7494 340.908 81.5818 348.775C79.0875 351.513 75.0349 352.183 72.858 355.225C70.6456 358.316 72.1737 363.842 69.2577 366.267C66.8341 368.282 62.7472 365.371 60 365.377C56.0282 365.385 52.8566 368.218 49 368.762C45.766 369.217 42.2274 367.647 39.1844 369.218C35.2621 371.244 33.4104 377.643 28.0039 376.149C16.614 373.001 26.7201 363.196 22.9321 357.529C20.8597 354.428 14.2232 355.962 11 355.334C8.3212 354.812 4.8808 353.416 2.3179 355.042C-2.10855 357.851 0 371.416 0 376L0 439L0 701z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#eeeeee; stroke:none;" d="M114 332L115 333L114 332M95 333L96 334L95 333z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#f6f6f6; stroke:none;" d="M93 334L94 335L93 334z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#eeeeee; stroke:none;" d="M116 335L117 336L116 335z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#f6f6f6; stroke:none;" d="M90 336L91 337L90 336M89 337L90 338L89 337M88 338L89 339L88 338M87 339L88 340L87 339z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#eeeeee; stroke:none;" d="M83 346L84 347L83 346M82 348L83 349L82 348M80 350L81 351L80 350z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#f6f6f6; stroke:none;" d="M78 351L79 352L78 351M75 352L76 353L75 352M7 354L8 355L7 354z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#e6e6e6; stroke:none;" d="M121 354L122 355L121 354z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#eeeeee; stroke:none;" d="M11 355L12 356L11 355z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#e6e6e6; stroke:none;" d="M18 355L19 356L18 355z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#f6f6f6; stroke:none;" d="M20 355L21 356L20 355z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#e6e6e6; stroke:none;" d="M71 357L72 358L71 357z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#f6f6f6; stroke:none;" d="M23 361L24 362L23 361M0 362L1 363L0 362M57 365L58 366L57 365M62 365L63 366L62 365z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#eeeeee; stroke:none;" d="M21 367L22 368L21 367M53 367L54 368L53 367z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#f6f6f6; stroke:none;" d="M69 367L70 368L69 367z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#e6e6e6; stroke:none;" d="M21 368L22 369L21 368z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#f6f6f6; stroke:none;" d="M43 368L44 369L43 368z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#e6e6e6; stroke:none;" d="M44 368L45 369L44 368z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#eeeeee; stroke:none;" d="M51 368L52 369L51 368z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#f6f6f6; stroke:none;" d="M21 369L22 370L21 369M136 369L137 370L136 369z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#eeeeee; stroke:none;" d="M36 371L37 372L36 371z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#f6f6f6; stroke:none;" d="M22 372L23 373L22 372M34 374L35 375L34 374z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#e6e6e6; stroke:none;" d="M25 375L26 376L25 375z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#eeeeee; stroke:none;" d="M33 375L34 376L33 375M135 379L136 380L135 379M134 385L135 386L134 385z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#f6f6f6; stroke:none;" d="M134 390L135 391L134 390z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#eeeeee; stroke:none;" d="M128 392L129 393L128 392z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#f6f6f6; stroke:none;" d="M126 393L127 394L126 393M113 396L114 397L113 396z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#eeeeee; stroke:none;" d="M114.667 396.333L115.333 396.667L114.667 396.333z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#e6e6e6; stroke:none;" d="M119 396L120 397L119 396M108 404L109 405L108 404M108 406L109 407L108 406z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#f6f6f6; stroke:none;" d="M106 408L107 409L106 408z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#e6e6e6; stroke:none;" d="M95 416L96 417L95 416z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#f6f6f6; stroke:none;" d="M94 417L95 418L94 417z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#eeeeee; stroke:none;" d="M93 419L94 420L93 419M89 432L90 433L89 432M87 436L88 437L87 436z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#e6e6e6; stroke:none;" d="M87 446L88 447L87 446z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#f6f6f6; stroke:none;" d="M87 447L88 448L87 447z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#e6e6e6; stroke:none;" d="M89 455L90 456L89 455z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#f6f6f6; stroke:none;" d="M90 456L91 457L90 456z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#eeeeee; stroke:none;" d="M93 457L94 458L93 457z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#e6e6e6; stroke:none;" d="M119 458L120 459L119 458z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#eeeeee; stroke:none;" d="M96 459L97 460L96 459z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#e6e6e6; stroke:none;" d="M103 461L104 462L103 461z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#f6f6f6; stroke:none;" d="M107 461L108 462L107 461M112 461L113 462L112 461z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#e6e6e6; stroke:none;" d="M130 468L131 469L130 468z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#eeeeee; stroke:none;" d="M130 469L131 470L130 469z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#f6f6f6; stroke:none;" d="M130 470L131 471L130 470z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#eeeeee; stroke:none;" d="M130 471L130 474L131 474L130 471z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#e6e6e6; stroke:none;" d="M130 474L130 477L131 477L130 474z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#eeeeee; stroke:none;" d="M130 477L131 478L130 477z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#f6f6f6; stroke:none;" d="M130 478L130 481L131 481L130 478z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#eeeeee; stroke:none;" d="M123 486L124 487L123 486z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#f6f6f6; stroke:none;" d="M122 492L123 493L122 492z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#eeeeee; stroke:none;" d="M123 496L124 497L123 496z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#f6f6f6; stroke:none;" d="M126.333 503.667L126.667 504.333L126.333 503.667z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#e6e6e6; stroke:none;" d="M126 505L127 506L126 505M120 509L121 510L120 509z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#eeeeee; stroke:none;" d="M123 509L124 510L123 509M126 519L127 520L126 519M70 536L71 537L70 536z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#f6f6f6; stroke:none;" d="M128 539L129 540L128 539z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#eeeeee; stroke:none;" d="M129 541L130 542L129 541M130 542L131 543L130 542M133 544L134 545L133 544M134 545L135 546L134 545M135 546L136 547L135 546z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#f6f6f6; stroke:none;" d="M136 547L137 548L136 547z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#eeeeee; stroke:none;" d="M139 549L140 550L139 549z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#e6e6e6; stroke:none;" d="M83 552L84 553L83 552z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#f6f6f6; stroke:none;" d="M92 552L93 553L92 552z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#eeeeee; stroke:none;" d="M81 553L82 554L81 553M141 553L142 554L141 553z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#f6f6f6; stroke:none;" d="M95 554L96 555L95 554M79 555L80 556L79 555M78 557L79 558L78 557z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#e6e6e6; stroke:none;" d="M144.333 558.667L144.667 559.333L144.333 558.667z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#eeeeee; stroke:none;" d="M77 560L78 561L77 560z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#e6e6e6; stroke:none;" d="M98 560L99 561L98 560z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#f6f6f6; stroke:none;" d="M120 561L121 562L120 561z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#eeeeee; stroke:none;" d="M76 562L77 563L76 562M112 562L113 563L112 562z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#f6f6f6; stroke:none;" d="M113 562L113 563L116 563L113 562z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#eeeeee; stroke:none;" d="M116 562L117 563L116 562M143 562L144 563L143 562M104 563L105 564L104 563z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#f6f6f6; stroke:none;" d="M103 564L104 565L103 564M124 564L125 565L124 564M139 564L140 565L139 564z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#eeeeee; stroke:none;" d="M74 565L75 566L74 565M138 565L139 566L138 565M136 568L137 569L136 568z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#f6f6f6; stroke:none;" d="M61 569L62 570L61 569M71 569L72 570L71 569M135 569L136 570L135 569z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#eeeeee; stroke:none;" d="M66 570L67 571L66 570z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#f6f6f6; stroke:none;" d="M133 570L134 571L133 570z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#eeeeee; stroke:none;" d="M59 571L60 572L59 571z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#e6e6e6; stroke:none;" d="M69 572L70 573L69 572z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#eeeeee; stroke:none;" d="M58 573L59 574L58 573M57 576L58 577L57 576M53 583L54 584L53 583M54 592L55 593L54 592z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#f6f6f6; stroke:none;" d="M57 594L58 595L57 594z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#eeeeee; stroke:none;" d="M58 595L59 596L58 595M53 601L54 602L53 601z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#e6e6e6; stroke:none;" d="M52 603L53 604L52 603z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#f6f6f6; stroke:none;" d="M51 606L52 607L51 606z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#eeeeee; stroke:none;" d="M51.3333 607.667L51.6667 608.333L51.3333 607.667z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#f6f6f6; stroke:none;" d="M51 609L52 610L51 609M54 622L55 623L54 622z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#eeeeee; stroke:none;" d="M49 632L50 633L49 632z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#f6f6f6; stroke:none;" d="M50 632L51 633L50 632M45 635L46 636L45 635z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#eeeeee; stroke:none;" d="M45 642L46 643L45 642z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#f6f6f6; stroke:none;" d="M44 649L45 650L44 649M45 651L46 652L45 651M46 652L47 653L46 652z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#eeeeee; stroke:none;" d="M46 655L47 656L46 655M45 657L46 658L45 657z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#e6e6e6; stroke:none;" d="M41 660L42 661L41 660M41 666L42 667L41 666z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#f6f6f6; stroke:none;" d="M43 669L44 670L43 669z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#e6e6e6; stroke:none;" d="M41 677L42 678L41 677z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#f6f6f6; stroke:none;" d="M39 678L40 679L39 678M29 682L30 683L29 682z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#eeeeee; stroke:none;" d="M32 682L33 683L32 682M25 686L26 687L25 686z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#e6e6e6; stroke:none;" d="M22 689L23 690L22 689M19 690L20 691L19 690M16 691L17 692L16 691z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#f6f6f6; stroke:none;" d="M14 692L15 693L14 692z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#e6e6e6; stroke:none;" d="M13 693L14 694L13 693z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#eeeeee; stroke:none;" d="M7 698L8 699L7 698z"/>
+                        <path onclick = "Nagano()" class = "Nagano" style = "fill:#e6e6e6; stroke:none;" d="M4 699L5 700L4 699M1 700L2 701L1 700z"/>
+</svg>

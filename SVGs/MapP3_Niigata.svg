@@ -1,0 +1,233 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1450" height="800">
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#010101; stroke:none;" d="M0 0L0 323L38 300.009L66 294.12L89.0147 271.286L114.363 254.501L126.344 234L143.688 211L156.296 175L169 153C177.788 150.721 185.904 143.053 194 138.781C217.519 126.371 250.424 114.382 260.301 87C267.235 67.7776 265.826 46.549 271.721 27C273.43 21.3355 276.912 9.96149 282.329 6.81635C285.675 4.87335 290.785 8.56244 294 9.64429C299.169 11.384 307.215 11.4577 309.933 17.0439C313.669 24.722 307.484 34.4777 315.225 41.6968C321.855 47.8804 340.516 46.1373 339.562 60C339.002 68.1418 328.425 75.2869 321 76.5702C315.616 77.5008 310.325 74.8627 307.028 81.0439C302.899 88.785 306.383 100.587 305.575 108.486C305.258 111.585 301.208 114.066 300.009 117.004C297.673 122.729 295.118 138.114 296.79 144C297.79 147.52 299.766 151.14 303.043 152.988C305.769 154.525 311.944 154.693 311.944 159.044C311.944 164.186 302.663 169.815 299.969 174C296.968 178.662 296.537 184.485 293.348 188.985C290.392 193.157 284.82 195.686 283.662 201.001C282.189 207.762 285.95 217.588 288 224C280.323 225.828 272.445 222.424 265.001 224.573C259.416 226.185 258.373 232.64 252.956 233.941C246.011 235.609 231.717 236.071 226.743 241.653C222.082 246.883 229.771 257.388 228.532 264C227.08 271.749 218.91 276.132 219.062 284C219.234 292.897 227.697 293.133 230.397 300.043C235.122 312.14 231.68 332.523 230 345L209.029 323.636L198.956 334.682L183.742 341.394L183.022 352.775L176.093 359.225L173.462 369.751L161.514 375.433L154.941 386.154L138 389C136.267 381.437 141.338 373.56 137.991 366.105C135.033 359.517 125.765 357.153 122.317 350C119.461 344.074 121.731 336.558 116.581 331.419C102.983 317.85 87.1179 338.778 79.6096 346.776C76.8684 349.696 72.5316 350.592 70.4568 354.188C68.4895 357.598 68.8995 362.224 68 366C61.6269 361.794 44.8403 363.475 38.0394 367.028C35.1306 368.547 32.6756 373.886 29.0046 373.369C19.523 372.032 29.8496 358.09 22.8519 354.032C19.7168 352.213 3.48829 350.497 1.02778 353.603C-3.23706 358.988 0 377.214 0 384L0 469L0 800L1450 800L1450 0L0 0z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M282 5L283 6L282 5z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#ffffff; stroke:none;" d="M0 352C5.80711 351.519 21.5913 351.017 25.2176 356.228C28.3044 360.665 19.949 372.718 29.0039 373.824C33.1425 374.329 35.4805 368.17 39.0401 366.742C46.6497 363.69 60.4027 362.189 68 365C69.0436 361.477 68.602 357.224 70.7423 354.105C72.9644 350.867 76.8486 350.155 79.5015 347.502C87.1849 339.817 100.678 318.964 114.895 330.434C121.619 335.858 119.997 343.907 122.742 351C125.604 358.399 134.409 359.634 137.821 366.044C141.6 373.145 136.288 381.545 138 389L147 385.356L156.683 385.242L162.228 375.303L173.933 369.567L174.832 362.005L184 354C179.534 337.121 190.613 342.467 199.786 334.566C202.53 332.203 204.819 322.344 209.436 323.613C218.667 326.149 219.857 341.55 230 345C232.28 332.899 234.858 311.762 230.397 300.015C227.87 293.362 219.042 292.258 218.773 284C218.52 276.22 227.568 271.1 228.699 263C229.58 256.693 222.714 247.392 226.607 242.228C231.215 236.116 245.979 235.611 252.957 233.941C258.315 232.659 259.66 226.435 265.004 224.603C272.246 222.12 280.384 225.813 288 224C286.217 217.466 282.403 208.883 283.485 202.001C284.384 196.277 290.017 194.235 293.03 189.907C296.636 184.727 297.149 178.207 300.928 173C303.841 168.987 311.326 164.498 312.654 159.846C313.873 155.578 300.314 151.598 298 146.999C294.373 139.791 297.825 127.702 299.228 120C300.023 115.637 304.344 113.171 305.134 109C306.665 100.926 302.047 86.2802 308.423 79.2284C312.168 75.0864 316.27 77.105 321 76.581C329.186 75.6741 341.803 66.4219 339.307 57C335.716 43.4426 318.778 48.5447 312.916 37.9846C309.222 31.3303 313.52 18.2344 307.772 14.0085C304.416 11.5414 285.491 4.79822 282.21 6.73608C276.491 10.1139 273.508 21.0466 271.721 27C263.61 54.0363 268.638 82.9714 247.91 104.996C224.335 130.047 186.527 135.068 163.133 160.089C151.248 172.802 152.301 196.941 142.934 212C138.034 219.879 130.999 226.107 126.065 234C122.168 240.234 119.501 249.292 114.363 254.501C109.528 259.402 100.684 261.575 95 265.899C86.0026 272.743 79.5547 281.926 71.5756 289.79C60.8298 300.382 50.1109 295.853 38 299.639C28.683 302.552 19.5983 312.753 11 317.716C7.7311 319.603 2.2057 321.524 0.603395 325.213C-2.39782 332.122 0 344.496 0 352z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M281 6L282 7L281 6z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M286 6L287 7L286 6z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M288 7L289 8L288 7z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M290 8L291 9L290 8z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M279 9L280 10L279 9M293 9L294 10L293 9M296 10L297 11L296 10z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M278 11L279 12L278 11z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M300 11L301 12L300 11z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M305 12L306 13L305 12M307 13L308 14L307 13M310 16L311 17L310 16M274 19L275 20L274 19z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M273 21L274 22L273 21z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#d6d6d6; stroke:none;" d="M310 21L311 22L310 21z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M272 24L273 25L272 24M271 27L272 28L271 27z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#d6d6d6; stroke:none;" d="M310 30L311 31L310 30z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M270 31L271 32L270 31M310 31L311 32L310 31M269.333 35.6667L269.667 36.3333L269.333 35.6667M311 35L312 36L311 35z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M268 40L269 41L268 40z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M268 41L269 42L268 41M315 42L316 43L315 42M319 44L320 45L319 44z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#d6d6d6; stroke:none;" d="M320 44L321 45L320 44M326 45L327 46L326 45z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M267 46L268 47L267 46z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M267.333 47.6667L267.667 48.3333L267.333 47.6667M332 48L333 49L332 48z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M266 54L267 55L266 54z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M338 54L339 55L338 54M266.333 55.6667L266.667 56.3333L266.333 55.6667M339 56L340 57L339 56z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M265 61L266 62L265 61z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M339 61L340 62L339 61M265.333 62.6667L265.667 63.3333L265.333 62.6667z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M338 64L339 65L338 64M337 66L338 67L337 66z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M336 67L337 68L336 67M264.333 69.6667L264.667 70.3333L264.333 69.6667M334 69L335 70L334 69z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M333 70L334 71L333 70M330 72L331 73L330 72z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M328 73L329 74L328 73z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M263 74L264 75L263 74z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M263 75L264 76L263 75M311 76L312 77L311 76z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#d6d6d6; stroke:none;" d="M316 76L317 77L316 76z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M317 76L318 77L317 76M322 76L323 77L322 76M309 77L310 78L309 77z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#d6d6d6; stroke:none;" d="M308 78L309 79L308 78z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M262 79L263 80L262 79z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M307 79L308 80L307 79z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M261 83L262 84L261 83z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M305 84L306 85L305 84z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M305 85L306 86L305 85z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M260 86L261 87L260 86z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M260 87L261 88L260 87M259 89L260 90L259 89M258 91L259 92L258 91M256 94L257 95L256 94z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#d6d6d6; stroke:none;" d="M305 96L306 97L305 96z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M254 97L255 98L254 97z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M253 98L254 99L253 98z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#d6d6d6; stroke:none;" d="M303 100L303 103L304 103L303 100z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M250 102L251 103L250 102M249 103L250 104L249 103M248 104L249 105L248 104M247 105L248 106L247 105M304 105L305 106L304 105M246 106L247 107L246 106z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#d6d6d6; stroke:none;" d="M305 106L306 107L305 106z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M245 107L246 108L245 107M244 108L245 109L244 108z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#d6d6d6; stroke:none;" d="M306 108L307 109L306 108z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M243 109L244 110L243 109M242 110L243 111L242 110z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M305 110L306 111L305 110z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M238 113L239 114L238 113M237 114L238 115L237 114z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#d6d6d6; stroke:none;" d="M300 115L301 116L300 115z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M234 116L235 117L234 116M299 117L300 118L299 117M231 118L232 119L231 118M228 120L229 121L228 120M225 122L226 123L225 122M223 123L224 124L223 123z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M221 124L222 125L221 124M219 125L220 126L219 125z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M214 128L215 129L214 128M212 129L213 130L212 129M210 130L211 131L210 130z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#d6d6d6; stroke:none;" d="M298 130L299 131L298 130z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M208 131L209 132L208 131M206 132L207 133L206 132M204 133L205 134L204 133z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#d6d6d6; stroke:none;" d="M297 133L298 134L297 133z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M202 134L203 135L202 134M200 135L201 136L200 135M198 136L199 137L198 136z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#d6d6d6; stroke:none;" d="M296 136L297 137L296 136z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M196 137L197 138L196 137M194 138L195 139L194 138M192 139L193 140L192 139z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M190 140L191 141L190 140z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M187 142L188 143L187 142M185 143L186 144L185 143z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#d6d6d6; stroke:none;" d="M296 143L297 144L296 143z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M183 144L184 145L183 144z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M182 145L183 146L182 145M180 146L181 147L180 146z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M297 146L298 147L297 146z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M177 148L178 149L177 148z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M298 148L299 149L298 148M174 150L175 151L174 150z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M173 151L174 152L173 151M300 151L301 152L300 151z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M301 152L302 153L301 152z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#d6d6d6; stroke:none;" d="M169 153L170 154L169 153z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M170 153L171 154L170 153z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M302 153L303 154L302 153z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M305 154L306 155L305 154z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M306 154L307 155L306 154M310 162L311 163L310 162M309 163L310 164L309 163z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M308 164L309 165L308 164z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#d6d6d6; stroke:none;" d="M307 165L308 166L307 165M306 166L307 167L306 166z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M305 167L306 168L305 167M304 168L305 169L304 168M303 169L304 170L303 169z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M302 170L303 171L302 170z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M156 173L157 174L156 173z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M156 174L157 175L156 174M299 174L300 175L299 174z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#d6d6d6; stroke:none;" d="M298 176L299 177L298 176z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M155 177L156 178L155 177z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M155 178L156 179L155 178z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M297 178L298 179L297 178z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M154 181L155 182L154 181M296 181L297 182L296 181z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M153 184L154 185L153 184z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M153 185L154 186L153 185z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M295 185L296 186L295 185z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M294 187L295 188L294 187z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M152 188L153 189L152 188z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M293 189L294 190L293 189z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M151 191L152 192L151 191z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M151 192L152 193L151 192z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M289 193L290 194L289 193M150 194L151 195L150 194z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M150 195L151 196L150 195z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M286 195L287 196L286 195M285 196L286 197L285 196M149 197L150 198L149 197z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M149 198L150 199L149 198z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M148 200L149 201L148 200z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#d6d6d6; stroke:none;" d="M283 200L284 201L283 200z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M147 203L148 204L147 203z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#d6d6d6; stroke:none;" d="M283 204L284 205L283 204z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M146 205L147 206L146 205M283 205L284 206L283 205z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M145 207L146 208L145 207z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M144 209L145 210L144 209z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M284 209L285 210L284 209z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M143 211L144 212L143 211M141 214L142 215L141 214z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#d6d6d6; stroke:none;" d="M285 215L286 216L285 215z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M285 216L286 217L285 216M139 217L140 218L139 217z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M138 218L139 219L138 218M137 219L138 220L137 219M286 219L287 220L286 219M136 220L137 221L136 220M135 221L136 222L135 221z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M268.667 223.333L269.333 223.667L268.667 223.333z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M264 224L265 225L264 224M275 224L276 225L275 224M286 224L287 225L286 224z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M132 225L133 226L132 225M131 226L132 227L131 226M260 226L261 227L260 226z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M130 227L131 228L130 227M259 227L260 228L259 227z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M128 230L129 231L128 230M257 231L258 232L257 231M126 233L127 234L126 233z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M256 233L257 234L256 233z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#d6d6d6; stroke:none;" d="M249 234L250 235L249 234z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M244 235L245 236L244 235z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M124 236L125 237L124 236z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#d6d6d6; stroke:none;" d="M241 236L242 237L241 236z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M237 237L238 238L237 237M123 238L124 239L123 238z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#d6d6d6; stroke:none;" d="M234 238L235 239L234 238z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M229 239L230 240L229 239M122 240L123 241L122 240z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M227 240L228 241L227 240M121 241L122 242L121 241M225 242L226 243L225 242M120 243L121 244L120 243M119 245L120 246L119 245z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M118 247L119 248L118 247z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#d6d6d6; stroke:none;" d="M225 248L226 249L225 248z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M117 249L118 250L117 249M116 251L117 252L116 251M115 253L116 254L115 253M114 255L115 256L114 255M228 255L229 256L228 255M111 256L112 257L111 256M109 257L110 258L109 257z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M106 258L107 259L106 258M104 259L105 260L104 259z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M101 261L102 262L101 261z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M99 262L100 263L99 262z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M98 263L99 264L98 263M228 264L229 265L228 264z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M95 265L96 266L95 265z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M94 266L95 267L94 266z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#d6d6d6; stroke:none;" d="M227 268L228 269L227 268z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M89 270L90 271L89 270M88 271L89 272L88 271M87 272L88 273L87 272z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M225 272L226 273L225 272z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M86 273L87 274L86 273z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M224 273L225 274L224 273z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M85 274L86 275L85 274M223 274L224 275L223 274M84 275L85 276L84 275z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#d6d6d6; stroke:none;" d="M222 275L223 276L222 275M220 277L221 278L220 277z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M219 278L220 279L219 278M79 281L80 282L79 281M78 282L79 283L78 282z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M218.333 282.667L218.667 283.333L218.333 282.667z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M77 283L78 284L77 283z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M76 284L77 285L76 284z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M218 284L219 285L218 284z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M75 285L76 286L75 285M219 288L220 289L219 288z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M71 290L72 291L71 290z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M220 290L221 291L220 290z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M70 291L71 292L70 291z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M68 292L69 293L68 292M223 293L224 294L223 293z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M65 294L66 295L65 294M63 295L64 296L63 295M61 296L62 297L61 296M228 296L229 297L228 296z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M58 297L59 298L58 297z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M229 297L230 298L229 297M55 298L56 299L55 298z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M230 298L231 299L230 298z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M42 299L42 300L51 300L42 299z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#d6d6d6; stroke:none;" d="M31 302L32 303L31 302z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M30 304L31 305L30 304z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M29 305L30 306L29 305M25 308L26 309L25 308M22 310L23 311L22 310z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M19 312L20 313L19 312z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M16 314L17 315L16 314M13 316L14 317L13 316M11 317L12 318L11 317z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M9 318L10 319L9 318z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M6 320L7 321L6 320M4 321L5 322L4 321z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M231 321L232 322L231 321z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M2 322L3 323L2 322M208 322L209 323L208 322M0 323L1 324L0 323z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M206 323L207 324L206 323z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M205 324L206 325L205 324M204 326L205 327L204 326z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M214 327L215 328L214 327M103 328L104 329L103 328z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#d6d6d6; stroke:none;" d="M111 328L112 329L111 328z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M112 328L113 329L112 328z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#d6d6d6; stroke:none;" d="M99 329L100 330L99 329M114 329L115 330L114 329z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M203 329L204 330L203 329z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M93 331L94 332L93 331z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M202 331L203 332L202 331z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M91 332L92 333L91 332M217 332L218 333L217 332M218 334L219 335L218 334z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#d6d6d6; stroke:none;" d="M119 336L120 337L119 336M197 336L198 337L197 336M219 336L220 337L219 336z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M231 336L232 337L231 336z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M190 337L191 338L190 337z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M220 337L221 338L220 337z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#d6d6d6; stroke:none;" d="M231 337L232 338L231 337M187 338L188 339L187 338z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M120 339L121 340L120 339z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#d6d6d6; stroke:none;" d="M185 339L186 340L185 339z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M83 340L84 341L83 340z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#d6d6d6; stroke:none;" d="M82 342L83 343L82 342z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M182 342L183 343L182 342M121 343L122 344L121 343M81 344L82 345L81 344z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M121 344L121 348L122 348L121 344z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#d6d6d6; stroke:none;" d="M227 344L228 345L227 344M121 348L122 349L121 348z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M76 349L77 350L76 349z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M182 349L183 350L182 349M3 351L4 352L3 351z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M4 351L5 352L4 351z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M5 351L6 352L5 351z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#d6d6d6; stroke:none;" d="M72 351L73 352L72 351z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M122 351L123 352L122 351z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#d6d6d6; stroke:none;" d="M183 351L184 352L183 351z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M0 352L1 353L0 352M14.6667 353.333L15.3333 353.667L14.6667 353.333z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#d6d6d6; stroke:none;" d="M16 353L17 354L16 353z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M70 353L71 354L70 353M24 354L25 355L24 354M183 354L184 355L183 354M25 355L26 356L25 355M69 355L70 356L69 355z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#d6d6d6; stroke:none;" d="M181 355L182 356L181 355z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M178 356L179 357L178 356z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M26 357L27 358L26 357z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#d6d6d6; stroke:none;" d="M26.3333 358.667L26.6667 359.333L26.3333 358.667M128 358L129 359L128 358M129 359L130 360L129 359z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M175 359L176 360L175 359M26 360L27 361L26 360z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M133 361L134 362L133 361z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M174 361L175 362L174 361M59.6667 362.333L60.3333 362.667L59.6667 362.333z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M135 362L136 363L135 362z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#d6d6d6; stroke:none;" d="M174 362L175 363L174 362z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M25 363L26 364L25 363z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#d6d6d6; stroke:none;" d="M55 363L56 364L55 363z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M64 363L65 364L64 363z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#d6d6d6; stroke:none;" d="M53 364L54 365L53 364z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M66 364L67 365L66 364z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M68 364L69 365L68 364M137 364L138 365L137 364M24 365L25 366L24 365z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#d6d6d6; stroke:none;" d="M67 365L68 366L67 365z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M174 365L175 366L174 365z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M138 366L139 367L138 366z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M36 367L37 368L36 367z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M175 367L176 368L175 367z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M35 368L36 369L35 368M24 370L25 371L24 370z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M33 371L34 372L33 371z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M167 372L168 373L167 372z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#d6d6d6; stroke:none;" d="M168 372L169 373L168 372z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#e2e2e2; stroke:none;" d="M163 373L164 374L163 373z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#d6d6d6; stroke:none;" d="M28 374L29 375L28 374z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M30 374L31 375L30 374z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#d6d6d6; stroke:none;" d="M159 378L160 379L159 378z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M137 381L138 382L137 381M158 384L159 385L158 384M143 385L144 386L143 385z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#d6d6d6; stroke:none;" d="M149 385L150 386L149 385z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#eeeeee; stroke:none;" d="M157 385L158 386L157 385M151 386L152 387L151 386M155 386L156 387L155 386z"/>
+                        <path onclick = "Niigata()" class = "Niigata" style = "fill:#d6d6d6; stroke:none;" d="M137 387L138 388L137 387z"/>
+</svg>

@@ -1,0 +1,152 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1450" height="800">
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#010101; stroke:none;" d="M0 0L0 800L1450 800L1450 0L0 0z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#e0e0e0; stroke:none;" d="M725 185L726 186L725 185z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#d1d1d1; stroke:none;" d="M726 185L727 186L726 185z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#e0e0e0; stroke:none;" d="M729 185L730 186L729 185z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ffffff; stroke:none;" d="M670 196C666.675 202.68 663.444 206.294 656 203C653.395 210.87 647.893 221.042 643.081 227.853C641.411 230.216 638.022 230.751 636.742 233.313C630.515 245.781 636.876 259.87 621 267.821C611.901 272.378 600.979 265.208 592 270L592 271C595.54 276.335 609.252 293.138 605.971 298.787C602.37 304.989 593.014 305.391 588.434 310.302C584.155 314.891 587.252 320.896 580 323C576.88 334.949 568.224 336.814 561 327L560 327C562.253 340.086 580.479 364.522 566 376L566 378C568.387 378.784 572.75 379.235 573.539 382.144C574.613 386.109 568.721 388.869 566.638 391.325C562.618 396.065 561.129 402.963 561 409C565.089 408.073 569.708 404.552 574 405.836C578.918 407.307 581.365 413.04 587 412.752C594.509 412.369 597.847 404.434 606 406.129C611.065 407.181 620.599 420.42 624.397 417.914C632.653 412.465 613.518 401.06 614.427 395.058C615.116 390.502 621.528 390.221 623.258 385.956C626.864 377.066 619.425 367.878 626.649 359.148C630.183 354.877 637.045 358.651 639.487 354.667C643.828 347.585 649.536 328.563 660 331C660.078 324.013 664.282 319.574 665.62 313C667.521 303.664 660.656 292.895 670.429 285.661C673.17 283.633 676.043 286.418 679 285.717C686.263 283.996 692.099 279.065 700 278L698 273C711.858 269.008 721.676 257.043 736 254.465C741.455 253.483 749.027 252.608 752 258C760.121 258.067 773.904 259.25 780.683 264.14C783.755 266.355 784.02 270.991 787.059 273.61C789.965 276.116 793.84 277.332 796.347 280.329C804.249 289.775 811.699 306.088 823 312L828.66 282L843 251C833.064 251.757 826.789 250.705 821.325 241.999C818.74 237.881 817.036 235.646 821 232C818.321 221.375 811.259 223.923 802 224L798 197L790 194C785.74 196.259 783.383 201.993 778 202.188C772.586 202.384 770.174 196.453 765.714 194.603C758.62 191.661 748.816 193.426 741.001 190.66C737.421 189.393 734.798 185.564 730.911 185.434C719.59 185.057 715.478 190.939 706.004 194.308C701.506 195.907 697.477 193.949 692.999 194.465C684.343 195.464 678.61 198.344 670 196z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M715 186L716 187L715 186M718 186L719 187L718 186M723 186L724 187L723 186z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#d1d1d1; stroke:none;" d="M734 186L735 187L734 186M736 188L737 189L736 188z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M713 189L714 190L713 189M737 189L738 190L737 189z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#e0e0e0; stroke:none;" d="M712 190L713 191L712 190z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M739 190L740 191L739 190M711 191L712 192L711 191M744 191L745 192L744 191z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#e0e0e0; stroke:none;" d="M747 192L748 193L747 192M708 193L709 194L708 193M750 193L751 194L750 193z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#d1d1d1; stroke:none;" d="M763 193L764 194L763 193z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M764.667 193.333L765.333 193.667L764.667 193.333z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#e0e0e0; stroke:none;" d="M691 194L692 195L691 194z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#d1d1d1; stroke:none;" d="M696 194L697 195L696 194z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#e0e0e0; stroke:none;" d="M706 194L707 195L706 194z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M756.667 194.333L757.333 194.667L756.667 194.333M787 194L788 195L787 194z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#e0e0e0; stroke:none;" d="M689 195L690 196L689 195z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M700 195L701 196L700 195M767 195L768 196L767 195M786 195L787 196L786 195z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#e0e0e0; stroke:none;" d="M790 195L791 196L790 195M672 196L673 197L672 196M681 196L682 197L681 196z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#d1d1d1; stroke:none;" d="M768 196L769 197L768 196z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M791 196L792 197L791 196M677 198L678 199L677 198z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#d1d1d1; stroke:none;" d="M770 198L771 199L770 198M785 198L786 199L785 198z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M668 199L669 200L668 199z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#e0e0e0; stroke:none;" d="M771 199L772 200L771 199z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M772 200L773 201L772 200z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#d1d1d1; stroke:none;" d="M783 200L784 201L783 200z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M798 200L799 201L798 200M667 201L668 202L667 201M781 201L782 202L781 201M799 201L800 202L799 201z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#d1d1d1; stroke:none;" d="M666 202L667 203L666 202z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#e0e0e0; stroke:none;" d="M775 202L776 203L775 202M800 202L801 203L800 202z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M658 204L659 205L658 204z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#d1d1d1; stroke:none;" d="M664 204L665 205L664 204z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M661.667 205.333L662.333 205.667L661.667 205.333z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#e0e0e0; stroke:none;" d="M654 207L655 208L654 207M653 208L654 209L653 208M652 209L653 210L652 209z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M651 211L652 212L651 211z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#e0e0e0; stroke:none;" d="M801 212L802 213L801 212z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M648 218L649 219L648 218z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#e0e0e0; stroke:none;" d="M646 221L647 222L646 221z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M802 223L803 224L802 223z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#d1d1d1; stroke:none;" d="M808 223L809 224L808 223z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M809 223L810 224L809 223M813 223L814 224L813 223z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#d1d1d1; stroke:none;" d="M644 224L645 225L644 224z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M818 224L819 225L818 224M820.333 226.667L820.667 227.333L820.333 226.667z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#d1d1d1; stroke:none;" d="M820.333 228.667L820.667 229.333L820.333 228.667z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#e0e0e0; stroke:none;" d="M641 230L642 231L641 230z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M820 230L821 231L820 230M636 232L637 233L636 232M819 232L820 233L819 232M818 233L819 234L818 233z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#d1d1d1; stroke:none;" d="M817 235L818 236L817 235M817 237L818 238L817 237z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#e0e0e0; stroke:none;" d="M819 239L820 240L819 239M820 240L821 241L820 240z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M635 241L636 242L635 241M822 243L823 244L822 243z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#e0e0e0; stroke:none;" d="M633 246L634 247L633 246z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#d1d1d1; stroke:none;" d="M823 246L824 247L823 246z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#e0e0e0; stroke:none;" d="M824 248L825 249L824 248z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M634 249L635 250L634 249z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#d1d1d1; stroke:none;" d="M828 249L829 250L828 249M634.333 250.667L634.667 251.333L634.333 250.667z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M830 250L831 251L830 250M840 250L841 251L840 250z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#e0e0e0; stroke:none;" d="M841 250L842 251L841 250M834 251L835 252L834 251z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M838 251L839 252L838 251z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#d1d1d1; stroke:none;" d="M843 251L844 252L843 251z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M634 252L635 253L634 252M843 252L844 253L843 252z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#d1d1d1; stroke:none;" d="M633 254L634 255L633 254z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M735 254L736 255L735 254z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#e0e0e0; stroke:none;" d="M749 254L750 255L749 254z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M750 254L751 255L750 254z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#e0e0e0; stroke:none;" d="M842 254L843 255L842 254z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M731 255L732 256L731 255M631 257L632 258L631 257M725 257L726 258L725 257M751 257L752 258L751 257z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#d1d1d1; stroke:none;" d="M630 258L631 259L630 258z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M723 258L724 259L723 258M758.667 258.333L759.333 258.667L758.667 258.333M764.667 259.333L765.333 259.667L764.667 259.333z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#e0e0e0; stroke:none;" d="M768 260L769 261L768 260z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M769 260L770 261L769 260M628 261L629 262L628 261M719 261L720 262L719 261M772 261L773 262L772 261z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#e0e0e0; stroke:none;" d="M627 262L628 263L627 262z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M776 262L777 263L776 262M716 263L717 264L716 263M780 263L781 264L780 263M782 264L782 268L783 268L782 264M713 265L714 266L713 265z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#d1d1d1; stroke:none;" d="M596 267L597 268L596 267M622 267L623 268L622 267z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M593 268L594 269L593 268M603 268L604 269L603 268z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#d1d1d1; stroke:none;" d="M604 268L605 269L604 268M619 268L620 269L619 268z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M620 268L621 269L620 268M708 268L709 269L708 268z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#e0e0e0; stroke:none;" d="M835 268L836 269L835 268z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M592 269L593 270L592 269M706 269L707 270L706 269M704 270L705 271L704 270M783 270L784 271L783 270M834 270L835 271L834 270z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#e0e0e0; stroke:none;" d="M592 271L593 272L592 271z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M702 271L703 272L702 271M784 271L785 272L784 271z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#d1d1d1; stroke:none;" d="M593 272L594 273L593 272z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M700 272L701 273L700 272M785 272L786 273L785 272M833 272L834 273L833 272M698 273L699 274L698 273M786 273L787 274L786 273M594 274L595 275L594 274M832 274L833 275L832 274z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#e0e0e0; stroke:none;" d="M594 275L595 276L594 275z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M789 275L790 276L789 275z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#d1d1d1; stroke:none;" d="M594 276L595 277L594 276z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M791 276L792 277L791 276z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#e0e0e0; stroke:none;" d="M831 276L832 277L831 276z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M793 277L794 278L793 277z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#e0e0e0; stroke:none;" d="M595 279L596 280L595 279z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M692.667 279.333L693.333 279.667L692.667 279.333z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#e0e0e0; stroke:none;" d="M694 279L695 280L694 279z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M796 279L797 280L796 279M829 279L830 280L829 279M689 280L690 281L689 280M686 281L687 282L686 281M828 281L829 282L828 281z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#e0e0e0; stroke:none;" d="M598 282L599 283L598 282M684 282L685 283L684 282z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M682 283L683 284L682 283M674 284L675 285L674 284z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#e0e0e0; stroke:none;" d="M599 285L600 286L599 285z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M669 285L670 286L669 285M675 285L676 286L675 285z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#d1d1d1; stroke:none;" d="M600 286L601 287L600 286z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M676 286L677 287L676 286M602 287L603 288L602 287M668 287L669 288L668 287M677.667 287.333L678.333 287.667L677.667 287.333z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#e0e0e0; stroke:none;" d="M668 288L669 289L668 288z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#d1d1d1; stroke:none;" d="M605 290L606 291L605 290z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M606 291L607 292L606 291z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#e0e0e0; stroke:none;" d="M664 294L665 295L664 294z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M663 295L664 296L663 295z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#e0e0e0; stroke:none;" d="M663 297L664 298L663 297z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M606 299L607 300L606 299z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#e0e0e0; stroke:none;" d="M664 299L665 300L664 299z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M605 300L606 301L605 300z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#d1d1d1; stroke:none;" d="M603 301L604 302L603 301z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M601 302L602 303L601 302M665 302L666 303L665 302M597 305L598 306L597 305z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#e0e0e0; stroke:none;" d="M592 307L593 308L592 307z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M593 307L594 308L593 307z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#d1d1d1; stroke:none;" d="M589 308L590 309L589 308z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M588 309L589 310L588 309z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#e0e0e0; stroke:none;" d="M587 310L588 311L587 310z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M586 312L587 313L586 312z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#d1d1d1; stroke:none;" d="M585 315L586 316L585 315z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#e0e0e0; stroke:none;" d="M585.333 316.667L585.667 317.333L585.333 316.667z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#d1d1d1; stroke:none;" d="M663 320L664 321L663 320z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#e0e0e0; stroke:none;" d="M661 322L660 324L661 322z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#d1d1d1; stroke:none;" d="M662 322L663 323L662 322M661 323L660 325L662 325L661 323M579 324L580 325L579 324z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M579 325L580 326L579 325z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#e0e0e0; stroke:none;" d="M559 327L560 328L559 327z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#d1d1d1; stroke:none;" d="M561 328L562 329L561 328z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M578 328L579 329L578 328z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#e0e0e0; stroke:none;" d="M577 329L578 330L577 329z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M560 330L561 331L560 330z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#e0e0e0; stroke:none;" d="M576 330L577 331L576 330z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M654 330L655 331L654 330z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#d1d1d1; stroke:none;" d="M564 331L565 332L564 331z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M575 331L576 332L575 331M561 332L562 333L561 332M651 332L652 333L651 332z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#e0e0e0; stroke:none;" d="M573 333L574 334L573 333z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M650 334L651 335L650 334M562 335L563 336L562 335M569 335L570 336L569 335z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#d1d1d1; stroke:none;" d="M570 335L571 336L570 335z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M571 335L572 336L571 335M563 337L564 338L563 337M649 337L650 338L649 337M648 340L649 341L648 340z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#e0e0e0; stroke:none;" d="M567 342L568 343L567 342z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M646 343L647 344L646 343M645 344L646 345L645 344M642 346L643 347L642 346M641 347L642 348L641 347M567 348L568 349L567 348M569 354L570 355L569 354M628 356L629 357L628 356M635 356L636 357L635 356M627 357L628 358L627 357M570 358L571 359L570 358M626 358L627 359L626 358z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#e0e0e0; stroke:none;" d="M570 359L570 362L571 362L570 359M625 360L626 361L625 360z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#d1d1d1; stroke:none;" d="M570 362L570 366L571 366L570 362z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M624 362L625 363L624 362M623 365L624 366L623 365M622 369L623 370L622 369z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#e0e0e0; stroke:none;" d="M622 370L623 371L622 370M570 371L571 372L570 371z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M622 371L623 372L622 371z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#e0e0e0; stroke:none;" d="M569 373L570 374L569 373z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#d1d1d1; stroke:none;" d="M568 374L569 375L568 374z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M567 375L568 376L567 375M623.333 376.667L623.667 377.333L623.333 376.667z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#e0e0e0; stroke:none;" d="M572 379L573 380L572 379z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M574 381L575 382L574 381z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#e0e0e0; stroke:none;" d="M574 382L575 383L574 382z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M574 383L575 384L574 383M573 385L574 386L573 385M571 387L572 388L571 387M569 388L570 389L569 388M568 389L569 390L568 389M619 390L620 391L619 390M565 392L566 393L565 392M614 392L615 393L614 392z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#e0e0e0; stroke:none;" d="M614 393L615 394L614 393z"/>
+                        <path onclick = "Kochi()" class = "Kochi" style = "fill:#ededed; stroke:none;" d="M614 398L615 399L614 398M599 405L599 406L603 406L599 405z"/>
+</svg>

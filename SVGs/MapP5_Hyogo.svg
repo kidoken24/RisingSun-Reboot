@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1450" height="800">
+                        <path onclick = "Hyogo()" class = "Hyogo" style = "fill:#010101; stroke:none;" d="M0 0L0 800L1450 800L1450 0L1037 0C1041.66 31.9804 995.371 1.16284 994 26L967 29.8812L932 13.0957L913 0.330261L890.576 2.13812L872.184 0.357239L862.985 7.82019L847 9L850 1L822 0L768 0L588 0L0 0z"/>
+                        <path onclick = "Hyogo()" class = "Hyogo" style = "fill:#d9d9d9; stroke:none;" d="M849 0L850 1L849 0z"/>
+                        <path onclick = "Hyogo()" class = "Hyogo" style = "fill:#ffffff; stroke:none;" d="M850 0L847 9C857.554 7.69525 864.017 10.703 870 0L850 0z"/>
+                        <path onclick = "Hyogo()" class = "Hyogo" style = "fill:#e5e5e5; stroke:none;" d="M876 0L877 1L876 0z"/>
+                        <path onclick = "Hyogo()" class = "Hyogo" style = "fill:#f0f0f0; stroke:none;" d="M877 0L877 1L880 1L877 0z"/>
+                        <path onclick = "Hyogo()" class = "Hyogo" style = "fill:#ffffff; stroke:none;" d="M880 0L880 1L904 1L880 0z"/>
+                        <path onclick = "Hyogo()" class = "Hyogo" style = "fill:#f0f0f0; stroke:none;" d="M904 0L905 1L904 0z"/>
+                        <path onclick = "Hyogo()" class = "Hyogo" style = "fill:#e5e5e5; stroke:none;" d="M905 0L906 1L905 0z"/>
+                        <path onclick = "Hyogo()" class = "Hyogo" style = "fill:#f0f0f0; stroke:none;" d="M914 0L915 1L914 0z"/>
+                        <path onclick = "Hyogo()" class = "Hyogo" style = "fill:#ffffff; stroke:none;" d="M915 0C927.909 9.77338 939.994 18.8056 955 25.2809C960.589 27.6926 966.712 31.4877 973 30.5208C978.159 29.7276 988.334 28.1582 992.416 24.8604C996.278 21.7402 996.488 17.8325 1002 16.1744C1010.71 13.554 1021.69 19.2632 1029 16.3966C1033.92 14.4662 1039.56 8.84192 1037.1 3.14813C1034.37 -3.17218 1013.93 0 1008 0L915 0z"/>
+                        <path onclick = "Hyogo()" class = "Hyogo" style = "fill:#e5e5e5; stroke:none;" d="M1036 0L1037 1L1036 0M869 1L870 2L869 1M883.667 1.33331L884.333 1.66669L883.667 1.33331z"/>
+                        <path onclick = "Hyogo()" class = "Hyogo" style = "fill:#f0f0f0; stroke:none;" d="M885 1L886 2L885 1M899.667 1.33331L900.333 1.66669L899.667 1.33331M917 1L918 2L917 1M868 2L869 3L868 2z"/>
+                        <path onclick = "Hyogo()" class = "Hyogo" style = "fill:#e5e5e5; stroke:none;" d="M891 2L892 3L891 2z"/>
+                        <path onclick = "Hyogo()" class = "Hyogo" style = "fill:#f0f0f0; stroke:none;" d="M920 3L921 4L920 3M1037 3L1038 4L1037 3M848 4L849 5L848 4z"/>
+                        <path onclick = "Hyogo()" class = "Hyogo" style = "fill:#e5e5e5; stroke:none;" d="M867 4L868 5L867 4M921 4L922 5L921 4z"/>
+                        <path onclick = "Hyogo()" class = "Hyogo" style = "fill:#f0f0f0; stroke:none;" d="M866 5L867 6L866 5z"/>
+                        <path onclick = "Hyogo()" class = "Hyogo" style = "fill:#e5e5e5; stroke:none;" d="M922 5L923 6L922 5z"/>
+                        <path onclick = "Hyogo()" class = "Hyogo" style = "fill:#d9d9d9; stroke:none;" d="M1038.33 5.66669L1038.67 6.33331L1038.33 5.66669z"/>
+                        <path onclick = "Hyogo()" class = "Hyogo" style = "fill:#f0f0f0; stroke:none;" d="M850.667 8.33331L851.333 8.66669L850.667 8.33331z"/>
+                        <path onclick = "Hyogo()" class = "Hyogo" style = "fill:#e5e5e5; stroke:none;" d="M852 8L853 9L852 8M855 8L856 9L855 8z"/>
+                        <path onclick = "Hyogo()" class = "Hyogo" style = "fill:#f0f0f0; stroke:none;" d="M928 10L929 11L928 10M1036 10L1037 11L1036 10M929 11L930 12L929 11z"/>
+                        <path onclick = "Hyogo()" class = "Hyogo" style = "fill:#e5e5e5; stroke:none;" d="M930 12L931 13L930 12z"/>
+                        <path onclick = "Hyogo()" class = "Hyogo" style = "fill:#f0f0f0; stroke:none;" d="M932 13L933 14L932 13M1033 13L1034 14L1033 13M934 14L935 15L934 14M1014 14L1014 15L1017 15L1014 14z"/>
+                        <path onclick = "Hyogo()" class = "Hyogo" style = "fill:#d9d9d9; stroke:none;" d="M1032 14L1033 15L1032 14z"/>
+                        <path onclick = "Hyogo()" class = "Hyogo" style = "fill:#e5e5e5; stroke:none;" d="M935 15L936 16L935 15z"/>
+                        <path onclick = "Hyogo()" class = "Hyogo" style = "fill:#f0f0f0; stroke:none;" d="M1004 15L1005 16L1004 15z"/>
+                        <path onclick = "Hyogo()" class = "Hyogo" style = "fill:#e5e5e5; stroke:none;" d="M1005.67 15.3333L1006.33 15.6667L1005.67 15.3333z"/>
+                        <path onclick = "Hyogo()" class = "Hyogo" style = "fill:#d9d9d9; stroke:none;" d="M1007 15L1008 16L1007 15M1019 15L1020 16L1019 15z"/>
+                        <path onclick = "Hyogo()" class = "Hyogo" style = "fill:#f0f0f0; stroke:none;" d="M1020 15L1021 16L1020 15M1030 15L1031 16L1030 15M937 16L938 17L937 16z"/>
+                        <path onclick = "Hyogo()" class = "Hyogo" style = "fill:#e5e5e5; stroke:none;" d="M1000 16L1001 17L1000 16z"/>
+                        <path onclick = "Hyogo()" class = "Hyogo" style = "fill:#d9d9d9; stroke:none;" d="M1001 16L1002 17L1001 16z"/>
+                        <path onclick = "Hyogo()" class = "Hyogo" style = "fill:#e5e5e5; stroke:none;" d="M1023 16L1024 17L1023 16z"/>
+                        <path onclick = "Hyogo()" class = "Hyogo" style = "fill:#d9d9d9; stroke:none;" d="M1029 16L1030 17L1029 16z"/>
+                        <path onclick = "Hyogo()" class = "Hyogo" style = "fill:#f0f0f0; stroke:none;" d="M939 17L940 18L939 17M997 17L998 18L997 17z"/>
+                        <path onclick = "Hyogo()" class = "Hyogo" style = "fill:#d9d9d9; stroke:none;" d="M1025 17L1026 18L1025 17z"/>
+                        <path onclick = "Hyogo()" class = "Hyogo" style = "fill:#f0f0f0; stroke:none;" d="M1026 17L1027 18L1026 17M941 18L942 19L941 18z"/>
+                        <path onclick = "Hyogo()" class = "Hyogo" style = "fill:#d9d9d9; stroke:none;" d="M996 18L997 19L996 18z"/>
+                        <path onclick = "Hyogo()" class = "Hyogo" style = "fill:#e5e5e5; stroke:none;" d="M942 19L943 20L942 19M944 20L945 21L944 20M994 20L995 21L994 20M946 21L947 22L946 21M948 22L949 23L948 22M950 23L951 24L950 23M952 24L953 25L952 24z"/>
+                        <path onclick = "Hyogo()" class = "Hyogo" style = "fill:#f0f0f0; stroke:none;" d="M953 24L954 25L953 24M955 25L956 26L955 25M992 25L993 26L992 25z"/>
+                        <path onclick = "Hyogo()" class = "Hyogo" style = "fill:#e5e5e5; stroke:none;" d="M993 25L994 26L993 25z"/>
+                        <path onclick = "Hyogo()" class = "Hyogo" style = "fill:#f0f0f0; stroke:none;" d="M957 26L958 27L957 26M980 28L981 29L980 28z"/>
+</svg>

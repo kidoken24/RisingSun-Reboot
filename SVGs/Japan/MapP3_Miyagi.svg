@@ -1,0 +1,79 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1450" height="800">
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#010101; stroke:none;" d="M0 0L0 800L1450 800L1450 0L611 0C615.318 5.21191 621.19 6.25439 620 14L612 11L616 24C602.21 26.192 610.614 32.9284 619 35L619 36L612 39L612 41C622.508 44.3057 619.38 52.1443 619 61L607 53C609.228 48.1823 606.869 45.9943 602 45C606.337 35.9278 599.351 34.6747 592 37C588.01 24.3577 552.965 34.8534 559 51L543 51C543.776 58.0197 538.429 59.3555 534.329 64.0432C529.647 69.396 526.207 76.5013 523.427 83C514.923 102.887 516.102 121.072 517 142C499.21 136.952 509.212 164.758 492 164.82C487.616 164.836 479.347 163.383 477.388 158.787C474.635 152.328 480.6 146.586 471.957 142C463.114 137.308 452.673 143.013 444.133 139.397C439.106 137.268 439.915 130.259 433.985 128.576C423.615 125.634 408.262 136.473 408.004 118L408 110C412.704 110.202 417.35 111.548 422 110.211C442.271 104.382 436.891 76.3207 443.352 62C448.818 49.8834 462.121 35.2763 463.627 22C464.466 14.608 457.023 8.16168 457 0L0 0z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#ffffff; stroke:none;" d="M457 0C457.023 8.11639 464.369 14.7449 463.616 22C462.202 35.6205 448.071 49.339 443.119 62C439.518 71.2055 442.976 81.3 437.907 90C434.912 95.1398 432.551 103.543 427.891 107.2C418.269 114.752 407.004 105.009 408.835 120.999C409.049 122.868 408.959 124.964 410.028 126.606C414.771 133.889 425.553 127.227 432 128.243C439.113 129.365 438.619 137.073 444.133 139.397C452.242 142.814 462.147 137.246 470.996 141.572C480.491 146.213 474.578 151.941 477.388 158.892C479.837 164.948 489.782 164.259 495 163.957C509.84 163.099 498.599 141.445 517 141C513.822 115.851 516.575 93.0595 530.003 71C533.496 65.2623 538.406 62.4167 542.387 57.4714C544.439 54.9217 543.565 51.0097 547.098 49.618C550.684 48.2056 555.383 50.4683 559 51C553.26 33.2084 581.252 29.9084 592.424 34.9768C598.707 37.8271 605.659 34.6245 602 45C606.361 46.5056 608.263 48.3564 607 53L619 61C619.701 52.1155 622.385 44.0753 612 41L612 39L619 36L619 35C611.079 33.3597 603.015 27.5726 615 24L612 11L620 14C622.684 -3.4707 594.461 0 584 0L457 0z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#eeeeee; stroke:none;" d="M610 0L611 1L610 0M611 1L612 2L611 1z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#e0e0e0; stroke:none;" d="M614 3L615 4L614 3z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#eeeeee; stroke:none;" d="M617 5L618 6L617 5M619 6L620 7L619 6M620 7L621 8L620 7M457 8L458 9L457 8M458 10L459 11L458 10M620 11L621 12L620 11z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#d2d2d2; stroke:none;" d="M460 13L461 14L460 13z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#eeeeee; stroke:none;" d="M612 13L613 14L612 13M618 13L619 14L618 13M461 14L462 15L461 14M463 17L464 18L463 17M615.333 22.6667L615.667 23.3333L615.333 22.6667M463 23L464 24L463 23M612 24L613 25L612 24M462 26L463 27L462 26M608 26L609 27L608 26M607 27L608 28L607 27M461 28L462 29L461 28z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#d2d2d2; stroke:none;" d="M459 31L460 32L459 31z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#eeeeee; stroke:none;" d="M580 31L580 32L583 32L580 31z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#e0e0e0; stroke:none;" d="M583 31L584 32L583 31z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#eeeeee; stroke:none;" d="M585 31L585 32L588 32L585 31M576 32L577 33L576 32z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#e0e0e0; stroke:none;" d="M589 32L590 33L589 32z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#eeeeee; stroke:none;" d="M609 32L610 33L609 32M458 33L459 34L458 33M572 33L573 34L572 33z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#e0e0e0; stroke:none;" d="M570 34L571 35L570 34z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#eeeeee; stroke:none;" d="M616.667 34.3333L617.333 34.6667L616.667 34.3333M457 35L458 36L457 35M567 35L568 36L567 35M596 35L597 36L596 35M601 35L602 36L601 35M565 36L566 37L565 36M592.667 36.3333L593.333 36.6667L592.667 36.3333M617 36L618 37L617 36M456 37L457 38L456 37M615 37L616 38L615 37z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#d2d2d2; stroke:none;" d="M455 38L456 39L455 38z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#eeeeee; stroke:none;" d="M613 38L614 39L613 38M560 39L561 40L560 39M559 40L560 41L559 40M453 41L454 42L453 41M613 41L614 42L613 41z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#d2d2d2; stroke:none;" d="M452 42L453 43L452 42z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#eeeeee; stroke:none;" d="M617 42L618 43L617 42M556 43L557 44L556 43M451 44L452 45L451 44M619.333 44.6667L619.667 45.3333L619.333 44.6667M557 46L558 47L557 46z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#e0e0e0; stroke:none;" d="M450 49L451 50L450 49z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#eeeeee; stroke:none;" d="M545 49L546 50L545 49M552 49L553 50L552 49M555 50L556 51L555 50z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#d2d2d2; stroke:none;" d="M448 53L449 54L448 53z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#eeeeee; stroke:none;" d="M445 57L446 58L445 57M541 58L542 59L541 58M536 61L537 62L536 61M535 62L536 63L535 62z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#e0e0e0; stroke:none;" d="M442 63L443 64L442 63z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#eeeeee; stroke:none;" d="M532 66L533 67L532 66z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#e0e0e0; stroke:none;" d="M441 67L442 68L441 67z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#eeeeee; stroke:none;" d="M529 71L530 72L529 71M526 76L527 77L526 76M525 78L526 79L525 78M524 80L525 81L524 80z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#d2d2d2; stroke:none;" d="M440 83L441 84L440 83z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#e0e0e0; stroke:none;" d="M440 84L441 85L440 84z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#eeeeee; stroke:none;" d="M522 85L523 86L522 85z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#e0e0e0; stroke:none;" d="M439 87L440 88L439 87z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#eeeeee; stroke:none;" d="M521 87L522 88L521 87M438 89L439 90L438 89M520 90L521 91L520 90M436 92L437 93L436 92z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#d2d2d2; stroke:none;" d="M435 93L436 94L435 93z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#eeeeee; stroke:none;" d="M519 93L520 94L519 93M434 95L435 96L434 95M518 97L519 98L518 97M432 99L433 100L432 99M517 101L518 102L517 101z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#d2d2d2; stroke:none;" d="M431 103L432 104L431 103z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#eeeeee; stroke:none;" d="M430 105L431 106L430 105M429 106L430 107L429 106M516 106L517 107L516 106z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#e0e0e0; stroke:none;" d="M426 108L427 109L426 108M424 109L425 110L424 109z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#d2d2d2; stroke:none;" d="M408 110L409 111L408 110z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#eeeeee; stroke:none;" d="M412 110L413 111L412 110z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#d2d2d2; stroke:none;" d="M413 110L414 111L413 110M421 110L422 111L421 110z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#eeeeee; stroke:none;" d="M515 114L515 119L516 119L515 114M408 118L409 119L408 118z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#e0e0e0; stroke:none;" d="M408 119L408 124L409 124L408 119z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#eeeeee; stroke:none;" d="M515 123L515 129L516 129L515 123z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#d2d2d2; stroke:none;" d="M408 124L409 125L408 124z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#eeeeee; stroke:none;" d="M411 128L412 129L411 128M426 128L427 129L426 128z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#d2d2d2; stroke:none;" d="M427 128L428 129L427 128M434 128L435 129L434 128z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#eeeeee; stroke:none;" d="M413 129L414 130L413 129z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#e0e0e0; stroke:none;" d="M422 129L423 130L422 129M416.667 130.333L417.333 130.667L416.667 130.333M439 132L440 133L439 132M440 135L441 136L440 135z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#eeeeee; stroke:none;" d="M516.333 136.667L516.667 137.333L516.333 136.667M441 138L442 139L441 138z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#e0e0e0; stroke:none;" d="M442 139L443 140L442 139z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#eeeeee; stroke:none;" d="M452 139L453 140L452 139z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#e0e0e0; stroke:none;" d="M453.667 139.333L454.333 139.667L453.667 139.333z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#d2d2d2; stroke:none;" d="M455.667 139.333L456.333 139.667L455.667 139.333M459 139L459 140L462 140L459 139z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#e0e0e0; stroke:none;" d="M462 139L463 140L462 139z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#eeeeee; stroke:none;" d="M463 139L464 140L463 139z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#e0e0e0; stroke:none;" d="M468 140L469 141L468 140z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#eeeeee; stroke:none;" d="M471 141L472 142L471 141M516 141L517 142L516 141M473 142L474 143L473 142z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#e0e0e0; stroke:none;" d="M508 142L509 143L508 142z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#d2d2d2; stroke:none;" d="M474 143L475 144L474 143M507 143L508 144L507 143z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#e0e0e0; stroke:none;" d="M506 144L507 145L506 144M476 145L477 146L476 145z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#d2d2d2; stroke:none;" d="M477 147L478 148L477 147z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#eeeeee; stroke:none;" d="M504 147L505 148L504 147z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#e0e0e0; stroke:none;" d="M503 150L504 151L503 150z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#eeeeee; stroke:none;" d="M477 154L478 155L477 154z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#d2d2d2; stroke:none;" d="M503 154L504 155L503 154z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#eeeeee; stroke:none;" d="M503 155L504 156L503 155z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#d2d2d2; stroke:none;" d="M476 156L477 157L476 156z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#eeeeee; stroke:none;" d="M476 158L477 159L476 158z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#e0e0e0; stroke:none;" d="M477 160L478 161L477 160z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#eeeeee; stroke:none;" d="M503 160L504 161L503 160M501 162L502 163L501 162z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#d2d2d2; stroke:none;" d="M483 163L484 164L483 163z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#e0e0e0; stroke:none;" d="M499 163L500 164L499 163z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#d2d2d2; stroke:none;" d="M488 164L489 165L488 164z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#e0e0e0; stroke:none;" d="M489 164L490 165L489 164z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#eeeeee; stroke:none;" d="M490 164L490 165L495 165L490 164z"/>
+                        <path onclick = "Miyagi()" class = "Miyagi" style = "fill:#d2d2d2; stroke:none;" d="M495 164L496 165L495 164z"/>
+</svg>
